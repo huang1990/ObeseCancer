@@ -1,0 +1,81 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-VD-AA8S"	"stage iia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"not reported"	"male"	40	NA	0.93
+"TCGA-WC-A883"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.92
+"TCGA-YZ-A980"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	75	"overweight"	0.46
+"TCGA-V4-A9EV"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.75
+"TCGA-V4-A9EI"	"stage iiib"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	78	"overweight"	0.93
+"TCGA-V4-A9ED"	"stage iiia"	"Ciliary body"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	45	"overweight"	0.92
+"TCGA-VD-A8KB"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	66	NA	0.99
+"TCGA-VD-A8KH"	"stage iiib"	"Overlapping lesion of eye and adnexa"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	69	NA	0.95
+"TCGA-WC-A87W"	"stage iia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.98
+"TCGA-V4-A9EW"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	44	"normal"	0.68
+"TCGA-VD-AA8R"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	78	NA	0.94
+"TCGA-WC-AA9A"	"stage iia"	"Choroid"	"Spindle cell melanoma, NOS"	"yes"	NA	NA	"white"	"female"	70	"normal"	1.0
+"TCGA-V4-A9E5"	"stage iiib"	"Choroid"	"Malignant melanoma, NOS"	"no"	NA	NA	"white"	"female"	51	"normal"	1.0
+"TCGA-V4-A9EA"	"stage iiia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	66	"overweight"	1.0
+"TCGA-VD-A8KM"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	65	NA	0.46
+"TCGA-YZ-A984"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	50	"overweight"	0.93
+"TCGA-WC-A87U"	"stage iiia"	"Overlapping lesion of eye and adnexa"	"Spindle cell melanoma, type B"	"yes"	NA	NA	"white"	"male"	73	"overweight"	1.0
+"TCGA-V4-A9E9"	"stage iiia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	50	"overweight"	1.0
+"TCGA-WC-A881"	"stage iib"	"Choroid"	"Spindle cell melanoma, NOS"	"yes"	NA	NA	"white"	"male"	75	"overweight"	0.98
+"TCGA-RZ-AB0B"	"stage iv"	"Overlapping lesion of eye and adnexa"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	47	"obesity"	0.93
+"TCGA-WC-A880"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	63	"overweight"	0.96
+"TCGA-V4-A9EF"	"stage iiib"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	56	"overweight"	0.97
+"TCGA-V3-A9ZX"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	56	NA	0.83
+"TCGA-YZ-A983"	"stage iib"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"female"	51	"normal"	0.94
+"TCGA-WC-A884"	"stage iiib"	"Overlapping lesion of eye and adnexa"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	35	"obesity"	0.83
+"TCGA-V4-A9E8"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	49	"overweight"	0.84
+"TCGA-VD-A8KL"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	77	NA	0.98
+"TCGA-WC-AA9E"	"stage iia"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.97
+"TCGA-VD-A8K8"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	56	NA	0.93
+"TCGA-V4-A9F7"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	78	NA	1.0
+"TCGA-V4-A9ET"	"stage iiib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	57	"obesity"	1.0
+"TCGA-WC-A87Y"	"not reported"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	59	"obesity"	0.7
+"TCGA-VD-A8KN"	"stage iia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	60	NA	0.91
+"TCGA-VD-A8KA"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	22	NA	1.0
+"TCGA-WC-A885"	"stage iia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.94
+"TCGA-V3-A9ZY"	"stage iib"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	54	NA	0.98
+"TCGA-VD-A8K9"	"stage iia"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"female"	71	NA	0.99
+"TCGA-VD-A8KO"	"stage iia"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"male"	51	NA	0.99
+"TCGA-V4-A9F4"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	41	"obesity"	0.91
+"TCGA-VD-A8K7"	"stage iiia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"not reported"	"male"	39	NA	1.0
+"TCGA-V4-A9EE"	"stage iib"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	86	"obesity"	0.92
+"TCGA-V4-A9EK"	"stage iib"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	37	"normal"	0.93
+"TCGA-V4-A9EY"	"stage iiia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.65
+"TCGA-V4-A9EH"	"stage iiib"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.71
+"TCGA-V4-A9EQ"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	64	"normal"	0.99
+"TCGA-V4-A9EC"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	75	"normal"	1.0
+"TCGA-YZ-A985"	"stage iiia"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	41	"obesity"	0.99
+"TCGA-V4-A9F2"	"stage iiia"	"Ciliary body"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	78	"normal"	0.9
+"TCGA-VD-AA8T"	"stage iia"	"Overlapping lesion of eye and adnexa"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"not reported"	"female"	83	NA	0.98
+"TCGA-WC-A87T"	"stage iib"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.87
+"TCGA-VD-A8KG"	"stage iia"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"female"	47	NA	0.93
+"TCGA-VD-AA8P"	"stage iib"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"female"	64	NA	1.0
+"TCGA-VD-A8KE"	"stage iia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"female"	74	NA	0.96
+"TCGA-WC-A882"	"stage iib"	"Overlapping lesion of eye and adnexa"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	50	"overweight"	0.88
+"TCGA-WC-A88A"	"stage iv"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	75	"obesity"	0.94
+"TCGA-V4-A9F1"	"stage iib"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"female"	46	"normal"	0.89
+"TCGA-YZ-A982"	"stage iiib"	"Overlapping lesion of eye and adnexa"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"female"	79	"obesity"	0.97
+"TCGA-WC-A888"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	76	"normal"	1.0
+"TCGA-V4-A9F0"	"stage iiib"	"Ciliary body"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.82
+"TCGA-VD-A8KK"	"stage iiia"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"male"	54	NA	0.97
+"TCGA-VD-AA8Q"	"stage iib"	"Choroid"	"Spindle cell melanoma, type B"	"no"	NA	NA	"not reported"	"male"	71	NA	0.93
+"TCGA-VD-A8KD"	"stage iv"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	72	NA	0.83
+"TCGA-VD-AA8M"	"stage iia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	64	NA	1.0
+"TCGA-V4-A9EM"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.97
+"TCGA-V4-A9EZ"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	78	"normal"	0.96
+"TCGA-VD-A8KI"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	68	NA	0.95
+"TCGA-VD-A8KF"	"stage iiib"	"Overlapping lesion of eye and adnexa"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	68	NA	1.0
+"TCGA-V4-A9EX"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"female"	55	"overweight"	0.93
+"TCGA-V4-A9E7"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"male"	76	"normal"	1.0
+"TCGA-V4-A9F8"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	68	"normal"	1.0
+"TCGA-V4-A9EU"	"stage iiic"	"Ciliary body"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"female"	83	"normal"	0.97
+"TCGA-V4-A9EL"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"yes"	NA	NA	"white"	"male"	60	"overweight"	0.86
+"TCGA-VD-AA8N"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	86	NA	0.82
+"TCGA-V4-A9EO"	"stage iiia"	"Ciliary body"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"male"	74	"normal"	0.98
+"TCGA-VD-AA8O"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	77	NA	0.9
+"TCGA-V4-A9F5"	"stage iv"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	85	"obesity"	1.0
+"TCGA-V4-A9EJ"	"stage iib"	"Choroid"	"Spindle cell melanoma, NOS"	"no"	NA	NA	"white"	"male"	38	"normal"	0.95
+"TCGA-V4-A9ES"	"stage iiia"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"white"	"female"	54	"overweight"	1.0
+"TCGA-V4-A9F3"	"stage iiia"	"Choroid"	"Epithelioid cell melanoma"	"no"	NA	NA	"white"	"female"	49	"obesity"	0.72
+"TCGA-VD-A8KJ"	"stage iib"	"Choroid"	"Mixed epithelioid and spindle cell melanoma"	"no"	NA	NA	"not reported"	"male"	53	NA	0.99

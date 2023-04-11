@@ -1,0 +1,186 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-JY-A93F"	"stage ib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"overweight"	0.7
+"TCGA-Z6-A9VB"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"normal"	0.72
+"TCGA-LN-A49Y"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	77	"normal"	0.95
+"TCGA-S8-A6BV"	"stage iiia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	76	"overweight"	0.41
+"TCGA-VR-A8ET"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	NA
+"TCGA-L5-A4OF"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"obesity"	0.58
+"TCGA-V5-AASV"	"stage iib"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	1.64383561643836	NA	"black or african american"	"male"	67	"normal"	0.74
+"TCGA-LN-A49R"	"stage iii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"asian"	"male"	46	"normal"	0.75
+"TCGA-L5-A8NN"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"male"	81	"normal"	0.59
+"TCGA-2H-A9GQ"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	80	"overweight"	0.85
+"TCGA-LN-A49W"	"stage iii"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"asian"	"male"	73	"normal"	NA
+"TCGA-Z6-AAPN"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.0547945205479452	NA	"white"	"male"	57	"overweight"	0.35
+"TCGA-V5-A7RB"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"not reported"	"male"	59	"obesity"	0.61
+"TCGA-L5-A8NH"	"stage iv"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.72
+"TCGA-L5-A4OX"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.57534246575342	NA	"white"	"male"	60	"obesity"	0.71
+"TCGA-L5-A8NT"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	1.42465753424658	NA	"white"	"male"	69	"overweight"	0.5
+"TCGA-R6-A6Y0"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"obesity"	NA
+"TCGA-LN-A4MR"	"stage iia"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	57	"normal"	0.5
+"TCGA-Q9-A6FU"	"stage iiib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"yes"	2.9041095890411	NA	"white"	"female"	57	"normal"	0.67
+"TCGA-L5-A8NS"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	4.38356164383562	NA	"white"	"male"	76	"overweight"	0.64
+"TCGA-L5-A4OW"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"not reported"	"female"	56	"obesity"	0.53
+"TCGA-VR-A8EY"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	"overweight"	0.74
+"TCGA-JY-A6FA"	"stage iib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"asian"	"male"	51	"normal"	0.78
+"TCGA-L5-A88W"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	"normal"	0.71
+"TCGA-L5-A4OQ"	"stage iiia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.91780821917808	NA	"white"	"male"	75	"obesity"	NA
+"TCGA-L5-A8NG"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	5.47945205479452	NA	"white"	"male"	77	"overweight"	0.54
+"TCGA-LN-A9FQ"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	62	"normal"	0.78
+"TCGA-2H-A9GM"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	53	"normal"	NA
+"TCGA-XP-A8T6"	"stage iib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"black or african american"	"male"	54	NA	0.47
+"TCGA-IG-A6QS"	"stage iib"	"Lower third of esophagus"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.86301369863014	NA	"white"	"male"	54	"normal"	0.73
+"TCGA-LN-A5U7"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.26027397260274	NA	"asian"	"male"	46	"normal"	0.77
+"TCGA-V5-AASW"	"not reported"	"Esophagus, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	72	"overweight"	0.73
+"TCGA-XP-A8T8"	"stage iib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.04109589041096	NA	"black or african american"	"male"	49	NA	0.64
+"TCGA-VR-A8EU"	"stage iv"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"male"	51	NA	0.57
+"TCGA-L5-A43J"	"stage iib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"yes"	2.95890410958904	NA	"white"	"male"	90	"normal"	0.64
+"TCGA-JY-A93C"	"stage iiib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"male"	47	"normal"	0.66
+"TCGA-LN-A49O"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"asian"	"male"	47	"normal"	0.58
+"TCGA-L5-A4OI"	"stage iiic"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	2.63013698630137	NA	"white"	"male"	79	"overweight"	0.83
+"TCGA-L5-A88S"	"stage ib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"male"	84	"normal"	0.46
+"TCGA-2H-A9GG"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	66	"normal"	NA
+"TCGA-IG-A3I8"	"stage iia"	"Esophagus, NOS"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	51	NA	0.62
+"TCGA-R6-A6XQ"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.95890410958904	NA	"white"	"male"	58	"overweight"	0.79
+"TCGA-LN-A4A5"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	49	"normal"	0.3
+"TCGA-R6-A8WG"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.65
+"TCGA-VR-AA7B"	"stage iv"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"normal"	0.59
+"TCGA-VR-AA7I"	"stage iii"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	70	"normal"	NA
+"TCGA-2H-A9GO"	"stage iva"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	58	"overweight"	0.56
+"TCGA-L5-A8NK"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"white"	"female"	84	"overweight"	0.45
+"TCGA-ZR-A9CJ"	"stage iiic"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	65	NA	0.33
+"TCGA-L5-A4OR"	"stage ia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	83	"obesity"	0.62
+"TCGA-IG-A3YA"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.05479452054795	NA	"white"	"male"	53	"normal"	0.23
+"TCGA-JY-A93D"	"stage iiic"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	NA	0.33
+"TCGA-LN-A7HX"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.73972602739726	NA	"asian"	"male"	72	"normal"	0.58
+"TCGA-X8-AAAR"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	4.10958904109589	NA	"white"	"male"	69	"obesity"	0.76
+"TCGA-JY-A6FE"	"stage iii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.58904109589041	NA	"white"	"male"	49	"normal"	0.71
+"TCGA-L5-A8NU"	"stage iia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	84	NA	0.24
+"TCGA-JY-A6FH"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.80821917808219	NA	"white"	"male"	53	"overweight"	0.86
+"TCGA-JY-A6FD"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	51	"overweight"	0.44
+"TCGA-L5-A4OP"	"stage ia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"female"	67	"obesity"	0.72
+"TCGA-R6-A6XG"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.79
+"TCGA-L5-A8NI"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	79	NA	0.65
+"TCGA-L5-A8NW"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"male"	55	"obesity"	0.62
+"TCGA-R6-A6DN"	"not reported"	"Middle third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.438356164383562	NA	"white"	"male"	58	"obesity"	0.73
+"TCGA-L5-A43I"	"stage iiia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	2.46575342465753	NA	"white"	"male"	77	"obesity"	0.67
+"TCGA-L7-A56G"	"not reported"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	65	"obesity"	0.55
+"TCGA-L5-A43M"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	84	"obesity"	0.35
+"TCGA-IG-A97I"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"normal"	0.63
+"TCGA-VR-AA4D"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.74
+"TCGA-2H-A9GL"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	74	"overweight"	0.75
+"TCGA-LN-A8I1"	"stage iia"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	67	"overweight"	0.63
+"TCGA-L5-A4ON"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"male"	65	"obesity"	NA
+"TCGA-LN-A5U5"	"stage iv"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	57	NA	NA
+"TCGA-IG-A8O2"	"stage iiib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"asian"	"male"	62	"normal"	0.64
+"TCGA-JY-A6FG"	"stage iii"	"Cardia, NOS"	"Squamous cell carcinoma, NOS"	"no"	0.328767123287671	NA	"white"	"male"	50	"obesity"	0.74
+"TCGA-V5-AASX"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"overweight"	0.66
+"TCGA-L5-A4OS"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	86	"normal"	0.37
+"TCGA-VR-A8ER"	"stage iii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.671232876712329	NA	"not reported"	"male"	54	NA	0.65
+"TCGA-LN-A49N"	"stage iib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.5
+"TCGA-L5-A4OT"	"stage iv"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	77	"obesity"	0.47
+"TCGA-LN-A49X"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	44	NA	0.28
+"TCGA-V5-A7RE"	"stage ib"	"Middle third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	45	"overweight"	0.64
+"TCGA-JY-A6F8"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	56	"overweight"	0.71
+"TCGA-L5-A8NQ"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	71	"overweight"	0.19
+"TCGA-IC-A6RF"	"stage ia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"yes"	1.20547945205479	NA	"white"	"female"	69	"obesity"	NA
+"TCGA-L5-A43E"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"male"	74	"normal"	0.61
+"TCGA-JY-A6FB"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	77	"obesity"	0.64
+"TCGA-L5-A88Z"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"normal"	0.8
+"TCGA-VR-AA7D"	"stage iiic"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"not reported"	"male"	58	"normal"	0.7
+"TCGA-R6-A8W8"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	4.16438356164384	NA	"white"	"male"	72	"obesity"	0.72
+"TCGA-R6-A6DQ"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"normal"	NA
+"TCGA-IG-A3Y9"	"stage iiia"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	72	"overweight"	0.27
+"TCGA-LN-A7HY"	"stage iii"	"Upper third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.53
+"TCGA-R6-A8W5"	"stage iva"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.24657534246575	NA	"white"	"male"	60	"normal"	0.5
+"TCGA-M9-A5M8"	"stage iia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"not reported"	"male"	58	NA	0.63
+"TCGA-LN-A9FO"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	42	"normal"	0.6
+"TCGA-2H-A9GF"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	67	"overweight"	0.68
+"TCGA-L5-A8NE"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	3.17808219178082	NA	"white"	"male"	77	"obesity"	0.64
+"TCGA-LN-A9FP"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	60	"normal"	0.2
+"TCGA-L5-A8NF"	"stage iva"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	57	"overweight"	0.79
+"TCGA-VR-A8EP"	"stage iiib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.95890410958904	NA	"white"	"male"	51	"normal"	0.44
+"TCGA-IG-A625"	"stage iiib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	60	NA	0.74
+"TCGA-L5-A88V"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"male"	60	"normal"	0.77
+"TCGA-2H-A9GN"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	70	"normal"	0.75
+"TCGA-L5-A8NL"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	56	"obesity"	0.42
+"TCGA-LN-A49L"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	44	"normal"	0.65
+"TCGA-L5-A88Y"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	2.73972602739726	NA	"white"	"male"	76	"normal"	NA
+"TCGA-L5-A88T"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	0.958904109589041	NA	"white"	"male"	86	"overweight"	NA
+"TCGA-IG-A3YB"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"overweight"	0.58
+"TCGA-LN-A4A4"	"stage iii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	36	"normal"	0.64
+"TCGA-LN-A49V"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"asian"	"male"	49	"normal"	0.92
+"TCGA-L5-A4OE"	"stage iiib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	2.08219178082192	NA	"white"	"male"	81	NA	0.44
+"TCGA-L5-A4OH"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	71	"obesity"	0.63
+"TCGA-2H-A9GR"	"stage iia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	80	"normal"	0.58
+"TCGA-L5-A4OO"	"stage iiic"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.136986301369863	NA	"white"	"male"	75	"normal"	0.43
+"TCGA-Q9-A6FW"	"stage iiib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	4.10958904109589	NA	"white"	"male"	61	"overweight"	0.56
+"TCGA-LN-A49M"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	62	"normal"	NA
+"TCGA-VR-A8EZ"	"stage iiic"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.46575342465753	NA	"white"	"male"	47	"normal"	0.68
+"TCGA-R6-A6L4"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.602739726027397	NA	"white"	"male"	27	"obesity"	0.61
+"TCGA-JY-A939"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"overweight"	0.21
+"TCGA-R6-A6KZ"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	42	"normal"	0.47
+"TCGA-L5-A893"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.84931506849315	NA	"white"	"female"	71	"overweight"	0.36
+"TCGA-L5-A4OG"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"yes"	1.64383561643836	NA	"white"	"female"	79	"overweight"	0.44
+"TCGA-L5-A8NJ"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"overweight"	0.85
+"TCGA-IC-A6RE"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	59	"obesity"	0.54
+"TCGA-L5-A8NM"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	84	NA	0.27
+"TCGA-VR-A8EX"	"stage iva"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"not reported"	"male"	63	"normal"	0.48
+"TCGA-L5-A43C"	"not reported"	"Lower third of esophagus"	"Mucinous adenocarcinoma"	"no"	4.27397260273973	NA	"white"	"male"	81	"obesity"	0.22
+"TCGA-VR-A8EO"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	49	"normal"	NA
+"TCGA-2H-A9GI"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	68	"overweight"	0.6
+"TCGA-L5-A8NV"	"stage iia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	"normal"	0.41
+"TCGA-Z6-A8JE"	"stage iiia"	"Upper third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"normal"	0.66
+"TCGA-IG-A3YC"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	62	"normal"	0.25
+"TCGA-IG-A51D"	"stage iib"	"Upper third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"normal"	0.38
+"TCGA-LN-A9FR"	"stage iib"	"Upper third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	70	"normal"	0.56
+"TCGA-IG-A7DP"	"stage iiia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	50	"normal"	0.23
+"TCGA-L5-A891"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"normal"	0.87
+"TCGA-L5-A4OJ"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.78
+"TCGA-VR-A8EW"	"stage iiib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"asian"	"male"	57	NA	0.53
+"TCGA-R6-A6Y2"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	3.83561643835616	NA	"white"	"male"	71	"obesity"	0.48
+"TCGA-L5-A43H"	"stage iii"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	5.58904109589041	NA	"white"	"male"	75	"normal"	0.56
+"TCGA-LN-A49U"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"asian"	"male"	62	"normal"	0.76
+"TCGA-LN-A4A3"	"stage iii"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"asian"	"male"	61	"normal"	0.51
+"TCGA-LN-A4A2"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	57	"normal"	0.56
+"TCGA-LN-A7HZ"	"stage iia"	"Upper third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"asian"	"male"	49	"normal"	0.63
+"TCGA-S8-A6BW"	"stage ib"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"normal"	0.58
+"TCGA-R6-A8WC"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.164383561643836	NA	"white"	"male"	56	"overweight"	0.92
+"TCGA-VR-A8EQ"	"stage iii"	"Lower third of esophagus"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"male"	73	"normal"	0.35
+"TCGA-R6-A6L6"	"not reported"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"overweight"	0.26
+"TCGA-IG-A5B8"	"stage ib"	"Esophagus, NOS"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	4.10958904109589	NA	"white"	"male"	72	"normal"	0.36
+"TCGA-IG-A4P3"	"stage iib"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	48	"overweight"	0.48
+"TCGA-2H-A9GH"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	44	"overweight"	NA
+"TCGA-L7-A6VZ"	"stage iiic"	"Middle third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	"obesity"	NA
+"TCGA-IG-A3QL"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.64383561643836	NA	"white"	"male"	54	"overweight"	NA
+"TCGA-VR-AA4G"	"stage iiia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	51	"overweight"	NA
+"TCGA-LN-A8HZ"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.64383561643836	NA	"asian"	"male"	56	"normal"	0.72
+"TCGA-L5-A8NR"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"not reported"	"female"	81	"normal"	0.67
+"TCGA-IG-A5S3"	"stage iib"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"normal"	0.55
+"TCGA-L5-A4OU"	"stage iia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"male"	81	"overweight"	0.35
+"TCGA-LN-A7HW"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"asian"	"male"	59	"normal"	0.62
+"TCGA-LN-A49P"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"asian"	"male"	71	"normal"	0.41
+"TCGA-RE-A7BO"	"stage iib"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	0.273972602739726	NA	"white"	"female"	72	"overweight"	0.49
+"TCGA-KH-A6WC"	"stage ia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	82	"overweight"	0.21
+"TCGA-2H-A9GK"	"stage iii"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	43	"normal"	0.47
+"TCGA-LN-A49K"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	66	"normal"	0.66
+"TCGA-IG-A50L"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.6986301369863	NA	"asian"	"male"	58	"normal"	0.57
+"TCGA-2H-A9GJ"	"stage i"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	57	"normal"	0.83
+"TCGA-IG-A4QS"	"stage iiib"	"Thoracic esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.61
+"TCGA-IG-A97H"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"asian"	"male"	36	"normal"	NA
+"TCGA-V5-A7RC"	"not reported"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.986301369863014	NA	"black or african american"	"male"	55	"overweight"	0.49
+"TCGA-LN-A49S"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"asian"	"male"	59	"normal"	0.37
+"TCGA-LN-A4MQ"	"stage iii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	46	"normal"	0.64
+"TCGA-IG-A4QT"	"stage iia"	"Thoracic esophagus"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	3.28767123287671	NA	"white"	"male"	56	"normal"	0.33
+"TCGA-LN-A4A8"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.71
+"TCGA-LN-A4A6"	"stage ii"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"asian"	"male"	65	"normal"	NA
+"TCGA-VR-A8Q7"	"stage iiia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.73972602739726	NA	"white"	"male"	60	"normal"	0.36
+"TCGA-JY-A938"	"stage iib"	"Cardia, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	75	"overweight"	0.42
+"TCGA-LN-A5U6"	"stage iib"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.31506849315068	NA	"asian"	"male"	54	"normal"	0.72
+"TCGA-L5-A4OM"	"stage ia"	"Lower third of esophagus"	"Basaloid squamous cell carcinoma"	"no"	2.19178082191781	NA	"white"	"female"	54	NA	0.86
+"TCGA-XP-A8T7"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.602739726027397	NA	"white"	"female"	63	NA	0.72
+"TCGA-JY-A93E"	"stage iiia"	"Lower third of esophagus"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"normal"	0.46
+"TCGA-LN-A7HV"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"asian"	"male"	58	"normal"	0.64
+"TCGA-Z6-A8JD"	"stage iib"	"Esophagus, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"normal"	0.23
+"TCGA-LN-A4A1"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	60	"normal"	NA
+"TCGA-LN-A4A9"	"stage iia"	"Middle third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"asian"	"male"	58	"normal"	0.73
+"TCGA-LN-A8I0"	"stage iia"	"Lower third of esophagus"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"asian"	"male"	52	"normal"	NA

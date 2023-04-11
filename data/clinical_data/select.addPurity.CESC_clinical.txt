@@ -1,0 +1,308 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-EA-A5ZE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	54	"normal"	0.7
+"TCGA-IR-A3LL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.5
+"TCGA-JX-A3Q0"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"black or african american"	"female"	63	"normal"	0.76
+"TCGA-Q1-A73Q"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.180821917808219	NA	"white"	"female"	46	"obesity"	0.84
+"TCGA-XS-A8TJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"black or african american"	"female"	41	"normal"	0.27
+"TCGA-HM-A3JK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.43
+"TCGA-ZJ-A8QR"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.0219178082191781	NA	"native hawaiian or other pacific islander"	"female"	38	NA	0.63
+"TCGA-C5-A1BI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"female"	31	"normal"	0.2
+"TCGA-EA-A556"	"not reported"	"Cervix uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	38	"normal"	0.7
+"TCGA-EK-A2R7"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	45	"overweight"	0.69
+"TCGA-EA-A1QS"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	46	"normal"	0.3
+"TCGA-ZJ-AAXD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	35	NA	0.57
+"TCGA-Q1-A5R2"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.57
+"TCGA-Q1-A6DW"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.136986301369863	NA	"white"	"female"	44	"normal"	0.74
+"TCGA-C5-A8XJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	74	"obesity"	0.71
+"TCGA-EK-A3GM"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.79
+"TCGA-VS-A957"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.95
+"TCGA-EK-A2RK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.78
+"TCGA-EK-A2RB"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	48	"obesity"	0.81
+"TCGA-LP-A4AU"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	35	"normal"	0.25
+"TCGA-BI-A0VR"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	53	NA	0.32
+"TCGA-DS-A5RQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"white"	"female"	80	"overweight"	0.7
+"TCGA-VS-A9UY"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	29	NA	0.84
+"TCGA-JW-A5VK"	"not reported"	"Cervix uteri"	"Papillary squamous cell carcinoma"	"no"	0.0547945205479452	NA	"black or african american"	"female"	43	"overweight"	0.94
+"TCGA-VS-A950"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	42	"normal"	0.46
+"TCGA-JX-A5QV"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	37	"normal"	0.64
+"TCGA-EK-A3GN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"obesity"	0.7
+"TCGA-EK-A2PG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	88	"normal"	0.79
+"TCGA-DG-A2KM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	46	NA	0.17
+"TCGA-EK-A2RO"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	59	"overweight"	0.71
+"TCGA-FU-A3WB"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"white"	"female"	43	"obesity"	0.88
+"TCGA-VS-A9U5"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.56
+"TCGA-MY-A5BD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.94
+"TCGA-C5-A2LY"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	30	"obesity"	0.63
+"TCGA-FU-A5XV"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.986301369863014	NA	"white"	"female"	32	"overweight"	0.72
+"TCGA-JW-A5VJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	56	"normal"	0.65
+"TCGA-VS-A952"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	66	"overweight"	0.91
+"TCGA-EK-A2GZ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	64	"overweight"	0.58
+"TCGA-LP-A7HU"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"asian"	"female"	53	"normal"	0.44
+"TCGA-FU-A3NI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	45	"normal"	0.65
+"TCGA-VS-A9UV"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	74	NA	0.89
+"TCGA-C5-A2LT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.04109589041096	NA	"white"	"female"	38	"normal"	0.44
+"TCGA-MA-AA42"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.6
+"TCGA-FU-A3EO"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"female"	55	"normal"	0.81
+"TCGA-LP-A4AV"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"asian"	"female"	63	NA	0.7
+"TCGA-IR-A3LH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"black or african american"	"female"	49	"obesity"	0.49
+"TCGA-VS-A9UD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"normal"	0.6
+"TCGA-C5-A8XK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	30	NA	0.58
+"TCGA-EK-A2H1"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	20	"normal"	0.42
+"TCGA-VS-A9V5"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	50	"obesity"	0.71
+"TCGA-EA-A3HS"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	35	"normal"	0.84
+"TCGA-VS-A9UM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	39	"overweight"	0.72
+"TCGA-Q1-A73S"	"not reported"	"Cervix uteri"	"Adenosquamous carcinoma"	"no"	0.410958904109589	NA	"white"	"female"	33	"overweight"	0.95
+"TCGA-MA-AA3Z"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	43	"obesity"	0.76
+"TCGA-UC-A7PF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	44	NA	0.55
+"TCGA-EX-A1H5"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.657534246575342	NA	"black or african american"	"female"	58	"normal"	0.78
+"TCGA-MA-AA3W"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.312328767123288	NA	"white"	"female"	54	"obesity"	0.48
+"TCGA-EA-A50E"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"asian"	"female"	45	"normal"	0.5
+"TCGA-C5-A8YT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	36	NA	0.67
+"TCGA-VS-A8EB"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	41	"overweight"	0.8
+"TCGA-EX-A449"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"yes"	NA	NA	"white"	"female"	42	"obesity"	NA
+"TCGA-MU-A51Y"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	27	NA	0.52
+"TCGA-VS-A8EJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.92
+"TCGA-JW-A5VG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	35	"obesity"	0.78
+"TCGA-VS-A8QH"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.59
+"TCGA-FU-A3TX"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	78	NA	0.68
+"TCGA-C5-A1MJ"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.57
+"TCGA-VS-A9U7"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	30	"obesity"	0.82
+"TCGA-DS-A7WI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	43	"normal"	0.85
+"TCGA-EA-A3HT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.57
+"TCGA-BI-A20A"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	49	"normal"	0.46
+"TCGA-VS-A9V3"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"normal"	0.77
+"TCGA-EA-A411"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	50	"normal"	0.42
+"TCGA-ZJ-AB0I"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.712328767123288	NA	"white"	"female"	25	"overweight"	0.9
+"TCGA-C5-A7CJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.64383561643836	NA	"white"	"female"	42	"normal"	0.41
+"TCGA-C5-A3HE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	NA	0.39
+"TCGA-C5-A3HL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	76	NA	0.66
+"TCGA-C5-A2M2"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	0.438356164383562	NA	"white"	"female"	56	NA	0.92
+"TCGA-C5-A907"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"obesity"	0.61
+"TCGA-JW-A5VI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.547945205479452	NA	"american indian or alaska native"	"female"	45	"normal"	0.67
+"TCGA-UC-A7PD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.0958904109589041	NA	"american indian or alaska native"	"female"	21	NA	0.66
+"TCGA-VS-A94W"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	39	"obesity"	0.56
+"TCGA-ZJ-AAXA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	1.42465753424658	NA	"white"	"female"	64	"obesity"	0.88
+"TCGA-ZJ-AB0H"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	48	NA	0.36
+"TCGA-LP-A4AX"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	45	NA	0.45
+"TCGA-DG-A2KH"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	25	NA	0.76
+"TCGA-HM-A3JJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	40	"normal"	0.42
+"TCGA-EX-A3L1"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	32	"normal"	0.27
+"TCGA-ZJ-AAXN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.115068493150685	NA	"white"	"female"	34	"normal"	0.79
+"TCGA-C5-A1BQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.36986301369863	NA	"white"	"female"	65	"obesity"	0.71
+"TCGA-FU-A23L"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"normal"	0.5
+"TCGA-VS-A9U6"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	52	"overweight"	0.65
+"TCGA-C5-A7X8"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	0.273972602739726	NA	"white"	"female"	35	"overweight"	0.69
+"TCGA-ZJ-AAXF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	62	NA	0.23
+"TCGA-EA-A43B"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	43	"overweight"	0.38
+"TCGA-EK-A2RN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	45	"normal"	0.63
+"TCGA-R2-A69V"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	42	"obesity"	0.24
+"TCGA-C5-A905"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	37	NA	NA
+"TCGA-C5-A7CG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.45
+"TCGA-EX-A1H6"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"overweight"	0.62
+"TCGA-C5-A1BN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.602739726027397	NA	"white"	"female"	26	"overweight"	0.79
+"TCGA-JW-A5VL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	37	"overweight"	0.86
+"TCGA-PN-A8MA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"black or african american"	"female"	43	"overweight"	0.78
+"TCGA-ZJ-AAX4"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"yes"	0.0312328767123288	NA	"white"	"female"	85	"overweight"	0.69
+"TCGA-HM-A4S6"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	51	"obesity"	0.54
+"TCGA-FU-A3HY"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.273972602739726	NA	"white"	"female"	47	"overweight"	0.63
+"TCGA-EK-A2RL"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"black or african american"	"female"	32	"obesity"	0.91
+"TCGA-C5-A1MP"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	34	NA	0.57
+"TCGA-EA-A44S"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	31	"overweight"	0.73
+"TCGA-IR-A3LB"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	0.136986301369863	NA	"white"	"female"	53	"obesity"	0.72
+"TCGA-VS-A9UA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.62
+"TCGA-DS-A1OC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	47	"obesity"	NA
+"TCGA-ZJ-AAXJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	43	NA	0.72
+"TCGA-JX-A3PZ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	25	"normal"	0.7
+"TCGA-DR-A0ZL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	53	"normal"	0.49
+"TCGA-JW-A852"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	42	"obesity"	0.81
+"TCGA-VS-A8EK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"normal"	NA
+"TCGA-FU-A3HZ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.81
+"TCGA-C5-A1MN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"white"	"female"	42	"normal"	0.64
+"TCGA-LP-A5U3"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"asian"	"female"	40	"normal"	0.85
+"TCGA-IR-A3LC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	40	"overweight"	0.78
+"TCGA-C5-A1M7"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.42465753424658	NA	"white"	"female"	37	"overweight"	0.39
+"TCGA-EK-A2PM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	81	"normal"	0.7
+"TCGA-VS-A9UZ"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	61	"normal"	0.67
+"TCGA-VS-A94X"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	40	NA	0.63
+"TCGA-JW-AAVH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	1.0958904109589	NA	"white"	"female"	46	"obesity"	0.93
+"TCGA-VS-A8QA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	44	"overweight"	0.73
+"TCGA-VS-A8QM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.876712328767123	NA	"not reported"	"female"	47	"normal"	0.21
+"TCGA-C5-A8XI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	3.12328767123288	NA	"black or african american"	"female"	69	NA	0.67
+"TCGA-DS-A1OD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	49	"obesity"	NA
+"TCGA-C5-A2LS"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	0.602739726027397	NA	"white"	"female"	37	"obesity"	0.71
+"TCGA-FU-A40J"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	38	"obesity"	0.65
+"TCGA-DS-A1O9"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	NA	NA
+"TCGA-UC-A7PI"	"not reported"	"Cervix uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	NA	0.84
+"TCGA-4J-AA1J"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	31	NA	0.85
+"TCGA-ZJ-A8QO"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	73	NA	0.61
+"TCGA-VS-A8EH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.164383561643836	NA	"not reported"	"female"	56	NA	0.72
+"TCGA-C5-A8YR"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	56	NA	0.79
+"TCGA-C5-A901"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.10958904109589	NA	"white"	"female"	44	"normal"	NA
+"TCGA-C5-A0TN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"black or african american"	"female"	21	NA	0.89
+"TCGA-DS-A3LQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	46	"overweight"	0.72
+"TCGA-ZJ-AAXU"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	2.89643835616438	NA	"white"	"female"	51	"overweight"	0.54
+"TCGA-ZJ-AAXT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.010958904109589	NA	"white"	"female"	54	"overweight"	0.6
+"TCGA-C5-A7CK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"female"	58	"normal"	0.63
+"TCGA-EK-A2PI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	44	"normal"	0.81
+"TCGA-EK-A2RA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	74	"overweight"	0.64
+"TCGA-EK-A2H0"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	24	"obesity"	0.73
+"TCGA-C5-A2LZ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"female"	65	"obesity"	0.68
+"TCGA-EA-A5ZF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	56	"normal"	0.73
+"TCGA-C5-A2LV"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.876712328767123	NA	"black or african american"	"female"	36	"obesity"	0.76
+"TCGA-C5-A1BK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	36	"obesity"	0.46
+"TCGA-C5-A7CO"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.08219178082192	NA	"white"	"female"	68	"obesity"	0.69
+"TCGA-VS-A9UT"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"asian"	"female"	72	"normal"	0.45
+"TCGA-MA-AA41"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.273972602739726	NA	"white"	"female"	33	"normal"	0.72
+"TCGA-VS-A954"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	67	"normal"	0.81
+"TCGA-ZJ-AAX8"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	58	NA	0.36
+"TCGA-C5-A1BL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.657534246575342	NA	"white"	"female"	32	"overweight"	0.62
+"TCGA-C5-A1BJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	34	NA	0.4
+"TCGA-C5-A1MQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	35	"obesity"	NA
+"TCGA-VS-A9V0"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	0.246575342465753	NA	"not reported"	"female"	58	"obesity"	0.78
+"TCGA-EK-A2IR"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.986301369863014	NA	"white"	"female"	48	"normal"	NA
+"TCGA-C5-A902"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.15068493150685	NA	"black or african american"	"female"	35	"overweight"	NA
+"TCGA-VS-A9UC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	32	"obesity"	0.72
+"TCGA-VS-A9UH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	53	NA	0.23
+"TCGA-DS-A1OA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	77	"normal"	NA
+"TCGA-MA-AA3X"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.520547945205479	NA	"black or african american"	"female"	50	"overweight"	0.68
+"TCGA-EA-A3Y4"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	40	"obesity"	0.57
+"TCGA-MY-A5BE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	42	"obesity"	0.22
+"TCGA-EK-A2RJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.5
+"TCGA-VS-A8Q9"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"normal"	0.54
+"TCGA-MY-A5BF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.82
+"TCGA-C5-A7CL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	48	"obesity"	0.63
+"TCGA-EA-A3HQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.79
+"TCGA-Q1-A6DV"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"asian"	"female"	36	"overweight"	0.66
+"TCGA-EK-A3GJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	51	"obesity"	0.69
+"TCGA-EX-A69M"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"yes"	NA	NA	"white"	"female"	62	"normal"	0.69
+"TCGA-VS-A8EL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	38	"overweight"	0.48
+"TCGA-C5-A7XC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.273972602739726	NA	"white"	"female"	26	NA	0.59
+"TCGA-JW-A5VH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	53	"obesity"	0.76
+"TCGA-C5-A1BM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	78	"normal"	0.67
+"TCGA-Q1-A6DT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	55	NA	0.57
+"TCGA-C5-A1M9"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	46	"normal"	0.81
+"TCGA-EA-A6QX"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	49	"normal"	0.79
+"TCGA-HG-A2PA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"obesity"	0.5
+"TCGA-ZJ-AAXB"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	42	"obesity"	0.77
+"TCGA-EA-A4BA"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	49	"obesity"	0.73
+"TCGA-VS-A959"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	76	"normal"	0.37
+"TCGA-C5-A8YQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	3.06849315068493	NA	"white"	"female"	79	"overweight"	0.8
+"TCGA-MA-AA43"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.635616438356164	NA	"white"	"female"	48	"obesity"	0.52
+"TCGA-Q1-A5R1"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	32	"overweight"	0.77
+"TCGA-EK-A2RM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	40	"obesity"	0.65
+"TCGA-VS-A9V1"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	0.131506849315068	NA	"white"	"female"	46	"normal"	0.86
+"TCGA-EK-A2RE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	26	"normal"	0.86
+"TCGA-RA-A741"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	34	"obesity"	0.86
+"TCGA-C5-A1BF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"female"	46	NA	0.75
+"TCGA-FU-A23K"	"not reported"	"Cervix uteri"	"Basaloid squamous cell carcinoma"	"no"	NA	NA	"white"	"female"	28	"obesity"	0.64
+"TCGA-VS-A9V2"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	29	"normal"	0.55
+"TCGA-EA-A439"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	50	NA	0.64
+"TCGA-C5-A7CH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	43	"obesity"	0.67
+"TCGA-C5-A1M8"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	43	"overweight"	0.96
+"TCGA-VS-A8EG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	36	"overweight"	0.82
+"TCGA-EK-A2PK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	43	"obesity"	0.5
+"TCGA-VS-A8EC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"normal"	0.86
+"TCGA-FU-A57G"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	49	"normal"	0.58
+"TCGA-EK-A2R9"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.78
+"TCGA-C5-A1ML"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.02739726027397	NA	"white"	"female"	49	NA	0.79
+"TCGA-VS-A9UL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"overweight"	0.84
+"TCGA-EK-A2RC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	33	"normal"	0.61
+"TCGA-VS-A9UO"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	43	NA	0.75
+"TCGA-EK-A2RD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	47	"obesity"	0.63
+"TCGA-MY-A913"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	28	"overweight"	0.5
+"TCGA-C5-A7UC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	48	NA	0.8
+"TCGA-VS-A94Z"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.10958904109589	NA	"white"	"female"	38	"obesity"	0.46
+"TCGA-DR-A0ZM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"female"	61	"overweight"	0.48
+"TCGA-C5-A8XH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	39	"normal"	0.5
+"TCGA-VS-A8QF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	42	"overweight"	0.7
+"TCGA-VS-A9UJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	55	NA	0.66
+"TCGA-VS-A8QC"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.78
+"TCGA-VS-A958"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	46	"overweight"	0.48
+"TCGA-DS-A7WH"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	34	NA	0.68
+"TCGA-EA-A3HR"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.75
+"TCGA-EA-A1QT"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	47	"overweight"	0.86
+"TCGA-VS-A9V4"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"yes"	1.64383561643836	NA	"white"	"female"	63	"normal"	0.33
+"TCGA-C5-A8ZZ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.0958904109589	NA	"white"	"female"	41	NA	0.7
+"TCGA-C5-A1MH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"female"	71	NA	0.29
+"TCGA-HM-A6W2"	"not reported"	"Cervix uteri"	"Adenosquamous carcinoma"	"no"	0.438356164383562	NA	"black or african american"	"female"	34	"obesity"	0.89
+"TCGA-C5-A7CM"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	35	"overweight"	0.76
+"TCGA-MA-AA3Y"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"white"	"female"	48	"overweight"	0.47
+"TCGA-C5-A3HF"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	0.493150684931507	NA	"white"	"female"	24	NA	0.42
+"TCGA-C5-A2LX"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"white"	"female"	54	"normal"	0.61
+"TCGA-EK-A2R8"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	48	"overweight"	0.44
+"TCGA-DG-A2KJ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	50	NA	0.61
+"TCGA-LP-A4AW"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"asian"	"female"	52	"normal"	0.39
+"TCGA-VS-A9UI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	NA	0.63
+"TCGA-IR-A3LF"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.25
+"TCGA-VS-A94Y"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.0547945205479452	NA	"white"	"female"	47	"normal"	0.72
+"TCGA-EA-A3QD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.53
+"TCGA-2W-A8YY"	"not reported"	"Cervix uteri"	"Adenosquamous carcinoma"	"no"	NA	NA	"white"	"female"	51	NA	0.62
+"TCGA-C5-A7UE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"white"	"female"	45	"normal"	0.65
+"TCGA-C5-A7X5"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	NA	NA	"black or african american"	"female"	72	"normal"	0.84
+"TCGA-C5-A7UH"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"normal"	0.58
+"TCGA-C5-A2M1"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	37	"overweight"	0.71
+"TCGA-EK-A3GK"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	33	"overweight"	0.85
+"TCGA-DG-A2KL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	1.36986301369863	NA	"not reported"	"female"	53	"obesity"	0.53
+"TCGA-MU-A5YI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"black or african american"	"female"	60	"obesity"	0.7
+"TCGA-MU-A8JM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	1.64383561643836	NA	"white"	"female"	46	"obesity"	0.62
+"TCGA-DS-A0VM"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"overweight"	0.71
+"TCGA-VS-A9UB"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	54	"overweight"	0.55
+"TCGA-Q1-A73R"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	45	"obesity"	0.9
+"TCGA-FU-A2QG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, keratinizing, NOS"	"no"	0.821917808219178	NA	"white"	"female"	29	"obesity"	0.81
+"TCGA-C5-A1MF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	49	"overweight"	0.78
+"TCGA-C5-A3HD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.47945205479452	NA	"white"	"female"	51	"overweight"	0.91
+"TCGA-HG-A9SC"	"not reported"	"Cervix uteri"	"Adenosquamous carcinoma"	"no"	NA	NA	"white"	"female"	49	"normal"	0.65
+"TCGA-ZJ-AAXI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	67	NA	0.86
+"TCGA-IR-A3LK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.84
+"TCGA-BI-A0VS"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	48	NA	0.49
+"TCGA-EA-A5FO"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"normal"	0.92
+"TCGA-C5-A1MI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.91780821917808	NA	"white"	"female"	50	NA	0.67
+"TCGA-DS-A0VK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"normal"	0.67
+"TCGA-LP-A5U2"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"asian"	"female"	30	"normal"	0.87
+"TCGA-Q1-A5R3"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"normal"	0.72
+"TCGA-EA-A97N"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"normal"	0.64
+"TCGA-IR-A3LA"	"not reported"	"Cervix uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.88
+"TCGA-JX-A3Q8"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"asian"	"female"	40	"overweight"	0.86
+"TCGA-FU-A3YQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	35	"obesity"	0.34
+"TCGA-C5-A1M5"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	NA	0.79
+"TCGA-IR-A3LI"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	48	"normal"	0.93
+"TCGA-EA-A78R"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	54	"normal"	0.43
+"TCGA-JW-A69B"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	44	"overweight"	0.78
+"TCGA-EA-A3QE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	45	"obesity"	0.44
+"TCGA-VS-A8Q8"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	26	"obesity"	0.7
+"TCGA-VS-A9UR"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	53	"normal"	0.8
+"TCGA-VS-AA62"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"overweight"	0.54
+"TCGA-FU-A770"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	0.383561643835616	NA	"white"	"female"	33	"normal"	0.61
+"TCGA-EA-A5ZD"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	40	"normal"	0.4
+"TCGA-ZJ-A8QQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	1.0958904109589	NA	"white"	"female"	24	"overweight"	0.71
+"TCGA-DS-A7WF"	"not reported"	"Cervix uteri"	"Adenosquamous carcinoma"	"no"	0.383561643835616	NA	"not reported"	"female"	41	"normal"	0.94
+"TCGA-C5-A7UI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	0.657534246575342	NA	"black or african american"	"female"	42	NA	0.52
+"TCGA-C5-A1ME"	"not reported"	"Cervix uteri"	"Adenocarcinoma, NOS"	"no"	1.20547945205479	NA	"white"	"female"	40	"overweight"	0.73
+"TCGA-C5-A1BE"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.61
+"TCGA-VS-A9UQ"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	NA	NA	"not reported"	"female"	32	"overweight"	0.58
+"TCGA-EK-A2PL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	36	"obesity"	0.61
+"TCGA-EA-A410"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.8
+"TCGA-DS-A1OB"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"obesity"	NA
+"TCGA-DS-A0VN"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"overweight"	0.5
+"TCGA-EK-A2IP"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	28	"normal"	0.84
+"TCGA-C5-A1M6"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"overweight"	0.73
+"TCGA-IR-A3L7"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"female"	37	"overweight"	0.84
+"TCGA-EA-A3HU"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	43	"overweight"	NA
+"TCGA-C5-A7X3"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.22
+"TCGA-DG-A2KK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	1.36986301369863	NA	"not reported"	"female"	51	"overweight"	0.84
+"TCGA-WL-A834"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.356164383561644	NA	"white"	"female"	57	"obesity"	0.77
+"TCGA-ZX-AA5X"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.37
+"TCGA-EX-A8YF"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	"normal"	0.56
+"TCGA-GH-A9DA"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.356164383561644	NA	"white"	"female"	27	NA	0.74
+"TCGA-UC-A7PG"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.84931506849315	NA	"white"	"female"	44	NA	0.65
+"TCGA-VS-A953"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	63	"normal"	0.88
+"TCGA-Q1-A73O"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"not reported"	"female"	37	"obesity"	0.52
+"TCGA-EA-A5O9"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	39	"obesity"	0.85
+"TCGA-C5-A1MK"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"overweight"	0.45
+"TCGA-VS-A9UP"	"not reported"	"Cervix uteri"	"Mucinous adenocarcinoma, endocervical type"	"no"	0.0547945205479452	NA	"not reported"	"female"	43	"overweight"	0.43
+"TCGA-EX-A69L"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, large cell, nonkeratinizing, NOS"	"no"	NA	NA	"asian"	"female"	41	"overweight"	0.58
+"TCGA-DS-A0VL"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	25	"overweight"	0.79
+"TCGA-FU-A3TQ"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"female"	55	"overweight"	0.66
+"TCGA-VS-A8EI"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"normal"	0.43
+"TCGA-VS-A9UU"	"not reported"	"Cervix uteri"	"Squamous cell carcinoma, NOS"	"no"	0.10958904109589	NA	"not reported"	"female"	42	"overweight"	0.28
+"TCGA-Q1-A73P"	"not reported"	"Cervix uteri"	"Adenocarcinoma, endocervical type"	"no"	NA	NA	"white"	"female"	45	"overweight"	0.73

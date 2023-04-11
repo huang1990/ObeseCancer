@@ -1,0 +1,413 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-CU-A3KJ"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	75	"normal"	0.75
+"TCGA-UY-A9PD"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	80	"normal"	0.63
+"TCGA-GU-AATP"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	0.767123287671233	NA	"white"	"male"	74	"obesity"	0.65
+"TCGA-KQ-A41P"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	"normal"	0.77
+"TCGA-XF-A9T2"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	54	"obesity"	0.84
+"TCGA-BT-A20N"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	2.73972602739726	NA	"not reported"	"male"	72	NA	0.72
+"TCGA-4Z-AA86"	"stage iv"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	66	NA	0.28
+"TCGA-CF-A47V"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.93
+"TCGA-DK-AA6W"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	78	"obesity"	0.8
+"TCGA-FJ-A3Z9"	"not reported"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	0.712328767123288	NA	"white"	"male"	72	"obesity"	0.85
+"TCGA-LT-A8JT"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	4.10958904109589	NA	"white"	"female"	69	"normal"	0.87
+"TCGA-XF-AAME"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.14
+"TCGA-DK-A3WY"	"stage iii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	67	"overweight"	
+"TCGA-BT-A20O"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	75	NA	0.16
+"TCGA-E7-A7DV"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	44	"normal"	0.35
+"TCGA-GC-A3BM"	"stage ii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	70	"overweight"	0.86
+"TCGA-HQ-A2OE"	"not reported"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"not reported"	"male"	69	"normal"	0.8
+"TCGA-GU-A762"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	87	"normal"	0.31
+"TCGA-GU-A42R"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	68	"obesity"	0.78
+"TCGA-XF-A9SW"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	85	"normal"	0.34
+"TCGA-E7-A519"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.73972602739726	NA	"white"	"male"	72	"overweight"	0.64
+"TCGA-UY-A9PB"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	49	"obesity"	0.33
+"TCGA-UY-A8OC"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	90	NA	0.55
+"TCGA-GU-AATO"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	75	"normal"	0.52
+"TCGA-CU-A3YL"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	67	"overweight"	0.73
+"TCGA-FD-A5BR"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	57	"obesity"	0.44
+"TCGA-XF-A9SU"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"female"	74	"normal"	0.26
+"TCGA-DK-A2I1"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.58
+"TCGA-XF-A9T0"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	68	"overweight"	0.76
+"TCGA-UY-A8OB"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	63	"normal"	0.72
+"TCGA-E7-A6ME"	"stage ii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"asian"	"male"	75	"normal"	0.79
+"TCGA-DK-A6B1"	"stage ii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	67	"overweight"	0.83
+"TCGA-ZF-AA4N"	"stage ii"	"Bladder, NOS"	"Carcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"overweight"	0.77
+"TCGA-BT-A20W"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	71	NA	0.72
+"TCGA-GC-A3RD"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	83	"overweight"	0.71
+"TCGA-K4-A6MB"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.75
+"TCGA-C4-A0EZ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.86301369863014	NA	"not reported"	"female"	69	"overweight"	0.93
+"TCGA-DK-AA6L"	"stage iv"	"Dome of bladder"	"Transitional cell carcinoma"	"yes"	40	NA	"white"	"male"	48	"obesity"	0.64
+"TCGA-DK-A6AW"	"stage ii"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	1.36986301369863	NA	"white"	"male"	70	"obesity"	0.93
+"TCGA-GV-A3QK"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	2.46575342465753	NA	"white"	"female"	56	"obesity"	0.71
+"TCGA-XF-A8HF"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.0547945205479452	NA	"white"	"male"	80	"normal"	0.69
+"TCGA-XF-A9SI"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	73	"normal"	0.21
+"TCGA-BT-A20R"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	79	NA	0.46
+"TCGA-GU-A42Q"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.12328767123288	NA	"white"	"male"	67	"overweight"	0.45
+"TCGA-K4-A4AB"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	NA	0.56
+"TCGA-BT-A42F"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	64	"obesity"	0.22
+"TCGA-E5-A2PC"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.79
+"TCGA-ZF-A9RD"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"female"	75	"overweight"	0.38
+"TCGA-4Z-AA7R"	"stage iv"	"Trigone of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	73	"overweight"	0.93
+"TCGA-DK-A3IS"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	68	"normal"	0.9
+"TCGA-CF-A3MF"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	34	NA	0.78
+"TCGA-DK-AA77"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	61	"overweight"	0.88
+"TCGA-FD-A5C0"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	61	"overweight"	0.58
+"TCGA-ZF-AA4T"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	65	"overweight"	0.39
+"TCGA-GV-A40G"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.64383561643836	NA	"white"	"male"	77	"overweight"	0.73
+"TCGA-FD-A62P"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	"overweight"	0.19
+"TCGA-K4-A3WU"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	87	"normal"	0.58
+"TCGA-XF-A8HG"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.438356164383562	NA	"white"	"male"	69	"overweight"	0.84
+"TCGA-BT-A2LB"	"stage iii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	73	NA	0.5
+"TCGA-FJ-A3Z7"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	76	"overweight"	0.54
+"TCGA-GC-A3RC"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	59	"obesity"	0.69
+"TCGA-LT-A5Z6"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	56	"overweight"	0.86
+"TCGA-G2-AA3F"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	5.91780821917808	NA	"white"	"male"	77	"obesity"	0.68
+"TCGA-ZF-A9R0"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.273972602739726	NA	"white"	"male"	82	"overweight"	0.51
+"TCGA-XF-AAMX"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	87	"overweight"	0.86
+"TCGA-DK-AA71"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	71	"normal"	0.67
+"TCGA-FD-A3SN"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	0.273972602739726	NA	"white"	"male"	79	"normal"	0.73
+"TCGA-FD-A43U"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	70	"overweight"	0.2
+"TCGA-XF-A9T6"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	88	"overweight"	0.83
+"TCGA-BT-A2LA"	"stage iii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	54	NA	0.95
+"TCGA-ZF-AA5H"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.438356164383562	NA	"white"	"female"	60	"obesity"	0.58
+"TCGA-ZF-A9RC"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	77	"obesity"	0.2
+"TCGA-2F-A9KT"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	83	"normal"	0.41
+"TCGA-K4-A5RH"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	69	NA	0.48
+"TCGA-ZF-AA4W"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	56	"overweight"	0.35
+"TCGA-FD-A43S"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	8.21917808219178	NA	"white"	"female"	71	"normal"	1.0
+"TCGA-YC-A89H"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.72602739726027	NA	"white"	"female"	78	"normal"	0.66
+"TCGA-UY-A9PE"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.46575342465753	NA	"white"	"male"	86	"overweight"	0.48
+"TCGA-ZF-AA52"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.10958904109589	NA	"white"	"male"	70	"normal"	0.33
+"TCGA-GC-A3RB"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	54	NA	0.85
+"TCGA-4Z-AA84"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	61	"normal"	0.43
+"TCGA-BT-A0YX"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	70	NA	0.49
+"TCGA-ZF-AA5P"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	3.3972602739726	NA	"white"	"male"	65	"overweight"	
+"TCGA-4Z-AA7M"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"male"	65	"normal"	0.6
+"TCGA-XF-AAN1"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	2.57534246575342	NA	"not reported"	"female"	75	"obesity"	0.91
+"TCGA-DK-A6B2"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	3.12328767123288	NA	"white"	"male"	70	"obesity"	0.49
+"TCGA-GU-A42P"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.08219178082192	NA	"white"	"male"	72	"normal"	0.8
+"TCGA-2F-A9KP"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	3.3972602739726	NA	"white"	"male"	66	"obesity"	0.64
+"TCGA-G2-A3IE"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.0821917808219178	NA	"white"	"male"	51	"overweight"	0.69
+"TCGA-FD-A3SM"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	4.38356164383562	NA	"white"	"male"	70	"overweight"	0.69
+"TCGA-ZF-A9RF"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.84931506849315	NA	"white"	"male"	74	NA	0.5
+"TCGA-GU-A767"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	81	"normal"	0.3
+"TCGA-BT-A20Q"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	73	NA	0.68
+"TCGA-DK-A2I6"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	0.876712328767123	NA	"white"	"male"	81	"overweight"	0.54
+"TCGA-KQ-A41O"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"not reported"	"male"	84	"normal"	0.93
+"TCGA-CU-A5W6"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.02739726027397	NA	"white"	"male"	70	"overweight"	0.47
+"TCGA-XF-AAN3"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	"normal"	0.29
+"TCGA-DK-A1AD"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.73
+"TCGA-FD-A62S"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	60	"overweight"	0.36
+"TCGA-CF-A27C"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.98
+"TCGA-FD-A6TC"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	0.547945205479452	NA	"white"	"female"	79	"normal"	0.57
+"TCGA-K4-A6FZ"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	75	"overweight"	0.33
+"TCGA-FD-A6TA"	"stage iv"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	58	"overweight"	0.6
+"TCGA-CF-A47X"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.0958904109589	NA	"asian"	"male"	60	"normal"	0.88
+"TCGA-XF-A8HE"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	47	"overweight"	0.37
+"TCGA-G2-AA3C"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.219178082191781	NA	"white"	"male"	66	"overweight"	0.56
+"TCGA-E7-A8O8"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.712328767123288	NA	"asian"	"male"	59	"normal"	NA
+"TCGA-XF-AAMJ"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"asian"	"male"	70	"normal"	0.24
+"TCGA-G2-AA3B"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.42465753424658	NA	"white"	"female"	75	"overweight"	0.84
+"TCGA-DK-A1AF"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	84	"overweight"	0.13
+"TCGA-UY-A9PH"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	73	"normal"	0.44
+"TCGA-K4-A3WV"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	4.38356164383562	NA	"white"	"female"	77	NA	0.67
+"TCGA-CF-A3MG"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	48	"normal"	0.8
+"TCGA-GD-A3OQ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.6986301369863	NA	"white"	"male"	48	NA	0.78
+"TCGA-BL-A3JM"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.68493150684932	NA	"white"	"male"	62	"normal"	0.76
+"TCGA-FD-A3N6"	"stage ii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.452054794520548	NA	"black or african american"	"female"	43	"obesity"	0.83
+"TCGA-BT-A20J"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	75	NA	0.4
+"TCGA-FT-A61P"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	0.219178082191781	NA	"white"	"male"	76	"obesity"	0.31
+"TCGA-E5-A4TZ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	4.65753424657534	NA	"white"	"male"	64	"overweight"	0.67
+"TCGA-GC-A4ZW"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.85
+"TCGA-BL-A0C8"	"stage i"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"male"	73	"obesity"	0.59
+"TCGA-CF-A1HR"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	62	"normal"	0.4
+"TCGA-DK-A1AC"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"male"	72	"overweight"	0.69
+"TCGA-FD-A5BS"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	68	NA	0.59
+"TCGA-ZF-AA51"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.08219178082192	NA	"white"	"female"	69	"normal"	0.5
+"TCGA-GU-AATQ"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	68	"overweight"	0.75
+"TCGA-G2-A2EJ"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"female"	56	"overweight"	0.61
+"TCGA-E7-A4IJ"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	56	"normal"	0.48
+"TCGA-E7-A7XN"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"asian"	"male"	66	NA	0.32
+"TCGA-DK-A3IV"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	4.38356164383562	NA	"white"	"male"	60	"overweight"	0.56
+"TCGA-CU-A0YN"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	60	"normal"	0.4
+"TCGA-XF-AAN4"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"female"	77	"normal"	0.46
+"TCGA-CU-A0YR"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.657534246575342	NA	"white"	"male"	83	"normal"	0.47
+"TCGA-C4-A0F7"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"not reported"	"male"	77	"normal"	NA
+"TCGA-K4-A5RI"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"female"	67	NA	0.71
+"TCGA-DK-A6AV"	"stage ii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	0.657534246575342	NA	"asian"	"female"	82	"normal"	0.5
+"TCGA-GV-A3QH"	"stage ii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"male"	67	"overweight"	0.48
+"TCGA-FD-A5BZ"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.42
+"TCGA-CF-A3MH"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.36986301369863	NA	"asian"	"male"	75	"normal"	0.87
+"TCGA-E7-A5KE"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	78	NA	0.92
+"TCGA-FD-A3B8"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	56	"overweight"	
+"TCGA-ZF-A9R7"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.49
+"TCGA-XF-A9SL"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.01369863013699	NA	"white"	"male"	69	"overweight"	
+"TCGA-XF-AAN7"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	60	"overweight"	0.87
+"TCGA-ZF-AA58"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.13698630136986	NA	"white"	"female"	61	"overweight"	0.31
+"TCGA-UY-A9PA"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	48	"normal"	0.18
+"TCGA-FD-A5BV"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	1.53424657534247	NA	"white"	"female"	47	NA	0.89
+"TCGA-ZF-A9RG"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	70	"normal"	0.24
+"TCGA-YF-AA3M"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	3.17808219178082	NA	"not reported"	"male"	57	"overweight"	0.68
+"TCGA-UY-A78O"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.76
+"TCGA-E7-A3X6"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	70	"obesity"	0.71
+"TCGA-GV-A6ZA"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.7
+"TCGA-FJ-A3ZE"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	65	"obesity"	0.96
+"TCGA-XF-AAMH"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	80	"obesity"	0.88
+"TCGA-BT-A3PJ"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	NA	0.51
+"TCGA-H4-A2HQ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.383561643835616	NA	"black or african american"	"female"	64	"normal"	0.8
+"TCGA-ZF-AA56"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	79	NA	0.28
+"TCGA-FD-A3B4"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"black or african american"	"female"	55	"overweight"	0.62
+"TCGA-GC-A3WC"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	0.767123287671233	NA	"white"	"female"	80	"overweight"	0.38
+"TCGA-UY-A78P"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"white"	"female"	78	NA	0.26
+"TCGA-FT-A3EE"	"stage iii"	"Bladder neck"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	80	"overweight"	0.61
+"TCGA-H4-A2HO"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	53	"normal"	0.63
+"TCGA-XF-A9T5"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	78	"overweight"	0.45
+"TCGA-BT-A3PH"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	76	NA	0.83
+"TCGA-FD-A6TK"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"white"	"male"	60	"normal"	0.22
+"TCGA-CF-A9FH"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	4.38356164383562	NA	"asian"	"male"	85	"normal"	0.95
+"TCGA-XF-AAMY"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	78	"obesity"	0.61
+"TCGA-GU-A764"	"stage ii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.04109589041096	NA	"white"	"male"	66	"normal"	0.23
+"TCGA-XF-A8HC"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	79	"normal"	0.96
+"TCGA-GV-A40E"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"male"	75	"obesity"	0.34
+"TCGA-FD-A43Y"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	2.73972602739726	NA	"white"	"male"	65	"obesity"	0.44
+"TCGA-DK-AA6X"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	63	"obesity"	0.44
+"TCGA-2F-A9KO"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	3.78082191780822	NA	"white"	"male"	63	"normal"	0.36
+"TCGA-XF-AAMQ"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	0.657534246575342	NA	"white"	"female"	59	"obesity"	0.7
+"TCGA-FD-A3N5"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"black or african american"	"male"	69	NA	0.66
+"TCGA-CF-A47W"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	0.547945205479452	NA	"asian"	"male"	42	"normal"	0.94
+"TCGA-CF-A5U8"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.97
+"TCGA-YC-A8S6"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	71	"obesity"	0.23
+"TCGA-G2-A2ES"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	3.56164383561644	NA	"white"	"male"	85	"overweight"	0.55
+"TCGA-DK-A1AE"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"male"	84	"normal"	0.83
+"TCGA-DK-A1A6"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.28767123287671	NA	"white"	"male"	53	"obesity"	0.53
+"TCGA-KQ-A41S"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	87	NA	0.41
+"TCGA-FJ-A3ZF"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	2.79452054794521	NA	"white"	"male"	73	"obesity"	0.88
+"TCGA-FD-A3SO"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	68	"overweight"	0.57
+"TCGA-XF-A8HI"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.91
+"TCGA-HQ-A5ND"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"not reported"	"male"	78	"normal"	0.63
+"TCGA-CF-A8HX"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	55	"normal"	0.95
+"TCGA-2F-A9KW"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	67	"overweight"	0.58
+"TCGA-4Z-AA83"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	52	"obesity"	0.84
+"TCGA-XF-A9T8"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	0.821917808219178	NA	"white"	"male"	64	"normal"	0.44
+"TCGA-G2-A3VY"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"asian"	"male"	66	"normal"	0.9
+"TCGA-ZF-A9R9"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.164383561643836	NA	"white"	"male"	58	NA	0.82
+"TCGA-FD-A3SQ"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	62	"normal"	0.5
+"TCGA-ZF-AA4V"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.53424657534247	NA	"white"	"male"	66	"overweight"	0.64
+"TCGA-UY-A78K"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	60	NA	0.27
+"TCGA-GV-A3QI"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.91780821917808	NA	"white"	"male"	47	"overweight"	0.95
+"TCGA-2F-A9KQ"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.96
+"TCGA-DK-AA6M"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	64	"overweight"	0.65
+"TCGA-SY-A9G5"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	66	"obesity"	0.36
+"TCGA-G2-AA3D"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	60	"obesity"	0.69
+"TCGA-DK-A3IT"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	62	"obesity"	0.46
+"TCGA-GC-A6I1"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	90	"normal"	0.31
+"TCGA-S5-AA26"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	46	"overweight"	0.95
+"TCGA-GV-A3JZ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	0.821917808219178	NA	"white"	"male"	55	"overweight"	0.82
+"TCGA-CF-A9FF"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.73
+"TCGA-BT-A2LD"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	78	"obesity"	0.59
+"TCGA-GV-A3QF"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	3.28767123287671	NA	"white"	"male"	79	"normal"	0.54
+"TCGA-FD-A6TH"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	2.46575342465753	NA	"white"	"male"	63	"overweight"	0.77
+"TCGA-K4-AAQO"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	2.35616438356164	NA	"white"	"male"	56	"obesity"	0.33
+"TCGA-KQ-A41N"	"stage iii"	"Ureteric orifice"	"Transitional cell carcinoma"	"no"	2.73972602739726	NA	"black or african american"	"male"	73	"normal"	0.76
+"TCGA-XF-AAN2"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	73	"obesity"	0.6
+"TCGA-YC-A9TC"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.8
+"TCGA-G2-A2EC"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	58	"overweight"	NA
+"TCGA-XF-AAMR"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	48	"overweight"	0.4
+"TCGA-DK-AA6T"	"stage ii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	63	"normal"	0.8
+"TCGA-SY-A9G0"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	0.534246575342466	NA	"white"	"male"	82	"overweight"	0.17
+"TCGA-FD-A6TI"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	73	"obesity"	0.5
+"TCGA-DK-A3X1"	"stage iii"	"Dome of bladder"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"female"	78	NA	0.47
+"TCGA-DK-A6B6"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.383561643835616	NA	"white"	"male"	57	"obesity"	0.52
+"TCGA-FD-A5BY"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	63	"normal"	0.58
+"TCGA-R3-A69X"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	2.63013698630137	NA	"white"	"male"	70	NA	0.22
+"TCGA-GU-A763"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	2.46575342465753	NA	"white"	"male"	72	"normal"	0.96
+"TCGA-XF-A9T3"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	2.84931506849315	NA	"white"	"female"	69	"normal"	0.41
+"TCGA-GC-A3OO"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	79	"obesity"	0.33
+"TCGA-FD-A3B6"	"stage ii"	"Posterior wall of bladder"	"Papillary transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	75	"normal"	0.42
+"TCGA-E7-A7DU"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	73	"obesity"	0.84
+"TCGA-ZF-A9R5"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.78082191780822	NA	"white"	"male"	59	"normal"	0.91
+"TCGA-XF-A8HH"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.43
+"TCGA-FD-A62O"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	74	"normal"	0.85
+"TCGA-CF-A9FM"	"stage i"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.96
+"TCGA-PQ-A6FN"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.53424657534247	NA	"white"	"female"	78	"normal"	0.22
+"TCGA-ZF-AA53"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	60	"obesity"	0.22
+"TCGA-PQ-A6FI"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.17808219178082	NA	"white"	"male"	70	"obesity"	0.75
+"TCGA-DK-A3IM"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.438356164383562	NA	"white"	"male"	76	"obesity"	0.83
+"TCGA-4Z-AA81"	"stage ii"	"Posterior wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	80	"overweight"	0.55
+"TCGA-CF-A9FL"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"asian"	"male"	85	NA	0.85
+"TCGA-FD-A6TB"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	1.64383561643836	NA	"white"	"male"	82	"normal"	0.28
+"TCGA-E7-A8O7"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.84
+"TCGA-LC-A66R"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	78	"normal"	0.37
+"TCGA-GC-A6I3"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	90	"obesity"	0.32
+"TCGA-BT-A20U"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	70	NA	0.5
+"TCGA-FD-A6TE"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	54	"normal"	0.82
+"TCGA-GV-A3QG"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	2.52054794520548	NA	"white"	"male"	65	"normal"	0.46
+"TCGA-E7-A5KF"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"asian"	"male"	67	"normal"	0.98
+"TCGA-XF-AAMT"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"female"	75	"normal"	0.56
+"TCGA-FD-A3B5"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"black or african american"	"male"	86	"normal"	0.52
+"TCGA-DK-A6B5"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	45	"overweight"	0.76
+"TCGA-XF-AAMW"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	79	"overweight"	0.53
+"TCGA-GD-A6C6"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.46575342465753	NA	"white"	"male"	64	"normal"	0.92
+"TCGA-GV-A3JW"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	74	"overweight"	0.84
+"TCGA-BT-A42B"	"stage iv"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	59	"obesity"	0.78
+"TCGA-ZF-A9RN"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	67	"overweight"	0.81
+"TCGA-DK-A3IL"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	5.91780821917808	NA	"white"	"female"	79	"overweight"	0.74
+"TCGA-DK-AA75"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	82	"overweight"	NA
+"TCGA-DK-A3WW"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	57	"normal"	0.5
+"TCGA-2F-A9KR"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.23287671232877	NA	"not reported"	"female"	59	"overweight"	0.89
+"TCGA-BT-A0S7"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	75	NA	0.29
+"TCGA-FD-A5BU"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	3.67123287671233	NA	"black or african american"	"female"	76	"normal"	0.4
+"TCGA-E7-A4XJ"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"asian"	"male"	66	"normal"	0.84
+"TCGA-XF-AAMZ"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	81	"normal"	0.3
+"TCGA-FD-A43X"	"stage ii"	"Posterior wall of bladder"	"Papillary transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	84	"normal"	0.94
+"TCGA-DK-A3IN"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	72	"obesity"	0.39
+"TCGA-DK-AA6R"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	3.01369863013699	NA	"white"	"male"	68	"normal"	0.58
+"TCGA-E5-A4U1"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"not reported"	"male"	72	"obesity"	0.78
+"TCGA-XF-AAN8"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"female"	74	"normal"	0.58
+"TCGA-GV-A3JV"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	4.93150684931507	NA	"white"	"male"	66	"overweight"	0.66
+"TCGA-C4-A0F1"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	4.10958904109589	NA	"not reported"	"male"	71	"overweight"	NA
+"TCGA-CF-A3MI"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	2.19178082191781	NA	"asian"	"male"	62	"normal"	0.79
+"TCGA-XF-A9SX"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"female"	63	"normal"	0.5
+"TCGA-XF-A9SH"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	65	"normal"	0.69
+"TCGA-XF-AAN5"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"female"	61	"normal"	0.49
+"TCGA-CF-A8HY"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.87
+"TCGA-HQ-A2OF"	"stage iii"	"Dome of bladder"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	52	"overweight"	0.93
+"TCGA-GD-A3OS"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.958904109589041	NA	"white"	"female"	54	"overweight"	0.72
+"TCGA-ZF-A9RM"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.438356164383562	NA	"white"	"male"	70	"overweight"	0.82
+"TCGA-DK-A3IQ"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	74	"overweight"	0.35
+"TCGA-UY-A78M"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	81	"normal"	0.69
+"TCGA-DK-A6B0"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"male"	61	"overweight"	0.9
+"TCGA-DK-AA6S"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	60	"obesity"	0.68
+"TCGA-FD-A3SL"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	60	"obesity"	0.42
+"TCGA-FD-A3SR"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	68	"obesity"	0.57
+"TCGA-K4-A3WS"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.36986301369863	NA	"white"	"male"	66	NA	0.4
+"TCGA-ZF-AA5N"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"female"	62	"overweight"	0.7
+"TCGA-GV-A3JX"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	4.38356164383562	NA	"white"	"male"	59	"normal"	0.9
+"TCGA-FD-A5C1"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"female"	61	"obesity"	0.49
+"TCGA-CU-A72E"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	3.72602739726027	NA	"white"	"male"	76	"obesity"	0.69
+"TCGA-G2-A2EK"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	57	"obesity"	0.54
+"TCGA-BL-A5ZZ"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	1.64383561643836	NA	"white"	"female"	80	"overweight"	0.38
+"TCGA-XF-A9SP"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	3.61643835616438	NA	"white"	"male"	59	"normal"	0.26
+"TCGA-GU-A766"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	62	"obesity"	0.39
+"TCGA-BL-A13J"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	1.31506849315068	NA	"white"	"male"	65	"normal"	0.56
+"TCGA-E7-A678"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"asian"	"male"	55	"normal"	0.92
+"TCGA-E7-A6MF"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	0.136986301369863	NA	"asian"	"male"	37	"normal"	0.88
+"TCGA-ZF-A9RL"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	2.08219178082192	NA	"white"	"male"	61	NA	0.85
+"TCGA-DK-AA6Q"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.73
+"TCGA-4Z-AA89"	"stage iv"	"Trigone of bladder"	"Papillary transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	60	"obesity"	0.87
+"TCGA-ZF-A9R4"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	83	NA	0.91
+"TCGA-DK-A1AA"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"male"	57	"obesity"	0.93
+"TCGA-CF-A47T"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"female"	58	"normal"	0.94
+"TCGA-ZF-AA4U"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"white"	"male"	70	"overweight"	0.88
+"TCGA-BT-A20V"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	59	NA	0.66
+"TCGA-XF-A9SK"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.64383561643836	NA	"white"	"male"	65	"overweight"	0.47
+"TCGA-DK-A3IK"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	87	"overweight"	0.5
+"TCGA-XF-A9ST"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	68	"obesity"	0.87
+"TCGA-E7-A7PW"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.273972602739726	NA	"asian"	"male"	63	"normal"	0.84
+"TCGA-C4-A0F0"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.34246575342466	NA	"not reported"	"male"	60	"normal"	0.39
+"TCGA-E7-A97Q"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"female"	60	"normal"	0.65
+"TCGA-DK-A1A5"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"male"	79	"normal"	0.59
+"TCGA-XF-A9SV"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"male"	82	"normal"	0.63
+"TCGA-DK-AA76"	"stage ii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"female"	64	"obesity"	0.93
+"TCGA-XF-AAML"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	75	"obesity"	0.74
+"TCGA-XF-AAN0"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.06849315068493	NA	"white"	"male"	68	"overweight"	0.52
+"TCGA-4Z-AA7O"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	64	"overweight"	0.84
+"TCGA-XF-AAMG"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	49	"normal"	0.75
+"TCGA-UY-A9PF"	"stage iv"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	0.273972602739726	NA	"white"	"male"	77	"obesity"	0.37
+"TCGA-DK-AA6P"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"female"	72	"overweight"	0.83
+"TCGA-CF-A5UA"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"asian"	"male"	67	NA	0.92
+"TCGA-ZF-AA4R"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	67	"obesity"	0.66
+"TCGA-XF-AAMF"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.75342465753425	NA	"white"	"male"	68	"overweight"	0.72
+"TCGA-FD-A3NA"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	2.46575342465753	NA	"white"	"male"	60	"overweight"	0.43
+"TCGA-DK-A3WX"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"female"	67	"overweight"	0.37
+"TCGA-DK-A2I2"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.3
+"TCGA-BT-A20P"	"stage iii"	"Trigone of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	81	NA	0.93
+"TCGA-CF-A7I0"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	54	"normal"	0.68
+"TCGA-FD-A3B7"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	1.36986301369863	NA	"black or african american"	"male"	66	"normal"	0.28
+"TCGA-DK-A3X2"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	85	NA	0.92
+"TCGA-FD-A6TD"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	77	"obesity"	0.37
+"TCGA-FD-A5BT"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	84	"normal"	0.18
+"TCGA-HQ-A5NE"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	4.38356164383562	NA	"not reported"	"male"	57	"normal"	0.26
+"TCGA-CU-A3QU"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"white"	"male"	58	"overweight"	0.9
+"TCGA-G2-A2EO"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.37
+"TCGA-E7-A97P"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	73	NA	0.45
+"TCGA-CF-A47S"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	41	"normal"	0.62
+"TCGA-5N-A9KI"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.28767123287671	NA	"white"	"female"	76	"normal"	0.58
+"TCGA-DK-A3IU"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	3.28767123287671	NA	"white"	"male"	58	"obesity"	0.27
+"TCGA-DK-A2I4"	"stage iii"	"Anterior wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	79	"obesity"	0.29
+"TCGA-BT-A3PK"	"stage ii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	80	"overweight"	0.28
+"TCGA-FJ-A871"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	0.00821917808219178	NA	"white"	"male"	49	"normal"	0.81
+"TCGA-FD-A6TF"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	80	"obesity"	0.31
+"TCGA-FD-A6TG"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"white"	"male"	73	"overweight"	0.39
+"TCGA-XF-A9SJ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	3.01369863013699	NA	"white"	"male"	83	"overweight"	0.56
+"TCGA-BL-A13I"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"white"	"female"	57	"normal"	0.33
+"TCGA-K4-A54R"	"stage ii"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	59	NA	0.46
+"TCGA-UY-A8OD"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"female"	68	NA	0.54
+"TCGA-XF-A9SY"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"female"	60	"normal"	0.18
+"TCGA-4Z-AA7N"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	65	"obesity"	NA
+"TCGA-DK-A1A3"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.31506849315068	NA	"white"	"male"	60	"normal"	0.43
+"TCGA-MV-A51V"	"stage iii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	75	NA	0.75
+"TCGA-E7-A3Y1"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.82
+"TCGA-4Z-AA7Y"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.94
+"TCGA-DK-AA6U"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	0.821917808219178	NA	"white"	"male"	64	"overweight"	0.77
+"TCGA-4Z-AA82"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	59	"normal"	0.58
+"TCGA-4Z-AA87"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	72	"normal"	0.61
+"TCGA-FD-A3SP"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	0.657534246575342	NA	"white"	"male"	60	"overweight"	0.32
+"TCGA-BT-A42E"	"stage iii"	"Posterior wall of bladder"	"Papillary transitional cell carcinoma"	"no"	2.73972602739726	NA	"white"	"male"	74	"overweight"	0.48
+"TCGA-FD-A3SS"	"stage iv"	"Trigone of bladder"	"Transitional cell carcinoma"	"yes"	1.64383561643836	NA	"white"	"male"	66	"overweight"	0.76
+"TCGA-ZF-A9R3"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.58904109589041	NA	"white"	"female"	53	"obesity"	0.72
+"TCGA-XF-A9SG"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"not reported"	"male"	81	"obesity"	0.5
+"TCGA-GD-A3OP"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	84	NA	0.24
+"TCGA-4Z-AA7Q"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	79	"normal"	0.29
+"TCGA-GC-A3YS"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.17808219178082	NA	"white"	"male"	61	"normal"	0.48
+"TCGA-DK-A1AB"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.56
+"TCGA-5N-A9KM"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"female"	73	"normal"	0.72
+"TCGA-4Z-AA7S"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	66	NA	0.87
+"TCGA-E7-A85H"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.273972602739726	NA	"asian"	"male"	64	NA	0.74
+"TCGA-XF-A9T4"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	48	"normal"	0.78
+"TCGA-GD-A2C5"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.6986301369863	NA	"white"	"female"	53	"normal"	1.0
+"TCGA-ZF-A9RE"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	78	"normal"	0.76
+"TCGA-C4-A0F6"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.91780821917808	NA	"not reported"	"female"	82	"normal"	0.68
+"TCGA-UY-A78N"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.36986301369863	NA	"white"	"male"	80	"overweight"	0.78
+"TCGA-FD-A62N"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	0.547945205479452	NA	"asian"	"male"	69	"overweight"	0.25
+"TCGA-XF-A9SZ"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.64383561643836	NA	"white"	"male"	79	"overweight"	0.46
+"TCGA-GD-A76B"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	86	"overweight"	0.48
+"TCGA-K4-A83P"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	7.67123287671233	NA	"white"	"male"	77	"obesity"	0.09
+"TCGA-E7-A6MD"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	66	NA	0.47
+"TCGA-FD-A5BX"	"stage iv"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"yes"	6.08219178082192	NA	"white"	"male"	82	"obesity"	0.57
+"TCGA-FD-A3B3"	"stage iii"	"Trigone of bladder"	"Papillary transitional cell carcinoma"	"no"	1.75342465753425	NA	"white"	"female"	74	"obesity"	0.21
+"TCGA-BT-A20X"	"stage iv"	"Dome of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	56	NA	0.37
+"TCGA-DK-A2HX"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	1.0958904109589	NA	"white"	"female"	80	"normal"	0.49
+"TCGA-XF-A8HB"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	1.0958904109589	NA	"not reported"	"female"	50	"normal"	0.96
+"TCGA-BT-A20T"	"stage iv"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	63	NA	0.75
+"TCGA-ZF-AA54"	"stage iii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.43
+"TCGA-FD-A43N"	"stage iii"	"Posterior wall of bladder"	"Transitional cell carcinoma"	"no"	6.13698630136986	NA	"white"	"male"	76	"obesity"	0.5
+"TCGA-ZF-A9R1"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	81	"obesity"	0.64
+"TCGA-ZF-A9R2"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	3.17808219178082	NA	"white"	"male"	75	"normal"	0.75
+"TCGA-GC-A3I6"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	45	"overweight"	0.73
+"TCGA-FD-A3SJ"	"stage iv"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"yes"	2.19178082191781	NA	"white"	"male"	59	"normal"	0.46
+"TCGA-G2-A3IB"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"black or african american"	"male"	66	"obesity"	0.91
+"TCGA-K4-A4AC"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	83	NA	0.32
+"TCGA-DK-A1AG"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	65	"overweight"	0.92
+"TCGA-KQ-A41Q"	"stage iii"	"Anterior wall of bladder"	"Transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	89	"normal"	0.6
+"TCGA-KQ-A41R"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.0958904109589	NA	"white"	"female"	80	NA	0.71
+"TCGA-K4-A5RJ"	"stage ii"	"Posterior wall of bladder"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	75	NA	0.33
+"TCGA-FD-A43P"	"stage ii"	"Dome of bladder"	"Transitional cell carcinoma"	"yes"	2.41095890410959	NA	"black or african american"	"male"	74	"obesity"	0.42
+"TCGA-ZF-AA4X"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	56	"normal"	0.72
+"TCGA-CF-A1HS"	"stage iii"	"Bladder, NOS"	"Squamous cell carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	75	"normal"	0.54
+"TCGA-S5-A6DX"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	3.83561643835616	NA	"white"	"male"	83	"obesity"	0.39
+"TCGA-BT-A42C"	"stage ii"	"Lateral wall of bladder"	"Papillary transitional cell carcinoma"	"yes"	7.23287671232877	NA	"white"	"male"	64	"overweight"	0.66
+"TCGA-YF-AA3L"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	3.28767123287671	NA	"not reported"	"female"	47	"obesity"	0.91
+"TCGA-XF-A8HD"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	0.657534246575342	NA	"white"	"male"	77	"normal"	0.43
+"TCGA-CF-A47Y"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	55	"normal"	0.92
+"TCGA-4Z-AA80"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	73	"overweight"	0.47
+"TCGA-DK-AA74"	"stage iii"	"Dome of bladder"	"Transitional cell carcinoma"	"yes"	1.86301369863014	NA	"white"	"male"	75	"obesity"	0.21
+"TCGA-4Z-AA7W"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	55	"normal"	0.32
+"TCGA-UY-A78L"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	62	"obesity"	0.49
+"TCGA-E7-A677"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"asian"	"male"	81	NA	0.86
+"TCGA-DK-A1A7"	"stage iv"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	NA	NA	"white"	"female"	67	"normal"	0.74
+"TCGA-G2-A2EL"	"stage ii"	"Lateral wall of bladder"	"Transitional cell carcinoma"	"no"	2.19178082191781	NA	"white"	"male"	77	"overweight"	0.98
+"TCGA-G2-A2EF"	"stage ii"	"Bladder, NOS"	"Transitional cell carcinoma"	"no"	1.91780821917808	NA	"white"	"male"	50	"normal"	0.61
+"TCGA-CU-A0YO"	"stage iv"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"yes"	NA	NA	"white"	"male"	84	NA	0.33
+"TCGA-E7-A541"	"stage ii"	"Bladder, NOS"	"Papillary transitional cell carcinoma"	"no"	NA	NA	"white"	"male"	66	NA	0.39
+"TCGA-XF-A9SM"	"stage iii"	"Bladder, NOS"	"Transitional cell carcinoma"	"yes"	0.657534246575342	NA	"white"	"male"	76	"obesity"	0.2

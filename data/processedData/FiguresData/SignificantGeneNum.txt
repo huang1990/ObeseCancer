@@ -1,0 +1,15 @@
+Tumor	overweight-biased	obesity-biased
+BLCA	0	1
+CESC	0	0
+CHOL	0	0
+COAD	0	0
+DLBC	0	6
+ESCA	1	60
+KIRP	0	0
+LIHC	0	0
+READ	9	0
+SKCM	0	0
+THYM	0	0
+UCEC	0	10
+UCS	0	0
+UVM	0	0

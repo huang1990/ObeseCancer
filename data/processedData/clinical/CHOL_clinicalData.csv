@@ -1,0 +1,52 @@
+submitter_id,age_at_index,Purity,type,gender,tumor_stage,raceType,prior_malignancy
+TCGA-W5-AA2K,75,0,overweight,female,stge i,WHITE,no
+TCGA-ZH-A8Y4,58,0.67,overweight,male,stge i,WHITE,yes
+TCGA-W5-AA2U,78,0.78,normal,female,stge i,WHITE,no
+TCGA-W5-AA39,81,0.87,overweight,male,stge ii,WHITE,no
+TCGA-4G-AAZT,62,0.8,normal,male,stge i,WHITE,no
+TCGA-ZH-A8Y2,59,0.77,overweight,female,stge i,blackOrAfricanAmerican,no
+TCGA-W5-AA2J,66,0,overweight,female,stge iv,WHITE,no
+TCGA-W5-AA31,71,0.47,obesity,male,stge i,WHITE,yes
+TCGA-W7-A93O,NA,0,NA,female,stge ii,WHITE,no
+TCGA-WD-A7RX,71,0.51,normal,female,stge ii,WHITE,no
+TCGA-W5-AA2G,62,0.5,normal,female,stge i,WHITE,no
+TCGA-4G-AAZO,71,0.79,overweight,female,stge ii,WHITE,no
+TCGA-W5-AA2H,70,0.5,overweight,female,stge iii,WHITE,no
+TCGA-W5-AA34,75,0.9,overweight,female,stge i,WHITE,no
+TCGA-ZH-A8Y1,74,0.8,overweight,female,stge iv,WHITE,yes
+TCGA-W5-AA38,55,0.69,overweight,female,stge i,WHITE,no
+TCGA-W5-AA30,82,0.52,overweight,male,stge i,WHITE,no
+TCGA-ZH-A8Y3,61,0,overweight,female,stge ii,blackOrAfricanAmerican,no
+TCGA-ZH-A8Y6,41,1,obesity,female,stge i,blackOrAfricanAmerican,no
+TCGA-W5-AA2Q,68,0.91,normal,male,stge ii,WHITE,no
+TCGA-ZD-A8I3,73,0.74,normal,female,stge ii,ASIAN,no
+TCGA-W5-AA2M,49,0,normal,male,stge iv,Others,no
+TCGA-W5-AA2O,57,0.76,overweight,male,stge i,WHITE,no
+TCGA-ZH-A8Y7,59,0,normal,male,stge iv,WHITE,yes
+TCGA-W5-AA2W,31,0.87,obesity,female,stge iv,WHITE,no
+TCGA-3X-AAVA,50,0.79,NA,female,stge ii,WHITE,no
+TCGA-W5-AA2X,67,0.65,obesity,male,stge iv,WHITE,no
+TCGA-ZH-A8Y5,69,0.89,overweight,male,stge iv,WHITE,no
+TCGA-4G-AAZG,75,0,NA,male,stge iii,WHITE,yes
+TCGA-3X-AAVE,60,0.47,normal,male,stge ii,ASIAN,no
+TCGA-W5-AA2R,77,0.58,overweight,female,stge i,WHITE,no
+TCGA-ZH-A8Y8,73,0.48,overweight,male,stge i,WHITE,yes
+TCGA-W7-A93N,NA,0,NA,male,stge ii,WHITE,no
+TCGA-W5-AA2Z,29,0.67,obesity,female,stge ii,WHITE,no
+TCGA-W5-AA2T,64,0.85,overweight,female,stge ii,WHITE,yes
+TCGA-W7-A93P,NA,0,NA,female,stge ii,WHITE,no
+TCGA-4G-AAZR,74,0,NA,male,stge ii,WHITE,no
+TCGA-W5-AA33,60,0.39,obesity,male,stge i,WHITE,no
+TCGA-W5-AA36,51,0.86,normal,female,stge iv,WHITE,no
+TCGA-YR-A95A,52,0.75,normal,male,stge iv,WHITE,no
+TCGA-3X-AAVC,72,0.6,obesity,female,stge i,WHITE,no
+TCGA-W6-AA0S,46,0.78,overweight,female,stge i,WHITE,no
+TCGA-ZU-A8S4,52,0.28,obesity,male,stge i,WHITE,no
+TCGA-W6-AA0T,62,0,overweight,female,stge iii,WHITE,no
+TCGA-W5-AA2I,66,0.83,obesity,male,stge i,WHITE,no
+TCGA-3X-AAVB,70,0.34,overweight,female,stge iv,WHITE,no
+TCGA-4G-AAZF,74,0,NA,female,stge iii,WHITE,yes
+TCGA-3X-AAV9,72,0.24,NA,male,stge i,ASIAN,yes
+TCGA-ZK-AAYZ,NA,0,NA,NA,NA,NA,NA
+TCGA-5A-A8ZG,NA,0,NA,NA,NA,NA,NA
+TCGA-5A-A8ZF,NA,0,NA,NA,NA,NA,NA

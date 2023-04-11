@@ -1,0 +1,173 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-AG-A01W"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	67	NA	0.61
+"TCGA-DY-A0XA"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.7
+"TCGA-AG-3881"	"stage iia"	"Unknown primary site"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	83	NA	0.67
+"TCGA-F5-6864"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.48
+"TCGA-DC-4749"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.74
+"TCGA-CI-6619"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	41	NA	0.31
+"TCGA-AG-4008"	"stage iia"	"Colon, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	63	NA	0.5
+"TCGA-AG-4015"	"stage iia"	"Colon, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	85	NA	0.8
+"TCGA-AG-3727"	"stage iii"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	78	NA	0.89
+"TCGA-AF-6136"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"overweight"	0.58
+"TCGA-F5-6464"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.47
+"TCGA-EI-6508"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"female"	48	"overweight"	0.79
+"TCGA-CI-6624"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	NA	0.34
+"TCGA-G5-6233"	"not reported"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	74	"obesity"	0.57
+"TCGA-AG-3612"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	55	NA	0.72
+"TCGA-F5-6814"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"normal"	0.72
+"TCGA-EI-6885"	"stage iv"	"Rectum, NOS"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"female"	57	"normal"	0.59
+"TCGA-AF-A56K"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	56	"obesity"	0.55
+"TCGA-AG-3898"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	61	NA	0.53
+"TCGA-AF-3914"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	39	"normal"	NA
+"TCGA-AG-3609"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	65	NA	0.67
+"TCGA-AG-A015"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	64	NA	0.87
+"TCGA-AG-4005"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	64	NA	0.67
+"TCGA-AG-3894"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	65	NA	0.81
+"TCGA-AF-2689"	"stage iv"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	41	"normal"	0.62
+"TCGA-AG-A00C"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	49	NA	0.78
+"TCGA-DY-A1DE"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"overweight"	0.75
+"TCGA-EI-6917"	"stage iiia"	"Rectum, NOS"	"Adenocarcinoma with mixed subtypes"	"no"	NA	NA	"white"	"male"	33	"overweight"	0.52
+"TCGA-EI-6884"	"stage iiia"	"Rectum, NOS"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.42
+"TCGA-AF-2691"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	48	"normal"	0.43
+"TCGA-AG-A011"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	80	NA	0.55
+"TCGA-EF-5831"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	72	"normal"	0.63
+"TCGA-AH-6643"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	50	"overweight"	0.75
+"TCGA-EI-6510"	"not reported"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.77
+"TCGA-AG-3599"	"stage i"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"male"	70	NA	0.83
+"TCGA-AF-3911"	"stage iiic"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	48	"overweight"	0.72
+"TCGA-AG-A008"	"stage i"	"Rectum, NOS"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	50	NA	0.89
+"TCGA-AG-4022"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	59	NA	0.63
+"TCGA-F5-6861"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"normal"	0.55
+"TCGA-AG-3598"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	69	NA	0.87
+"TCGA-DC-5337"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.74
+"TCGA-AG-3891"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	66	NA	NA
+"TCGA-F5-6863"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.75
+"TCGA-DC-6160"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"obesity"	0.67
+"TCGA-F5-6702"	"stage iva"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.33
+"TCGA-AG-3892"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	57	NA	0.4
+"TCGA-CL-5917"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	NA	0.79
+"TCGA-AG-3575"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	51	NA	0.74
+"TCGA-AG-3725"	"stage iii"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	90	NA	0.81
+"TCGA-AG-3587"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	65	NA	0.79
+"TCGA-AF-5654"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.79
+"TCGA-AG-3583"	"stage iv"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	66	NA	0.64
+"TCGA-AG-A026"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	66	NA	0.9
+"TCGA-AG-3602"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	66	NA	0.64
+"TCGA-AG-3580"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	67	NA	0.72
+"TCGA-G5-6572"	"not reported"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	56	"obesity"	0.75
+"TCGA-AG-4001"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	74	NA	0.48
+"TCGA-DC-6683"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	43	"normal"	0.61
+"TCGA-AG-3902"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	61	NA	0.53
+"TCGA-AG-A00H"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	75	NA	0.45
+"TCGA-AG-3594"	"stage iia"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"male"	77	NA	0.63
+"TCGA-F5-6813"	"stage iiic"	"Connective, subcutaneous and other soft tissues of abdomen"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.67
+"TCGA-AG-3890"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	62	NA	0.71
+"TCGA-AG-3586"	"stage iii"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	72	NA	0.75
+"TCGA-AH-6549"	"not reported"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	NA	NA
+"TCGA-AG-A020"	"stage iii"	"Rectum, NOS"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	57	NA	0.87
+"TCGA-AG-3593"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	72	NA	0.73
+"TCGA-AG-3893"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	74	NA	0.72
+"TCGA-AG-A02X"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	77	NA	0.87
+"TCGA-AG-3581"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	63	NA	0.65
+"TCGA-EF-5830"	"stage iib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.84
+"TCGA-AG-A025"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	62	NA	0.77
+"TCGA-AG-3608"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	79	NA	0.74
+"TCGA-EI-6513"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.84
+"TCGA-AF-2693"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	"obesity"	0.63
+"TCGA-DY-A1DD"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	NA	0.88
+"TCGA-DY-A1DF"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.92
+"TCGA-AG-3592"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	68	NA	0.7
+"TCGA-AG-A01J"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	59	NA	0.5
+"TCGA-DC-5869"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	62	"normal"	0.55
+"TCGA-AF-2687"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.44
+"TCGA-AG-A02G"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	66	NA	0.8
+"TCGA-AG-3726"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	63	NA	0.76
+"TCGA-AG-3605"	"stage iv"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	85	NA	0.71
+"TCGA-AG-3906"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	67	NA	NA
+"TCGA-AG-4007"	"stage iv"	"Colon, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	87	NA	0.69
+"TCGA-AG-3728"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	73	NA	0.55
+"TCGA-F5-6571"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"overweight"	0.76
+"TCGA-CI-6621"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	NA	0.46
+"TCGA-AG-A01N"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	68	NA	0.59
+"TCGA-AG-A023"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"female"	62	NA	0.55
+"TCGA-AF-2690"	"stage iiic"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"normal"	0.37
+"TCGA-CL-4957"	"not reported"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	79	NA	0.61
+"TCGA-AG-3732"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	78	NA	0.69
+"TCGA-EI-6881"	"stage iiia"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.61
+"TCGA-AG-3909"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	69	NA	0.56
+"TCGA-AG-3742"	"stage i"	"Colon, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	85	NA	0.79
+"TCGA-DC-6156"	"stage iva"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	"overweight"	0.44
+"TCGA-EI-6511"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"male"	52	"overweight"	0.65
+"TCGA-DC-6157"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	48	"obesity"	0.5
+"TCGA-AF-6672"	"stage iv"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	43	"obesity"	0.71
+"TCGA-AF-3400"	"stage iia"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.23
+"TCGA-AG-A00Y"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	68	NA	0.7
+"TCGA-AH-6897"	"stage i"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	48	"overweight"	0.83
+"TCGA-CI-6620"	"stage iva"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	41	NA	0.45
+"TCGA-AG-4009"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	83	NA	NA
+"TCGA-F5-6811"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.6
+"TCGA-AF-A56N"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	47	"overweight"	0.8
+"TCGA-G5-6641"	"stage iiia"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"yes"	NA	NA	"white"	"male"	67	"obesity"	0.77
+"TCGA-AG-3591"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	66	NA	0.84
+"TCGA-AG-A002"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	35	NA	0.82
+"TCGA-AG-3574"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	89	NA	0.86
+"TCGA-G5-6235"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	72	"overweight"	0.33
+"TCGA-AH-6547"	"not reported"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	NA	0.36
+"TCGA-EI-6506"	"stage iia"	"Rectum, NOS"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"female"	78	"normal"	0.45
+"TCGA-DC-4745"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	49	"obesity"	0.81
+"TCGA-AG-3578"	"stage iia"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	76	NA	0.77
+"TCGA-AH-6644"	"not reported"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	NA	0.57
+"TCGA-AG-3731"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	65	NA	0.3
+"TCGA-AG-3582"	"stage iv"	"Colon, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	75	NA	0.76
+"TCGA-EI-6882"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma with mixed subtypes"	"no"	NA	NA	"white"	"male"	59	"obesity"	0.79
+"TCGA-DY-A1DG"	"stage iva"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	"overweight"	0.92
+"TCGA-AF-3912"	"not reported"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"not reported"	NA	NA	"not reported"	"not reported"	NA	NA	NA
+"TCGA-DY-A1DC"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	NA	0.71
+"TCGA-DC-6158"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.54
+"TCGA-AG-4021"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	84	NA	0.81
+"TCGA-EI-7002"	"stage iv"	"Rectum, NOS"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"male"	58	"overweight"	0.8
+"TCGA-DC-6155"	"stage iiia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	31	"normal"	0.63
+"TCGA-DY-A1H8"	"stage iiia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	NA	0.89
+"TCGA-AG-3901"	"stage iiib"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"female"	67	NA	0.44
+"TCGA-AG-A02N"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	67	NA	0.83
+"TCGA-AF-A56L"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	48	"overweight"	0.5
+"TCGA-DC-6681"	"stage iva"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"overweight"	0.57
+"TCGA-AF-3913"	"stage iv"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	60	"overweight"	0.76
+"TCGA-AG-3885"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	71	NA	0.76
+"TCGA-AF-4110"	"stage iva"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"overweight"	0.42
+"TCGA-EI-6883"	"stage iic"	"Rectum, NOS"	"Tubular adenocarcinoma"	"no"	NA	NA	"white"	"male"	63	"normal"	0.8
+"TCGA-AG-3999"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	61	NA	0.72
+"TCGA-CI-6622"	"stage iib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	NA	0.67
+"TCGA-F5-6465"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.55
+"TCGA-AG-3882"	"stage i"	"Colon, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	66	NA	0.62
+"TCGA-AG-A032"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	68	NA	0.69
+"TCGA-CL-5918"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	90	NA	0.77
+"TCGA-AG-3584"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	60	NA	0.77
+"TCGA-EI-6514"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"female"	59	NA	0.72
+"TCGA-AH-6544"	"not reported"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.46
+"TCGA-AG-3601"	"stage iiib"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	68	NA	0.76
+"TCGA-AG-A036"	"stage iii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	71	NA	NA
+"TCGA-DC-6154"	"stage iva"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"normal"	0.86
+"TCGA-CI-6623"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	44	NA	0.54
+"TCGA-AG-3600"	"stage iiic"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	62	NA	0.76
+"TCGA-EI-6509"	"stage iiic"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.83
+"TCGA-AG-3896"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	85	NA	0.64
+"TCGA-DT-5265"	"stage ii"	"Rectum, NOS"	"Mucinous adenocarcinoma"	"no"	NA	NA	"asian"	"male"	51	NA	0.66
+"TCGA-EI-7004"	"not reported"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"white"	"female"	37	"overweight"	0.49
+"TCGA-AG-A01L"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	58	NA	0.78
+"TCGA-EI-6512"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma in tubolovillous adenoma"	"no"	NA	NA	"white"	"female"	64	"normal"	0.63
+"TCGA-AH-6903"	"stage iiib"	"Rectosigmoid junction"	"Mucinous adenocarcinoma"	"no"	NA	NA	"white"	"male"	46	"normal"	0.64
+"TCGA-AG-3883"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	69	NA	0.56
+"TCGA-AG-3887"	"stage iia"	"Rectum, NOS"	"Mucinous adenocarcinoma"	"no"	NA	NA	"not reported"	"male"	68	NA	0.83
+"TCGA-AF-6655"	"stage iiia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	NA	0.62
+"TCGA-AG-A014"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	86	NA	0.78
+"TCGA-EI-6507"	"stage iia"	"Rectum, NOS"	"Mucinous adenocarcinoma"	"no"	NA	NA	"white"	"male"	60	NA	0.56
+"TCGA-F5-6812"	"stage iia"	"Connective, subcutaneous and other soft tissues of abdomen"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	"overweight"	0.56
+"TCGA-AG-A016"	"stage iv"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	55	NA	0.87
+"TCGA-DC-6682"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"obesity"	0.48
+"TCGA-AG-A01Y"	"stage ii"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	49	NA	0.79
+"TCGA-BM-6198"	"stage iiib"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	73	NA	NA
+"TCGA-AG-3611"	"stage iia"	"Rectosigmoid junction"	"Adenocarcinoma, NOS"	"yes"	NA	NA	"not reported"	"male"	72	NA	0.87
+"TCGA-AF-2692"	"stage iia"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"normal"	0.74
+"TCGA-AG-3878"	"stage i"	"Rectum, NOS"	"Adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	64	NA	0.42
+"TCGA-F5-6810"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.65

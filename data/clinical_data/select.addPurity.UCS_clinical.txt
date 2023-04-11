@@ -1,0 +1,58 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-N9-A4Q1"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	70	"overweight"	0.88
+"TCGA-NA-A4QY"	"not reported"	"Uterus, NOS"	"Mesodermal mixed tumor"	"no"	NA	NA	"white"	"female"	62	NA	0.77
+"TCGA-N7-A4Y8"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	72	"overweight"	0.91
+"TCGA-N7-A4Y5"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	87	"normal"	0.93
+"TCGA-NF-A4X2"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.81
+"TCGA-NG-A4VU"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.92
+"TCGA-NA-A4R0"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	80	"normal"	0.29
+"TCGA-NA-A4QX"	"not reported"	"Uterus, NOS"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	60	NA	0.76
+"TCGA-N8-A4PL"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	82	"normal"	0.92
+"TCGA-N7-A4Y0"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	65	"overweight"	0.83
+"TCGA-N8-A4PI"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.78
+"TCGA-NA-A4QV"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"no"	NA	NA	"black or african american"	"female"	72	"overweight"	0.83
+"TCGA-N5-A4RU"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	54	"normal"	0.72
+"TCGA-N6-A4VE"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"white"	"female"	84	NA	0.95
+"TCGA-N5-A4R8"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	65	"normal"	NA
+"TCGA-N5-A59E"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.93
+"TCGA-N8-A4PN"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.96
+"TCGA-N8-A4PO"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"no"	NA	NA	"black or african american"	"female"	66	"obesity"	0.93
+"TCGA-N5-A4RO"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	67	"overweight"	0.93
+"TCGA-N5-A4RN"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"white"	"female"	71	"obesity"	0.93
+"TCGA-N6-A4V9"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.97
+"TCGA-QN-A5NN"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"asian"	"female"	55	"normal"	0.71
+"TCGA-ND-A4WC"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"asian"	"female"	83	"overweight"	0.73
+"TCGA-ND-A4WA"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"asian"	"female"	90	"normal"	0.95
+"TCGA-NA-A4QW"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.82
+"TCGA-NA-A5I1"	"not reported"	"Uterus, NOS"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	80	"normal"	0.82
+"TCGA-N5-A4RJ"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.86
+"TCGA-N9-A4Q4"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	61	"obesity"	0.94
+"TCGA-N9-A4Q8"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.84
+"TCGA-N6-A4VG"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.85
+"TCGA-N7-A59B"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.9
+"TCGA-N8-A56S"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	75	"normal"	0.75
+"TCGA-NG-A4VW"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	74	"overweight"	0.36
+"TCGA-N5-A4RT"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"white"	"female"	69	"normal"	0.91
+"TCGA-N9-A4PZ"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.82
+"TCGA-N8-A4PM"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"yes"	NA	NA	"white"	"female"	73	"obesity"	0.9
+"TCGA-NF-A5CP"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	90	"overweight"	0.79
+"TCGA-N5-A4RM"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.96
+"TCGA-ND-A4W6"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	67	"normal"	0.44
+"TCGA-N9-A4Q7"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	69	"obesity"	0.32
+"TCGA-N9-A4Q3"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.89
+"TCGA-QM-A5NM"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"white"	"female"	67	"overweight"	0.87
+"TCGA-ND-A4WF"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.95
+"TCGA-N6-A4VF"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.72
+"TCGA-N5-A4RS"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	65	"normal"	0.97
+"TCGA-N6-A4VD"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"yes"	NA	NA	"white"	"female"	81	NA	0.86
+"TCGA-NF-A4WX"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"not reported"	"female"	61	"obesity"	0.9
+"TCGA-N8-A4PP"	"not reported"	"Corpus uteri"	"Carcinosarcoma, NOS"	"yes"	NA	NA	"white"	"female"	88	"normal"	0.53
+"TCGA-N5-A4RD"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	69	"normal"	0.91
+"TCGA-N5-A4RV"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	62	"normal"	0.97
+"TCGA-N6-A4VC"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	83	"obesity"	0.83
+"TCGA-N8-A4PQ"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	76	"obesity"	0.64
+"TCGA-NF-A4WU"	"not reported"	"Uterus, NOS"	"Carcinosarcoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.55
+"TCGA-NA-A4R1"	"not reported"	"Uterus, NOS"	"Carcinosarcoma, NOS"	"no"	NA	NA	"black or african american"	"female"	75	NA	0.97
+"TCGA-N5-A4RA"	"not reported"	"Uterus, NOS"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.82
+"TCGA-N5-A4RF"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"white"	"female"	68	"normal"	0.74
+"TCGA-N5-A59F"	"not reported"	"Corpus uteri"	"Mullerian mixed tumor"	"no"	NA	NA	"black or african american"	"female"	65	"normal"	0.72

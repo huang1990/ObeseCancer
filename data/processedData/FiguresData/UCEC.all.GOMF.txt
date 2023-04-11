@@ -1,0 +1,84 @@
+fibroblast growth factor receptor binding (GO:0005104)	3/23	6.62377138534982e-05	ob.am
+neuropeptide receptor binding (GO:0071855)	2/18	0.00173178171962537	ob.am
+growth factor activity (GO:0008083)	3/87	0.00338652589468572	ob.am
+neuropeptide hormone activity (GO:0005184)	2/26	0.00361372406457452	ob.am
+growth factor receptor binding (GO:0070851)	3/105	0.00573111640473348	ob.am
+ribosome binding (GO:0043022)	2/48	0.0119453747754556	ob.am
+melanocortin receptor binding (GO:0031779)	1/5	0.01713294726931	ob.am
+NAADP-sensitive calcium-release channel activity (GO:0072345)	1/5	0.01713294726931	ob.am
+carnitine O-acyltransferase activity (GO:0016406)	1/6	0.0205246718159305	ob.am
+receptor ligand activity (GO:0048018)	4/307	0.0215804133755644	ob.am
+5'-3' DNA helicase activity (GO:0043139)	1/7	0.0239048624297549	ob.am
+acid-amino acid ligase activity (GO:0016881)	1/7	0.0239048624297549	ob.am
+threonine-type peptidase activity (GO:0070003)	1/7	0.0239048624297549	ob.am
+mannosyl-oligosaccharide 1,2-alpha-mannosidase activity (GO:0004571)	1/7	0.0239048624297549	ob.am
+mannosyl-oligosaccharide mannosidase activity (GO:0015924)	1/7	0.0239048624297549	ob.am
+GPI anchor binding (GO:0034235)	1/7	0.0239048624297549	ob.am
+sulfurtransferase activity (GO:0016783)	1/8	0.027273557473831	ob.am
+hormone activity (GO:0005179)	2/78	0.0297680936992517	ob.am
+phosphatidylethanolamine binding (GO:0008429)	1/9	0.0306307952824743	ob.am
+ionotropic glutamate receptor binding (GO:0035255)	1/10	0.033976614095502	ob.am
+voltage-gated chloride channel activity (GO:0005247)	1/10	0.033976614095502	ob.am
+AMP binding (GO:0016208)	1/11	0.0373110520780908	ob.am
+retinoid X receptor binding (GO:0046965)	1/11	0.0373110520780908	ob.am
+ribosomal large subunit binding (GO:0043023)	1/12	0.0406341472797855	ob.am
+BMP binding (GO:0036122)	1/12	0.0406341472797855	ob.am
+caspase binding (GO:0089720)	1/12	0.0406341472797855	ob.am
+acid-thiol ligase activity (GO:0016878)	1/13	0.0439459376578998	ob.am
+CoA-ligase activity (GO:0016405)	1/14	0.0472464610426503	ob.am
+deoxycytidine deaminase activity (GO:0047844)	7/8	7.30057095524776e-12	ob.del
+cytidine deaminase activity (GO:0004126)	7/12	6.76196254461154e-10	ob.del
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines (GO:0016814)	7/19	3.82899962811381e-08	ob.del
+N-acetylglucosamine 6-O-sulfotransferase activity (GO:0001517)	3/7	0.000233875921832257	ob.del
+testosterone dehydrogenase [NAD(P)] activity (GO:0030283)	2/5	0.00355656857190778	ob.del
+serine-type endopeptidase activity (GO:0004252)	7/105	0.0042030468335579	ob.del
+growth factor activity (GO:0008083)	6/87	0.00667783382088637	ob.del
+sulfotransferase activity (GO:0008146)	4/40	0.00715267939967467	ob.del
+tRNA-specific adenosine deaminase activity (GO:0008251)	2/8	0.00958419995020716	ob.del
+neurotrophin binding (GO:0043121)	2/8	0.00958419995020716	ob.del
+estradiol 17-beta-dehydrogenase activity (GO:0004303)	2/8	0.00958419995020716	ob.del
+serine-type peptidase activity (GO:0008236)	7/125	0.0106521998382534	ob.del
+adenosine deaminase activity (GO:0004000)	2/10	0.0150163993876406	ob.del
+kinesin binding (GO:0019894)	3/29	0.0178543160631264	ob.del
+platelet-derived growth factor binding (GO:0048407)	2/11	0.0181220439516613	ob.del
+chemokine binding (GO:0019956)	3/32	0.023235507134236	ob.del
+nucleoside diphosphate kinase activity (GO:0004550)	2/14	0.0288678023347495	ob.del
+protein heterodimerization activity (GO:0046982)	8/188	0.029521715337584	ob.del
+ribosomal small subunit binding (GO:0043024)	2/17	0.0415452216744065	ob.del
+nucleobase-containing compound kinase activity (GO:0019205)	2/17	0.0415452216744065	ob.del
+RNA binding (GO:0003723)	36/1406	0.0491319950643259	ob.del
+intramolecular oxidoreductase activity, transposing C=C bonds (GO:0016863)	2/13	0.000346921413702393	nor.am
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor (GO:0016616)	3/87	0.000865208601479016	nor.am
+steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor (GO:0033764)	2/21	0.000923880925651834	nor.am
+P-type sodium transporter activity (GO:0008554)	1/6	0.0128323377374526	nor.am
+P-type sodium:potassium-exchanging transporter activity (GO:0005391)	1/6	0.0128323377374526	nor.am
+sodium ion binding (GO:0031402)	1/6	0.0128323377374526	nor.am
+mannosyl-oligosaccharide 1,2-alpha-mannosidase activity (GO:0004571)	1/7	0.0149553741881686	nor.am
+mannosyl-oligosaccharide mannosidase activity (GO:0015924)	1/7	0.0149553741881686	nor.am
+P-type potassium transmembrane transporter activity (GO:0008556)	1/7	0.0149553741881686	nor.am
+potassium ion binding (GO:0030955)	1/9	0.0191880788234401	nor.am
+alkali metal ion binding (GO:0031420)	1/13	0.027600267431624	nor.am
+growth hormone receptor binding (GO:0005131)	5/9	8.73258025231705e-09	nor.del
+hormone receptor binding (GO:0051427)	5/21	1.28616776154888e-06	nor.del
+growth factor activity (GO:0008083)	6/87	0.000176088871888911	nor.del
+cytokine receptor binding (GO:0005126)	6/105	0.000487841961854508	nor.del
+hormone activity (GO:0005179)	5/78	0.000863588693812332	nor.del
+serine-type exopeptidase activity (GO:0070008)	2/7	0.00180814510621807	nor.del
+nuclear receptor binding (GO:0016922)	5/120	0.00567614827344306	nor.del
+protein kinase A catalytic subunit binding (GO:0034236)	2/13	0.0064700610948986	nor.del
+vitamin D receptor binding (GO:0042809)	2/14	0.00750174255099869	nor.del
+phosphatidylcholine transporter activity (GO:0008525)	2/18	0.0123044039540048	nor.del
+TBP-class protein binding (GO:0017025)	2/22	0.0181243532212572	nor.del
+inward rectifier potassium channel activity (GO:0005242)	2/25	0.0231075907946105	nor.del
+general transcription initiation factor binding (GO:0140296)	2/26	0.0248798970854269	nor.del
+androgen receptor binding (GO:0050681)	2/27	0.0267058396026313	nor.del
+thyroid hormone receptor binding (GO:0046966)	2/28	0.0285842578076334	nor.del
+mitogen-activated protein kinase binding (GO:0051019)	2/29	0.0305140081075518	nor.del
+voltage-gated potassium channel activity (GO:0005249)	3/82	0.0427282176690247	nor.del
+RNA 2'-O-methyltransferase activity (GO:0062105)	1/5	0.0463696956816514	nor.del
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity (GO:0052629)	1/5	0.0463696956816514	nor.del
+U2 snRNA binding (GO:0030620)	1/5	0.0463696956816514	nor.del
+G protein-coupled receptor binding (GO:0001664)	4/143	0.0469304036109172	nor.del
+calcium channel regulator activity (GO:0005246)	2/37	0.0476681577540553	nor.del
+protein serine/threonine kinase activator activity (GO:0043539)	2/37	0.0476681577540553	nor.del
+voltage-gated calcium channel activity (GO:0005245)	2/37	0.0476681577540553	nor.del

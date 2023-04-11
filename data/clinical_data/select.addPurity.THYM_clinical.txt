@@ -1,0 +1,125 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-XU-A930"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"male"	43	"overweight"	0.64
+"TCGA-XM-A8RD"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"yes"	NA	NA	"white"	"female"	69	"normal"	
+"TCGA-4V-A9QX"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	77	"normal"	0.17
+"TCGA-3T-AA9L"	"not reported"	"Mediastinum, NOS"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	31	"obesity"	
+"TCGA-XU-AAXZ"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"male"	63	"overweight"	0.67
+"TCGA-ZB-A96H"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	73	"overweight"	1.0
+"TCGA-5U-AB0F"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, malignant"	"yes"	NA	NA	"white"	"female"	58	NA	0.24
+"TCGA-4V-A9QQ"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	65	"normal"	
+"TCGA-XM-A8RH"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	60	"normal"	
+"TCGA-ZB-A96A"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.25
+"TCGA-X7-A8M5"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	65	NA	0.5
+"TCGA-X7-A8DE"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	35	NA	
+"TCGA-ZB-A963"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	46	"overweight"	0.3
+"TCGA-XU-AAY0"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"asian"	"female"	62	"overweight"	0.27
+"TCGA-XU-A92Z"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	76	"normal"	0.69
+"TCGA-ZB-A96P"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"male"	73	"overweight"	0.26
+"TCGA-XU-A931"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.65
+"TCGA-ZB-A96L"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	70	"overweight"	0.81
+"TCGA-ZB-A96F"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	39	"obesity"	0.25
+"TCGA-5U-AB0E"	"not reported"	"Anterior mediastinum"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"male"	62	NA	0.31
+"TCGA-ZL-A9V6"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.64
+"TCGA-4X-A9FA"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	52	"overweight"	0.93
+"TCGA-4V-A9QM"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	39	"normal"	0.34
+"TCGA-3G-AB19"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"yes"	NA	NA	"white"	"female"	76	"obesity"	0.76
+"TCGA-XU-A92R"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"asian"	"female"	76	"normal"	0.22
+"TCGA-X7-A8DD"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	54	NA	
+"TCGA-ZB-A96O"	"not reported"	"Anterior mediastinum"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.28
+"TCGA-ZB-A964"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	70	NA	1.0
+"TCGA-XU-A933"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	52	"obesity"	0.76
+"TCGA-4X-A9FD"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	43	"normal"	0.33
+"TCGA-XU-A92Y"	"not reported"	"Anterior mediastinum"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.2
+"TCGA-ZB-A966"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"normal"	0.63
+"TCGA-XM-A8RI"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"not reported"	"male"	77	"overweight"	
+"TCGA-ZC-AAA7"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"normal"	0.36
+"TCGA-ZC-AAAH"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	52	"overweight"	0.25
+"TCGA-XH-A853"	"not reported"	"Thymus"	"Thymoma, type AB, NOS"	"no"	NA	NA	"black or african american"	"male"	67	"obesity"	
+"TCGA-3G-AB0T"	"not reported"	"Mediastinum, NOS"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"male"	45	"obesity"	0.32
+"TCGA-XM-AAZ1"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"yes"	NA	NA	"white"	"male"	42	"overweight"	0.65
+"TCGA-X7-A8DJ"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, NOS"	"no"	NA	NA	"not reported"	"male"	68	"obesity"	0.27
+"TCGA-X7-A8DB"	"not reported"	"Thymus"	"Thymoma, type B2, NOS"	"no"	NA	NA	"white"	"female"	71	NA	0.29
+"TCGA-XM-A8RG"	"not reported"	"Thymus"	"Thymoma, type A, NOS"	"yes"	NA	NA	"white"	"male"	67	"normal"	0.91
+"TCGA-X7-A8M7"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	26	NA	0.3
+"TCGA-XU-A92Q"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"asian"	"male"	50	"overweight"	0.96
+"TCGA-YT-A95D"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	50	"normal"	0.7
+"TCGA-ZB-A96G"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.2
+"TCGA-XU-AAXX"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	44	"overweight"	0.27
+"TCGA-XM-AAZ3"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	64	"obesity"	0.8
+"TCGA-ZB-A962"	"not reported"	"Anterior mediastinum"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.91
+"TCGA-YT-A95G"	"not reported"	"Thymus"	"Thymoma, type B2, NOS"	"no"	NA	NA	"white"	"female"	61	"normal"	0.72
+"TCGA-XM-AAZ2"	"not reported"	"Anterior mediastinum"	"Thymoma, type A, malignant"	"no"	NA	NA	"black or african american"	"male"	73	"normal"	0.24
+"TCGA-XU-A92T"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	81	"normal"	0.96
+"TCGA-ZB-A961"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.51
+"TCGA-5G-A9ZZ"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	"overweight"	0.39
+"TCGA-4V-A9QI"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	68	"normal"	0.26
+"TCGA-4V-A9QW"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	62	"overweight"	0.46
+"TCGA-4X-A9F9"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	57	"normal"	
+"TCGA-ZC-AAAA"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	39	"normal"	0.29
+"TCGA-3S-A8YW"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"obesity"	0.67
+"TCGA-X7-A8M4"	"not reported"	"Mediastinum, NOS"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	41	NA	
+"TCGA-XU-AAXV"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	45	NA	NA
+"TCGA-ZB-A96M"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.37
+"TCGA-X7-A8DI"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	57	NA	0.5
+"TCGA-XU-A92O"	"not reported"	"Thymus"	"Thymoma, type A, NOS"	"no"	NA	NA	"asian"	"male"	63	"normal"	0.69
+"TCGA-X7-A8DC"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	68	"normal"	0.23
+"TCGA-XM-A8RF"	"not reported"	"Anterior mediastinum"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"female"	84	"obesity"	0.75
+"TCGA-X7-A8DG"	"not reported"	"Thymus"	"Thymoma, type B2, NOS"	"no"	NA	NA	"white"	"male"	47	"normal"	
+"TCGA-ZB-A96V"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"male"	44	"overweight"	0.46
+"TCGA-3G-AB0Q"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	66	"normal"	0.46
+"TCGA-X7-A8M8"	"not reported"	"Thymus"	"Thymoma, type B2, NOS"	"no"	NA	NA	"black or african american"	"male"	45	NA	0.32
+"TCGA-4V-A9QL"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	58	"normal"	0.41
+"TCGA-XU-A92U"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	67	NA	1.0
+"TCGA-4X-A9FB"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"yes"	NA	NA	"white"	"male"	44	"normal"	
+"TCGA-XM-A8RL"	"not reported"	"Anterior mediastinum"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"male"	44	"obesity"	0.29
+"TCGA-X7-A8M0"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	61	NA	0.29
+"TCGA-X7-A8M1"	"not reported"	"Thymus"	"Thymoma, type AB, NOS"	"no"	NA	NA	"asian"	"male"	51	NA	0.5
+"TCGA-XM-A8R8"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	67	"overweight"	0.68
+"TCGA-4V-A9QS"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	53	"overweight"	0.18
+"TCGA-ZB-A96D"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	52	"obesity"	0.28
+"TCGA-X7-A8DF"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	40	NA	
+"TCGA-XU-A92X"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"asian"	"male"	17	"obesity"	0.27
+"TCGA-XM-A8R9"	"not reported"	"Anterior mediastinum"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.25
+"TCGA-5K-AAAP"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	54	"normal"	0.45
+"TCGA-5V-A9RR"	"not reported"	"Thymus"	"Thymoma, type AB, NOS"	"no"	NA	NA	"white"	"male"	67	"obesity"	0.54
+"TCGA-ZB-A96C"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"yes"	NA	NA	"white"	"female"	77	"overweight"	0.82
+"TCGA-XU-A932"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"asian"	"male"	37	"overweight"	0.13
+"TCGA-ZB-A965"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"yes"	NA	NA	"white"	"female"	75	"obesity"	0.75
+"TCGA-XU-A92W"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.62
+"TCGA-5U-AB0D"	"not reported"	"Anterior mediastinum"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	NA	0.7
+"TCGA-ZB-A96E"	"not reported"	"Thymus"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"male"	60	"overweight"	1.0
+"TCGA-XU-AAXW"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"asian"	"female"	39	"overweight"	0.32
+"TCGA-XU-AAY1"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"asian"	"female"	51	"normal"	0.27
+"TCGA-ZB-A96R"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	38	"normal"	0.27
+"TCGA-YT-A95H"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, NOS"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.2
+"TCGA-ZB-A96K"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"yes"	NA	NA	"white"	"male"	69	"overweight"	0.44
+"TCGA-4X-A9FC"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	50	"normal"	
+"TCGA-XU-AAXY"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	43	"overweight"	0.32
+"TCGA-4V-A9QJ"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"male"	64	"normal"	0.37
+"TCGA-XM-A8RB"	"not reported"	"Thymus"	"Thymoma, type B1, NOS"	"no"	NA	NA	"black or african american"	"female"	68	"obesity"	0.35
+"TCGA-ZB-A969"	"not reported"	"Anterior mediastinum"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"overweight"	0.88
+"TCGA-YT-A95E"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, NOS"	"no"	NA	NA	"white"	"male"	52	"normal"	1.0
+"TCGA-3G-AB14"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	51	NA	0.46
+"TCGA-4V-A9QN"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	40	NA	0.87
+"TCGA-YT-A95F"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, NOS"	"yes"	NA	NA	"white"	"female"	55	"overweight"	
+"TCGA-ZB-A96I"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	71	NA	0.65
+"TCGA-ZC-AAAF"	"not reported"	"Anterior mediastinum"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	74	"normal"	0.27
+"TCGA-XU-A936"	"not reported"	"Thymus"	"Thymic carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.39
+"TCGA-XU-A92V"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"asian"	"female"	72	"normal"	0.67
+"TCGA-ZB-A96B"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"male"	51	"overweight"	0.2
+"TCGA-ZT-A8OM"	"not reported"	"Mediastinum, NOS"	"Thymoma, type A, malignant"	"no"	NA	NA	"white"	"female"	73	"normal"	0.96
+"TCGA-4V-A9QT"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	79	"obesity"	0.26
+"TCGA-4V-A9QU"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.23
+"TCGA-X7-A8M3"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	64	NA	0.89
+"TCGA-X7-A8D9"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"female"	NA	NA	0.4
+"TCGA-3G-AB0O"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"male"	47	"obesity"	0.26
+"TCGA-X7-A8D6"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"female"	48	NA	0.5
+"TCGA-XM-A8RE"	"not reported"	"Thymus"	"Thymoma, type AB, NOS"	"no"	NA	NA	"white"	"female"	54	"normal"	
+"TCGA-X7-A8D7"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"black or african american"	"female"	46	NA	0.25
+"TCGA-3Q-A9WF"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"black or african american"	"male"	71	NA	0.33
+"TCGA-3S-AAYX"	"not reported"	"Thymus"	"Thymoma, type B1, malignant"	"no"	NA	NA	"white"	"female"	55	"overweight"	
+"TCGA-ZB-A96Q"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	49	"overweight"	0.28
+"TCGA-X7-A8D8"	"not reported"	"Thymus"	"Thymoma, type AB, malignant"	"no"	NA	NA	"white"	"male"	53	NA	0.48
+"TCGA-X7-A8M6"	"not reported"	"Thymus"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	43	NA	0.24
+"TCGA-XM-A8RC"	"not reported"	"Anterior mediastinum"	"Thymoma, type B2, malignant"	"no"	NA	NA	"white"	"male"	67	"obesity"	0.19
+"TCGA-4V-A9QR"	"not reported"	"Thymus"	"Thymoma, type B3, malignant"	"no"	NA	NA	"white"	"female"	51	"normal"	0.28

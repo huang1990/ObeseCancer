@@ -1,0 +1,15 @@
+Term	Overlap	Pvalue	Cancer
+Ferroptosis	2/41	0.00881924597768414	UCEC
+Chemical carcinogenesis	4/239	0.00937430560596141	UCEC
+Calcium signaling pathway	4/240	0.0095088489874418	UCEC
+Cysteine and methionine metabolism	2/50	0.0129153730394233	UCEC
+Glutathione metabolism	2/57	0.0165688368028247	UCEC
+Sulfur relay system	1/8	0.027273557473831	UCEC
+PI3K-Akt signaling pathway	4/354	0.0339553007941175	UCEC
+Rap1 signaling pathway	3/210	0.0360536012657591	UCEC
+Taurine and hypotaurine metabolism	1/11	0.0373110520780908	UCEC
+Regulation of actin cytoskeleton	3/218	0.0395849387075382	UCEC
+Ras signaling pathway	3/232	0.0461725133287167	UCEC
+Citrate cycle (TCA cycle)	4/30	0.00453396799769597	ESCA
+Pentose phosphate pathway	3/30	0.0301433899415325	ESCA
+SNARE interactions in vesicular transport	3/33	0.0385479520256479	ESCA

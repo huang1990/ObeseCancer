@@ -1,0 +1,52 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-W5-AA2K"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	75	"overweight"	NA
+"TCGA-ZH-A8Y4"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"male"	58	"overweight"	0.67
+"TCGA-W5-AA2U"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	78	"normal"	0.78
+"TCGA-W5-AA39"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	81	"overweight"	0.87
+"TCGA-4G-AAZT"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	62	"normal"	0.8
+"TCGA-ZH-A8Y2"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"black or african american"	"female"	59	"overweight"	0.77
+"TCGA-W5-AA2J"	"stage iva"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	66	"overweight"	NA
+"TCGA-W5-AA31"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"male"	71	"obesity"	0.47
+"TCGA-W7-A93O"	"stage iib"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	NA	NA	NA
+"TCGA-WD-A7RX"	"stage ii"	"Liver"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	71	"normal"	0.51
+"TCGA-W5-AA2G"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	62	"normal"	0.5
+"TCGA-4G-AAZO"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.79
+"TCGA-W5-AA2H"	"stage iii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	70	"overweight"	0.5
+"TCGA-W5-AA34"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	75	"overweight"	0.9
+"TCGA-ZH-A8Y1"	"stage iva"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"female"	74	"overweight"	0.8
+"TCGA-W5-AA38"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	55	"overweight"	0.69
+"TCGA-W5-AA30"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	82	"overweight"	0.52
+"TCGA-ZH-A8Y3"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"black or african american"	"female"	61	"overweight"	NA
+"TCGA-ZH-A8Y6"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"black or african american"	"female"	41	"obesity"	1.0
+"TCGA-W5-AA2Q"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	68	"normal"	0.91
+"TCGA-ZD-A8I3"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"asian"	"female"	73	"normal"	0.74
+"TCGA-W5-AA2M"	"stage ivb"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"not reported"	"male"	49	"normal"	NA
+"TCGA-W5-AA2O"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.76
+"TCGA-ZH-A8Y7"	"stage ivb"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"male"	59	"normal"	NA
+"TCGA-W5-AA2W"	"stage iva"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	31	"obesity"	0.87
+"TCGA-3X-AAVA"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	50	NA	0.79
+"TCGA-W5-AA2X"	"stage ivb"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	67	"obesity"	0.65
+"TCGA-ZH-A8Y5"	"stage ivb"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.89
+"TCGA-4G-AAZG"	"stage iii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"male"	75	NA	NA
+"TCGA-3X-AAVE"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"asian"	"male"	60	"normal"	0.47
+"TCGA-W5-AA2R"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.58
+"TCGA-ZH-A8Y8"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"male"	73	"overweight"	0.48
+"TCGA-W7-A93N"	"stage iib"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	NA	NA	NA
+"TCGA-W5-AA2Z"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	29	"obesity"	0.67
+"TCGA-W5-AA2T"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"female"	64	"overweight"	0.85
+"TCGA-W7-A93P"	"stage iib"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	NA	NA	NA
+"TCGA-4G-AAZR"	"stage ii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	74	NA	NA
+"TCGA-W5-AA33"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	60	"obesity"	0.39
+"TCGA-W5-AA36"	"stage iv"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	51	"normal"	0.86
+"TCGA-YR-A95A"	"stage iv"	"Extrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	52	"normal"	0.75
+"TCGA-3X-AAVC"	"stage i"	"Gallbladder"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.6
+"TCGA-W6-AA0S"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	46	"overweight"	0.78
+"TCGA-ZU-A8S4"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	52	"obesity"	0.28
+"TCGA-W6-AA0T"	"stage iii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	62	"overweight"	NA
+"TCGA-W5-AA2I"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	66	"obesity"	0.83
+"TCGA-3X-AAVB"	"stage ivb"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	70	"overweight"	0.34
+"TCGA-4G-AAZF"	"stage iii"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"white"	"female"	74	NA	NA
+"TCGA-3X-AAV9"	"stage i"	"Intrahepatic bile duct"	"Cholangiocarcinoma"	"yes"	NA	NA	"asian"	"male"	72	NA	0.24
+"TCGA-ZK-AAYZ"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-5A-A8ZG"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-5A-A8ZF"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

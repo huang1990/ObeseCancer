@@ -1,0 +1,17 @@
+Pathway	BLCA	CESC	CHOL	COAD	DLBC	ESCA	KIRP	LIHC	READ	SKCM	THYM	UCEC	UCS	UVM
+Inflammatory mediator regulation of TRP channels	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+TNF signaling pathway	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+Neurotrophin signaling pathway	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+IL-17 signaling pathway	0	0	0	0	-1	0	1	0	0	0	0	0	0	0
+Antigen processing and presentation	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+Natural killer cell mediated cytotoxicity	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Insulin signaling pathway	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insulin secretion	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Steroid hormone biosynthesis	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Steroid biosynthesis	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+MAPK signaling pathway	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+DNA replication	0	0	0	0	0	0	0	1	0	0	0	-1	0	0
+Apoptosis	0	1	0	0	-1	0	0	0	0	0	0	0	0	0
+Mismatch repair	0	0	0	0	0	0	0	1	0	0	0	-1	0	0
+PPAR signaling pathway	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Lipid and atherosclerosis	0	0	0	1	0	0	0	0	0	0	0	0	0	0

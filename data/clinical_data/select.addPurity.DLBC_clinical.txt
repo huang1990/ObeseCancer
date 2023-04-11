@@ -1,0 +1,59 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-GR-7353"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	36	"normal"	0.68
+"TCGA-G8-6325"	"not reported"	"Intra-abdominal lymph nodes"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	69	"obesity"	0.3
+"TCGA-G8-6324"	"not reported"	"Intra-abdominal lymph nodes"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"black or african american"	"female"	43	"normal"	NA
+"TCGA-FF-A7CQ"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	74	NA	0.55
+"TCGA-FF-A7CW"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	72	"normal"	0.51
+"TCGA-FF-A7CR"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	61	"overweight"	0.48
+"TCGA-FA-A7Q1"	"not reported"	"Intra-abdominal lymph nodes"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	61	"overweight"	0.88
+"TCGA-RQ-A6JB"	"not reported"	"Bones of skull and face and associated joints"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	62	"overweight"	0.72
+"TCGA-GS-A9U3"	"not reported"	"Lymph nodes of inguinal region or leg"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	77	"obesity"	0.4
+"TCGA-G8-6909"	"not reported"	"Intrathoracic lymph nodes"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	67	"overweight"	0.52
+"TCGA-GR-7351"	"not reported"	"Thyroid gland"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	56	"overweight"	0.59
+"TCGA-FF-8041"	"not reported"	"Anterior mediastinum"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	28	"normal"	0.58
+"TCGA-FA-A82F"	"not reported"	"Small intestine, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	48	"normal"	0.43
+"TCGA-GS-A9TV"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	40	"normal"	0.67
+"TCGA-GR-A4D5"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	46	"obesity"	0.15
+"TCGA-FF-8042"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	57	"obesity"	0.82
+"TCGA-G8-6326"	"not reported"	"Specified parts of peritoneum"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	52	"obesity"	1.0
+"TCGA-FA-A6HO"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	58	"normal"	0.3
+"TCGA-G8-6907"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.94
+"TCGA-RQ-A68N"	"not reported"	"Brain stem"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	63	"normal"	0.47
+"TCGA-GS-A9TX"	"not reported"	"Lymph nodes of inguinal region or leg"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	37	"normal"	0.31
+"TCGA-GS-A9TQ"	"not reported"	"Lymph nodes of inguinal region or leg"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	69	"overweight"	0.74
+"TCGA-FA-A4XK"	"not reported"	"Jejunum"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	40	"normal"	0.82
+"TCGA-G8-6914"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	67	"normal"	0.55
+"TCGA-GR-A4D4"	"not reported"	"Connective, subcutaneous and other soft tissues, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.59
+"TCGA-FA-A86F"	"not reported"	"Lymph nodes of axilla or arm"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.28
+"TCGA-RQ-AAAT"	"not reported"	"Cerebellum, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.7
+"TCGA-FA-A6HN"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	73	"normal"	0.41
+"TCGA-FA-A7DS"	"not reported"	"Breast, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	54	"normal"	0.75
+"TCGA-GS-A9TW"	"not reported"	"Lymph nodes of axilla or arm"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	23	"normal"	0.43
+"TCGA-FF-8043"	"not reported"	"Colon, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	70	"normal"	0.89
+"TCGA-GR-A4D6"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	54	"normal"	0.49
+"TCGA-FF-A7CX"	"not reported"	"Connective, subcutaneous and other soft tissues of head, face, and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	46	"normal"	0.92
+"TCGA-FF-8061"	"not reported"	"Small intestine, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	42	NA	0.79
+"TCGA-GS-A9TY"	"not reported"	"Lymph nodes of axilla or arm"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	82	"obesity"	0.8
+"TCGA-GS-A9TU"	"not reported"	"Lymph nodes of inguinal region or leg"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	45	"overweight"	0.51
+"TCGA-FA-8693"	"not reported"	"Stomach, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	75	"overweight"	0.46
+"TCGA-FF-8046"	"not reported"	"Submandibular gland"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"male"	51	"overweight"	0.58
+"TCGA-G8-6906"	"not reported"	"Intra-abdominal lymph nodes"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	58	"normal"	0.87
+"TCGA-FF-8047"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	38	"normal"	0.93
+"TCGA-VB-A8QN"	"not reported"	"Stomach, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	55	"normal"	0.53
+"TCGA-GS-A9TZ"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	51	"normal"	0.39
+"TCGA-FM-8000"	"not reported"	"Colon, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	70	"overweight"	0.8
+"TCGA-GS-A9TT"	"not reported"	"Testis, NOS"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.91
+"TCGA-GR-A4D9"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.67
+"TCGA-FF-8062"	"not reported"	"Thyroid gland"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"asian"	"female"	60	"normal"	0.43
+"TCGA-FA-A4BB"	"not reported"	"Lymph nodes of axilla or arm"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"male"	67	"overweight"	0.23
+"TCGA-GS-A9U4"	"not reported"	"Lymph nodes of head, face and neck"	"Malignant lymphoma, large B-cell, diffuse, NOS"	"no"	NA	NA	"white"	"female"	27	"normal"	0.19
+"TCGA-GZ-6639"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6629"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GZ-6638"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6632"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6634"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6630"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6633"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GZ-6637"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GS-6631"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-GZ-6640"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

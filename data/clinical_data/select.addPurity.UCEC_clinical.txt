@@ -1,0 +1,561 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-AX-A3FZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	33	"obesity"	0.93
+"TCGA-B5-A121"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.75
+"TCGA-DI-A1BY"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.66
+"TCGA-E6-A1LZ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	76	NA	0.56
+"TCGA-BS-A0UL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	54	"obesity"	0.39
+"TCGA-D1-A102"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	49	"obesity"	0.75
+"TCGA-B5-A0JR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.74
+"TCGA-AP-A0LS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	63	"overweight"	0.92
+"TCGA-EO-A22R"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	56	"obesity"	0.74
+"TCGA-BS-A0U5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"normal"	0.76
+"TCGA-EY-A1GR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	"obesity"	0.82
+"TCGA-BS-A0UJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	68	"normal"	0.87
+"TCGA-BS-A0UT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	62	"overweight"	0.82
+"TCGA-AX-A3FT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.7
+"TCGA-BG-A0M8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	50	"obesity"	0.45
+"TCGA-QS-A744"	"not reported"	"Isthmus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	86	"overweight"	0.89
+"TCGA-B5-A0K1"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.82
+"TCGA-FI-A2CY"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	60	"obesity"	0.83
+"TCGA-A5-A0GM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	53	"obesity"	0.81
+"TCGA-B5-A3FA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"overweight"	0.8
+"TCGA-BG-A0VT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.75
+"TCGA-EO-A3AZ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	80	"obesity"	0.45
+"TCGA-KP-A3W1"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	76	"normal"	0.34
+"TCGA-AP-A0LH"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.93
+"TCGA-AX-A2HJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	35	"normal"	0.75
+"TCGA-B5-A11I"	"not reported"	"Endometrium"	"Adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	65	"obesity"	0.73
+"TCGA-SJ-A6ZI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	64	"obesity"	0.6
+"TCGA-AX-A062"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.94
+"TCGA-EY-A1GH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.72
+"TCGA-BG-A2L7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	NA	0.7
+"TCGA-BK-A0CA"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	NA	0.56
+"TCGA-EC-A24G"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.67
+"TCGA-A5-A2K5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"obesity"	0.73
+"TCGA-AX-A1CK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"overweight"	0.91
+"TCGA-AP-A1DH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.64
+"TCGA-FI-A2D4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	"obesity"	0.89
+"TCGA-D1-A2G5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	50	"obesity"	0.91
+"TCGA-AX-A05Z"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	37	"overweight"	0.6
+"TCGA-EY-A1GF"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	75	"overweight"	0.9
+"TCGA-D1-A16Y"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.89
+"TCGA-AJ-A3QS"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"overweight"	0.47
+"TCGA-AJ-A3BD"	"not reported"	"Endometrium"	"Papillary serous cystadenocarcinoma"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.82
+"TCGA-D1-A0ZU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, secretory variant"	"no"	NA	NA	"white"	"female"	34	"obesity"	NA
+"TCGA-PG-A7D5"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	62	"obesity"	0.82
+"TCGA-D1-A0ZV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"overweight"	0.57
+"TCGA-AX-A1C4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	"obesity"	0.93
+"TCGA-D1-A15X"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"overweight"	0.59
+"TCGA-B5-A1MZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.8
+"TCGA-B5-A0JS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.65
+"TCGA-AX-A0IW"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"normal"	0.82
+"TCGA-PG-A5BC"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	72	"obesity"	0.73
+"TCGA-EY-A2OQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.78
+"TCGA-AJ-A3BG"	"not reported"	"Endometrium"	"Papillary serous cystadenocarcinoma"	"yes"	NA	NA	"white"	"female"	65	"normal"	0.88
+"TCGA-D1-A167"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.91
+"TCGA-KP-A3W3"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.81
+"TCGA-EY-A1GU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	66	"obesity"	0.81
+"TCGA-AJ-A3EM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.75
+"TCGA-B5-A3FD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	70	"obesity"	0.91
+"TCGA-AP-A0L9"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.84
+"TCGA-AJ-A3NE"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	46	"obesity"	0.67
+"TCGA-BG-A0MS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	53	"overweight"	0.76
+"TCGA-BG-A0VV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.64
+"TCGA-EO-A3AU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	72	"obesity"	0.67
+"TCGA-D1-A175"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	48	"normal"	0.8
+"TCGA-EO-A1Y7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	65	"obesity"	0.94
+"TCGA-D1-A1NZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.8
+"TCGA-EY-A547"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	75	"obesity"	0.98
+"TCGA-AJ-A2QN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.66
+"TCGA-AX-A1CF"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.76
+"TCGA-D1-A17U"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.7
+"TCGA-D1-A16G"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"overweight"	0.36
+"TCGA-D1-A1O5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.9
+"TCGA-A5-A0G1"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"normal"	NA
+"TCGA-D1-A176"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.82
+"TCGA-B5-A3FH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	74	"obesity"	0.81
+"TCGA-AX-A3GI"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	66	"obesity"	0.98
+"TCGA-D1-A0ZZ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	80	"normal"	0.86
+"TCGA-BG-A0LW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"obesity"	0.94
+"TCGA-B5-A11R"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	51	"obesity"	0.82
+"TCGA-EO-A3AY"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	58	"overweight"	0.76
+"TCGA-FI-A3PV"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	68	"obesity"	0.67
+"TCGA-D1-A1NS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.51
+"TCGA-FI-A2EW"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	"obesity"	0.85
+"TCGA-D1-A17A"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.69
+"TCGA-EY-A2ON"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"obesity"	0.73
+"TCGA-BS-A0UA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.58
+"TCGA-AX-A1C7"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.94
+"TCGA-AP-A05D"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	67	"obesity"	0.68
+"TCGA-AJ-A3OL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"overweight"	1.0
+"TCGA-EY-A1G7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	86	"obesity"	0.92
+"TCGA-BG-A0M0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.85
+"TCGA-PG-A914"	"not reported"	"Endometrium"	"Serous surface papillary carcinoma"	"no"	NA	NA	"black or african american"	"female"	73	NA	0.8
+"TCGA-BS-A0V6"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	55	"obesity"	0.5
+"TCGA-D1-A1NW"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.81
+"TCGA-EY-A1GS"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	"normal"	0.81
+"TCGA-AP-A1E4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"normal"	0.9
+"TCGA-A5-A1OF"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	47	"overweight"	0.52
+"TCGA-DF-A2KU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	NA	NA	0.73
+"TCGA-AP-A052"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	59	"obesity"	0.89
+"TCGA-AJ-A2QM"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	67	"overweight"	0.83
+"TCGA-BG-A0M7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.75
+"TCGA-A5-A0VO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	NA
+"TCGA-A5-A0G2"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	57	"overweight"	0.42
+"TCGA-D1-A17L"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	"obesity"	0.74
+"TCGA-BS-A0V7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	48	"obesity"	0.26
+"TCGA-AP-A0LQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.62
+"TCGA-D1-A162"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	NA
+"TCGA-BS-A0V8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	68	"obesity"	0.61
+"TCGA-B5-A0K4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	51	"overweight"	0.82
+"TCGA-AJ-A8CT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	58	"obesity"	0.5
+"TCGA-B5-A1N2"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	70	"obesity"	0.77
+"TCGA-A5-A0VP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"normal"	0.85
+"TCGA-AP-A051"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.66
+"TCGA-D1-A169"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.67
+"TCGA-EO-A22X"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	36	"normal"	0.78
+"TCGA-A5-A0R9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.82
+"TCGA-AP-A0LD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.8
+"TCGA-BG-A0W2"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.8
+"TCGA-D1-A16F"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	NA
+"TCGA-AX-A060"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	77	"obesity"	0.97
+"TCGA-QS-A5YQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	55	"obesity"	0.89
+"TCGA-EY-A1GJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	73	"obesity"	0.92
+"TCGA-EY-A549"	"not reported"	"Corpus uteri"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	78	"overweight"	0.85
+"TCGA-BG-A3PP"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	82	NA	0.59
+"TCGA-BS-A0UV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	55	"obesity"	0.7
+"TCGA-BS-A0TI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.53
+"TCGA-D1-A3JP"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	61	"normal"	0.44
+"TCGA-EY-A210"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	82	"overweight"	0.87
+"TCGA-BK-A139"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"normal"	0.58
+"TCGA-K6-A3WQ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.78
+"TCGA-B5-A0K6"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.77
+"TCGA-A5-A0G5"	"not reported"	"Endometrium"	"Clear cell adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	73	"normal"	0.5
+"TCGA-BG-A0MA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.72
+"TCGA-AX-A05T"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	82	"normal"	0.87
+"TCGA-B5-A1MU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"normal"	0.25
+"TCGA-A5-A2K3"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.2
+"TCGA-AX-A06L"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.67
+"TCGA-A5-A0GG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	76	"overweight"	0.41
+"TCGA-BK-A13C"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	47	"obesity"	0.93
+"TCGA-BS-A0TJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	59	"obesity"	0.79
+"TCGA-E6-A2P8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	53	"obesity"	0.59
+"TCGA-B5-A0JV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	63	"obesity"	0.85
+"TCGA-EY-A1GC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.58
+"TCGA-EO-A22T"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	56	"normal"	0.56
+"TCGA-AP-A1DV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"normal"	0.88
+"TCGA-BS-A0UM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	NA
+"TCGA-FI-A2EY"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.89
+"TCGA-AJ-A4ZG"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	53	"obesity"	NA
+"TCGA-B5-A0JT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.71
+"TCGA-AX-A1CR"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	70	"obesity"	0.7
+"TCGA-D1-A165"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.71
+"TCGA-BG-A187"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"normal"	0.82
+"TCGA-D1-A17C"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"obesity"	0.52
+"TCGA-AX-A2HA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	35	"normal"	0.91
+"TCGA-B5-A0JZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.66
+"TCGA-BG-A0MT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.81
+"TCGA-D1-A3DH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.89
+"TCGA-D1-A2G7"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.71
+"TCGA-EY-A2OO"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"overweight"	0.38
+"TCGA-D1-A0ZS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"normal"	0.75
+"TCGA-AJ-A3BF"	"not reported"	"Endometrium"	"Papillary serous cystadenocarcinoma"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.8
+"TCGA-D1-A1NY"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.8
+"TCGA-BS-A0U9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	59	"obesity"	0.83
+"TCGA-B5-A11W"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.85
+"TCGA-EY-A54A"	"not reported"	"Corpus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	"overweight"	0.79
+"TCGA-B5-A0KB"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	62	"overweight"	0.38
+"TCGA-BG-A0MH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	NA
+"TCGA-EO-A3AV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	51	NA	0.45
+"TCGA-AP-A054"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.95
+"TCGA-BG-A0MU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"overweight"	0.86
+"TCGA-D1-A168"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"overweight"	0.85
+"TCGA-B5-A0K9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	88	"overweight"	0.56
+"TCGA-BG-A18B"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.91
+"TCGA-D1-A0ZN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"overweight"	0.77
+"TCGA-AX-A1C8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.74
+"TCGA-AX-A1CC"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.29
+"TCGA-FI-A3PX"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.94
+"TCGA-D1-A177"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"normal"	0.98
+"TCGA-AP-A056"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.65
+"TCGA-E6-A2P9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.87
+"TCGA-BG-A0M2"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"overweight"	0.8
+"TCGA-FI-A2D6"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.88
+"TCGA-EY-A5W2"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	72	"obesity"	0.85
+"TCGA-5B-A90C"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	69	"obesity"	0.83
+"TCGA-AP-A05N"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.92
+"TCGA-AJ-A3BH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	NA	"overweight"	0.57
+"TCGA-AP-A1DO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.86
+"TCGA-A5-A2K7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	41	"overweight"	0.82
+"TCGA-EY-A1GP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	54	"overweight"	0.85
+"TCGA-A5-A0G3"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"normal"	NA
+"TCGA-BK-A4ZD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	42	"obesity"	0.87
+"TCGA-EO-A1Y5"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	63	"obesity"	0.81
+"TCGA-DF-A2KV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	55	NA	0.6
+"TCGA-EY-A1GI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	"overweight"	0.91
+"TCGA-AJ-A3NH"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	90	"normal"	0.72
+"TCGA-D1-A16R"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	39	"obesity"	0.78
+"TCGA-A5-A1OG"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	65	"overweight"	0.59
+"TCGA-AX-A0J1"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	80	"normal"	0.78
+"TCGA-B5-A11H"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	NA	0.66
+"TCGA-AX-A3G7"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.73
+"TCGA-BG-A0W1"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	89	"obesity"	0.88
+"TCGA-BS-A0TE"	"not reported"	"Corpus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	35	"obesity"	0.76
+"TCGA-AP-A1E3"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"obesity"	0.32
+"TCGA-AX-A3G1"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	84	"normal"	0.73
+"TCGA-H5-A2HR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	NA	0.91
+"TCGA-B5-A1MR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	NA	0.65
+"TCGA-D1-A16J"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.73
+"TCGA-KP-A3W4"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.71
+"TCGA-AX-A0J0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"normal"	0.91
+"TCGA-FI-A2F8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.5
+"TCGA-AJ-A2QK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.65
+"TCGA-D1-A0ZP"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"normal"	0.75
+"TCGA-EC-A1QX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.59
+"TCGA-A5-A2K2"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"normal"	0.81
+"TCGA-D1-A17F"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.68
+"TCGA-BG-A18A"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.62
+"TCGA-A5-AB3J"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	52	"normal"	0.43
+"TCGA-B5-A11V"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	64	"overweight"	0.85
+"TCGA-DF-A2KS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	69	NA	0.71
+"TCGA-SJ-A6ZJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"obesity"	0.76
+"TCGA-FI-A2EU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	68	"obesity"	0.94
+"TCGA-EY-A1GE"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.67
+"TCGA-BG-A0VX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.58
+"TCGA-BG-A18C"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.86
+"TCGA-AJ-A3EL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	47	"normal"	0.68
+"TCGA-AX-A0IS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	"obesity"	0.84
+"TCGA-EY-A2OP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.9
+"TCGA-BK-A26L"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.57
+"TCGA-D1-A17N"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	46	"obesity"	0.53
+"TCGA-D1-A1NX"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.88
+"TCGA-AP-A1DK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"normal"	0.6
+"TCGA-EY-A1GM"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	60	"overweight"	0.95
+"TCGA-BG-A2AD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	NA
+"TCGA-B5-A0JN"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	84	"normal"	0.74
+"TCGA-DF-A2L0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	60	"obesity"	0.68
+"TCGA-AP-A0LG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"overweight"	0.85
+"TCGA-AJ-A3EJ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"overweight"	0.63
+"TCGA-EY-A1GD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	51	"obesity"	0.83
+"TCGA-AX-A2H4"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.56
+"TCGA-B5-A11M"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	43	"obesity"	NA
+"TCGA-AJ-A3NC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.78
+"TCGA-D1-A160"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.71
+"TCGA-BG-A0YU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	37	"obesity"	0.67
+"TCGA-EY-A1GQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	76	"overweight"	0.79
+"TCGA-BK-A13B"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	58	"obesity"	0.86
+"TCGA-B5-A0JX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.76
+"TCGA-BG-A0M3"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"overweight"	0.88
+"TCGA-B5-A0K7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.73
+"TCGA-BG-A0YV"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	67	"normal"	0.83
+"TCGA-KJ-A3U4"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	55	"obesity"	0.76
+"TCGA-D1-A16N"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.89
+"TCGA-AJ-A3I9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	"overweight"	0.94
+"TCGA-B5-A11N"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"overweight"	0.56
+"TCGA-A5-A0R8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	"normal"	0.45
+"TCGA-AX-A1CJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	59	"obesity"	0.73
+"TCGA-BG-A0M4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.72
+"TCGA-D1-A17T"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.82
+"TCGA-AX-A1C5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"obesity"	0.59
+"TCGA-B5-A3S1"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.78
+"TCGA-BK-A0CC"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	69	"obesity"	0.67
+"TCGA-AJ-A3BK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.75
+"TCGA-BG-A221"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	84	"overweight"	0.51
+"TCGA-KP-A3W0"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	72	"obesity"	0.7
+"TCGA-D1-A16S"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"normal"	0.71
+"TCGA-AX-A3GB"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.52
+"TCGA-DI-A2QY"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.68
+"TCGA-AX-A2H7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	87	"overweight"	0.85
+"TCGA-AP-A1E1"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"overweight"	0.57
+"TCGA-AJ-A8CW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	64	"obesity"	0.78
+"TCGA-AX-A3FW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.93
+"TCGA-AX-A3G9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"overweight"	0.83
+"TCGA-D1-A1O7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.73
+"TCGA-EY-A214"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	66	"obesity"	0.75
+"TCGA-FI-A2D5"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	56	"obesity"	0.6
+"TCGA-D1-A2G0"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"normal"	0.76
+"TCGA-EO-A1Y8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	87	"overweight"	0.82
+"TCGA-AX-A3G8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.93
+"TCGA-DI-A0WH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.82
+"TCGA-PG-A915"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	60	NA	0.85
+"TCGA-BG-A0VW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"obesity"	0.69
+"TCGA-B5-A1MW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"normal"	0.79
+"TCGA-SL-A6J9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	73	"obesity"	0.57
+"TCGA-EY-A1GT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"normal"	NA
+"TCGA-AX-A063"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.78
+"TCGA-D1-A163"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	50	"obesity"	0.8
+"TCGA-D1-A1O0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"obesity"	0.85
+"TCGA-D1-A1O8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.45
+"TCGA-B5-A5OE"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	68	NA	0.92
+"TCGA-EO-A2CG"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	69	"overweight"	0.46
+"TCGA-EO-A22U"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"overweight"	0.83
+"TCGA-D1-A3DG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	"obesity"	0.97
+"TCGA-EY-A1GW"	"not reported"	"Fundus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.97
+"TCGA-EY-A3L3"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	82	"obesity"	0.91
+"TCGA-DI-A2QT"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	51	"overweight"	0.86
+"TCGA-EY-A4KR"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	56	"obesity"	0.63
+"TCGA-B5-A11L"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.62
+"TCGA-B5-A11F"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	NA	0.84
+"TCGA-B5-A11P"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	87	NA	0.93
+"TCGA-D1-A17Q"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"normal"	0.88
+"TCGA-PG-A917"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	74	NA	0.77
+"TCGA-DF-A2KN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	NA	"obesity"	0.61
+"TCGA-B5-A0K0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	48	"obesity"	0.71
+"TCGA-EO-A2CH"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	73	"overweight"	0.87
+"TCGA-AX-A06J"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.72
+"TCGA-B5-A11Y"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, secretory variant"	"no"	NA	NA	"white"	"female"	59	"normal"	0.42
+"TCGA-B5-A3FB"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	73	"obesity"	0.68
+"TCGA-FI-A2EX"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.76
+"TCGA-AX-A1CA"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	70	"obesity"	0.65
+"TCGA-BG-A0MG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"normal"	0.76
+"TCGA-AP-A0LO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"overweight"	0.6
+"TCGA-B5-A1MV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	84	"obesity"	0.59
+"TCGA-EO-A3B0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	43	"normal"	0.67
+"TCGA-EO-A3AS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	86	"overweight"	0.79
+"TCGA-BS-A0TG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"normal"	0.74
+"TCGA-AP-A1DP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	"obesity"	0.91
+"TCGA-A5-A7WK"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	"obesity"	0.95
+"TCGA-AX-A2HD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"normal"	0.87
+"TCGA-KP-A3VZ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	69	"normal"	0.94
+"TCGA-B5-A0K8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"normal"	0.8
+"TCGA-EY-A3QX"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.83
+"TCGA-FI-A2F9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"obesity"	0.96
+"TCGA-EY-A548"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	83	"overweight"	0.66
+"TCGA-D1-A16V"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"obesity"	0.82
+"TCGA-AJ-A5DW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	56	"obesity"	0.79
+"TCGA-AX-A0IU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	79	"obesity"	0.79
+"TCGA-BS-A0TA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	58	"obesity"	0.31
+"TCGA-EO-A3L0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"obesity"	0.56
+"TCGA-D1-A17M"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.83
+"TCGA-D1-A16D"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	49	"obesity"	0.6
+"TCGA-D1-A16X"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.57
+"TCGA-BK-A0CB"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.67
+"TCGA-D1-A0ZR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.25
+"TCGA-AX-A3FX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.81
+"TCGA-AX-A06B"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	72	"obesity"	0.68
+"TCGA-AP-A05P"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	54	"overweight"	0.46
+"TCGA-A5-A0GV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"overweight"	0.88
+"TCGA-B5-A1MS"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"overweight"	0.91
+"TCGA-AJ-A3OJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.63
+"TCGA-AX-A05U"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	56	"overweight"	1.0
+"TCGA-B5-A1MY"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	62	"obesity"	0.71
+"TCGA-A5-A0R6"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.46
+"TCGA-B5-A3F9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	56	"obesity"	0.26
+"TCGA-AP-A0LE"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.9
+"TCGA-A5-A0GD"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"overweight"	0.67
+"TCGA-B5-A11U"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	74	"overweight"	0.74
+"TCGA-EY-A1G8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"normal"	0.76
+"TCGA-EO-A3KX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	80	"normal"	0.66
+"TCGA-BS-A0UF"	"not reported"	"Fundus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	65	"overweight"	0.57
+"TCGA-AJ-A8CV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	58	"obesity"	0.66
+"TCGA-B5-A11X"	"not reported"	"Endometrium"	"Carcinoma, undifferentiated, NOS"	"no"	NA	NA	"black or african american"	"female"	66	"overweight"	NA
+"TCGA-D1-A15Z"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.83
+"TCGA-BS-A0U7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"normal"	0.6
+"TCGA-D1-A3JQ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.79
+"TCGA-AX-A3G3"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	58	"normal"	0.65
+"TCGA-AX-A2HK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"obesity"	0.89
+"TCGA-A5-A0RA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.55
+"TCGA-AX-A1CN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.86
+"TCGA-AJ-A23M"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.78
+"TCGA-BG-A0M9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	NA
+"TCGA-B5-A0JU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"obesity"	0.82
+"TCGA-AJ-A3NG"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"obesity"	0.84
+"TCGA-AP-A05O"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.63
+"TCGA-A5-A0GU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.77
+"TCGA-QS-A5YR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"obesity"	0.54
+"TCGA-D1-A16E"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"overweight"	0.57
+"TCGA-EO-A22S"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	58	"obesity"	0.83
+"TCGA-AX-A2IN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.8
+"TCGA-AJ-A3TW"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"normal"	0.63
+"TCGA-FI-A2D2"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.68
+"TCGA-BG-A3EW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.88
+"TCGA-AP-A0LV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	39	"obesity"	0.66
+"TCGA-E6-A1M0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.81
+"TCGA-A5-A0GQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.4
+"TCGA-AX-A2HF"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	67	"overweight"	0.9
+"TCGA-EY-A215"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	60	NA	0.83
+"TCGA-BS-A0TC"	"not reported"	"Fundus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	69	"obesity"	0.79
+"TCGA-BS-A0T9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	39	"obesity"	0.48
+"TCGA-EO-A3KW"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	72	"overweight"	0.72
+"TCGA-BG-A0MQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"obesity"	0.85
+"TCGA-QF-A5YS"	"not reported"	"Isthmus uteri"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"obesity"	0.85
+"TCGA-4E-A92E"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	54	"overweight"	0.77
+"TCGA-D1-A2G6"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"overweight"	0.6
+"TCGA-EO-A3B1"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	63	"obesity"	0.49
+"TCGA-FI-A2CX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	82	"normal"	0.67
+"TCGA-EO-A22Y"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	NA	0.72
+"TCGA-AX-A05S"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	"normal"	0.68
+"TCGA-A5-A0GA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.49
+"TCGA-BS-A0TD"	"not reported"	"Corpus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	65	"obesity"	0.61
+"TCGA-D1-A17B"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.4
+"TCGA-B5-A11Z"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.86
+"TCGA-B5-A0K2"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.62
+"TCGA-D1-A16O"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	"obesity"	0.83
+"TCGA-B5-A11Q"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.95
+"TCGA-EY-A2OM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.71
+"TCGA-AX-A06F"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.82
+"TCGA-BG-A0RY"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.78
+"TCGA-EY-A1GK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	74	"obesity"	0.7
+"TCGA-A5-A0GH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"normal"	0.93
+"TCGA-D1-A174"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"overweight"	0.62
+"TCGA-E6-A1LX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	40	NA	0.4
+"TCGA-A5-A0GN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"overweight"	0.87
+"TCGA-A5-A0GE"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	38	"normal"	0.6
+"TCGA-B5-A11G"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	"obesity"	0.9
+"TCGA-QF-A5YT"	"not reported"	"Isthmus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"obesity"	1.0
+"TCGA-B5-A0K3"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	62	"obesity"	0.76
+"TCGA-D1-A17H"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"obesity"	0.74
+"TCGA-DI-A1BU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.61
+"TCGA-AJ-A3IA"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	77	"normal"	0.53
+"TCGA-BG-A0MI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"obesity"	0.86
+"TCGA-DF-A2KR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	84	NA	0.78
+"TCGA-AP-A5FX"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	68	"overweight"	0.68
+"TCGA-AJ-A23N"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	NA	0.53
+"TCGA-EY-A72D"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	87	"obesity"	0.82
+"TCGA-DF-A2KY"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	49	NA	0.71
+"TCGA-DI-A2QU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.84
+"TCGA-A5-A2K4"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	NA	0.48
+"TCGA-BK-A56F"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	75	"obesity"	0.8
+"TCGA-A5-A3LP"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	NA	0.61
+"TCGA-BG-A222"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	49	"obesity"	0.82
+"TCGA-D1-A17K"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.92
+"TCGA-AX-A2HH"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"overweight"	0.95
+"TCGA-D1-A161"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"overweight"	0.79
+"TCGA-AP-A1E0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	40	"normal"	0.73
+"TCGA-D1-A179"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"obesity"	0.91
+"TCGA-5S-A9Q8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	51	"obesity"	0.94
+"TCGA-D1-A17D"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"overweight"	0.67
+"TCGA-2E-A9G8"	"not reported"	"Fundus uteri"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	59	"overweight"	0.93
+"TCGA-D1-A17R"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.85
+"TCGA-AP-A0LP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"normal"	0.81
+"TCGA-FI-A2D0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.75
+"TCGA-BG-A0MC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.64
+"TCGA-D1-A16B"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.65
+"TCGA-AJ-A3NF"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.24
+"TCGA-BG-A186"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"overweight"	0.82
+"TCGA-A5-A0VQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	62	"obesity"	0.84
+"TCGA-AJ-A6NU"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	64	"obesity"	0.42
+"TCGA-AX-A06H"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"female"	60	"obesity"	0.59
+"TCGA-AX-A1C9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"obesity"	0.78
+"TCGA-BS-A0U8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"overweight"	0.86
+"TCGA-AP-A1DM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.75
+"TCGA-PG-A916"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	70	NA	0.83
+"TCGA-EY-A212"	"not reported"	"Endometrium"	"Papillary serous cystadenocarcinoma"	"yes"	NA	NA	"white"	"female"	83	"obesity"	0.94
+"TCGA-AJ-A3EK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"normal"	0.68
+"TCGA-SL-A6JA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	77	"obesity"	0.92
+"TCGA-D1-A16I"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.87
+"TCGA-BG-A2AE"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.67
+"TCGA-AP-A1DR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	59	"obesity"	0.77
+"TCGA-AP-A0LN"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	56	"obesity"	0.79
+"TCGA-E6-A8L9"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	61	"overweight"	0.73
+"TCGA-AX-A064"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	"normal"	0.75
+"TCGA-AX-A3G4"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"native hawaiian or other pacific islander"	"female"	60	"obesity"	0.61
+"TCGA-AP-A0LL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"overweight"	0.94
+"TCGA-A5-A1OK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	63	"obesity"	0.31
+"TCGA-EO-A3KU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	68	"normal"	0.78
+"TCGA-D1-A0ZO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	75	"obesity"	0.6
+"TCGA-AP-A05J"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"overweight"	0.95
+"TCGA-AP-A1DQ"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"normal"	0.58
+"TCGA-B5-A11J"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	NA	0.78
+"TCGA-AJ-A3OK"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"overweight"	0.73
+"TCGA-EY-A1GV"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"overweight"	0.32
+"TCGA-AP-A0LF"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	82	"overweight"	0.38
+"TCGA-BK-A6W3"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	34	"obesity"	0.79
+"TCGA-EY-A1GO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.96
+"TCGA-A5-A0GI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	63	"normal"	0.96
+"TCGA-D1-A1NU"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	"obesity"	0.87
+"TCGA-A5-A0GJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	44	"obesity"	0.81
+"TCGA-A5-A7WJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	64	"normal"	NA
+"TCGA-AX-A2HC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	53	"obesity"	0.99
+"TCGA-BK-A6W4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	62	"obesity"	1.0
+"TCGA-BG-A0MK"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	52	NA	0.6
+"TCGA-DF-A2KZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	87	NA	0.51
+"TCGA-EC-A1NJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	"overweight"	0.69
+"TCGA-AX-A05W"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"overweight"	0.69
+"TCGA-AJ-A3BI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.82
+"TCGA-AP-A053"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	90	"normal"	0.92
+"TCGA-AP-A0LM"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	33	"obesity"	0.57
+"TCGA-A5-A0GB"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.81
+"TCGA-AP-A0L8"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	70	NA	0.88
+"TCGA-A5-A0G9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"overweight"	0.9
+"TCGA-AX-A05Y"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.98
+"TCGA-BG-A0MO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.22
+"TCGA-D1-A101"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.23
+"TCGA-D1-A16Q"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	0.82
+"TCGA-BG-A0VZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.77
+"TCGA-AX-A2IO"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"normal"	0.61
+"TCGA-BS-A0WQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	55	"obesity"	0.97
+"TCGA-AX-A2H5"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	"obesity"	0.95
+"TCGA-AJ-A2QO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	85	"normal"	0.67
+"TCGA-A5-A0GP"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	58	"normal"	0.66
+"TCGA-B5-A1MX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"overweight"	0.66
+"TCGA-AP-A05H"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.9
+"TCGA-BS-A0VI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.66
+"TCGA-AX-A2HG"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.71
+"TCGA-AP-A0LJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	42	"obesity"	0.61
+"TCGA-A5-A0GX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.31
+"TCGA-AX-A2H2"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	86	"normal"	0.63
+"TCGA-DI-A1NN"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"normal"	0.62
+"TCGA-AP-A05A"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	81	NA	0.95
+"TCGA-B5-A11E"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"normal"	0.87
+"TCGA-BG-A0M6"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	73	"normal"	0.69
+"TCGA-EY-A1GX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.98
+"TCGA-B5-A11S"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	63	"obesity"	0.8
+"TCGA-DI-A1C3"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"obesity"	0.3
+"TCGA-AX-A3FS"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	82	"obesity"	0.89
+"TCGA-A5-A1OH"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	86	"normal"	
+"TCGA-AJ-A5DV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	65	"obesity"	0.67
+"TCGA-BG-A0LX"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.79
+"TCGA-A5-A0GW"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	46	"normal"	0.52
+"TCGA-B5-A0JY"	"not reported"	"Endometrium"	"Carcinoma, undifferentiated, NOS"	"no"	NA	NA	"white"	"female"	50	"normal"	0.6
+"TCGA-AX-A1CE"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"normal"	0.76
+"TCGA-FI-A2F4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	64	"overweight"	0.63
+"TCGA-AX-A3FV"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.94
+"TCGA-AJ-A23O"	"not reported"	"Fundus uteri"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"normal"	0.63
+"TCGA-AW-A1PO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"normal"	0.96
+"TCGA-QS-A8F1"	"not reported"	"Fundus uteri"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	85	"overweight"	0.72
+"TCGA-AX-A3G6"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"normal"	0.82
+"TCGA-AX-A06D"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	82	"obesity"	0.88
+"TCGA-BS-A0V4"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"obesity"	0.78
+"TCGA-B5-A3FC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	53	"overweight"	0.74
+"TCGA-D1-A3DA"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"normal"	0.84
+"TCGA-AX-A1CP"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	84	"normal"	0.68
+"TCGA-BK-A0C9"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.75
+"TCGA-EY-A1H0"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"obesity"	0.87
+"TCGA-B5-A5OD"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	NA	0.72
+"TCGA-BG-A220"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	69	NA	NA
+"TCGA-AP-A0LT"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.89
+"TCGA-A5-A1OJ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	31	"obesity"	0.59
+"TCGA-D1-A103"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	87	"overweight"	1.0
+"TCGA-A5-A3LO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.43
+"TCGA-AX-A0IZ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"normal"	0.56
+"TCGA-AX-A2H8"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	64	"obesity"	0.77
+"TCGA-D1-A15W"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.66
+"TCGA-DI-A1NO"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	68	"obesity"	0.94
+"TCGA-B5-A5OC"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	71	NA	0.47
+"TCGA-B5-A11O"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.39
+"TCGA-D1-A15V"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.78
+"TCGA-AX-A1CI"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"overweight"	0.91
+"TCGA-AJ-A2QL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.75
+"TCGA-A5-A0R7"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.72
+"TCGA-EY-A1GL"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"normal"	0.8
+"TCGA-AP-A3K1"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"normal"	0.76
+"TCGA-AP-A0LI"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	"obesity"	0.43
+"TCGA-PG-A6IB"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	68	NA	0.58
+"TCGA-D1-A0ZQ"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	90	"overweight"	0.75
+"TCGA-D1-A17S"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"obesity"	0.85
+"TCGA-JU-AAVI"	"not reported"	"Endometrium"	"Serous cystadenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	61	"obesity"	0.64
+"TCGA-AP-A059"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	69	"obesity"	0.46
+"TCGA-A5-A0GR"	"not reported"	"Endometrium"	"Endometrioid adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	69	"overweight"	0.5
+"TCGA-FL-A1YL"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YG"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YQ"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YI"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A3WE"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YH"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YF"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YV"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YN"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YT"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"TCGA-FL-A1YM"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,378 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-DD-AAD2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	66	"normal"	0.41
+"TCGA-4R-AA8I"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	66	"obesity"	0.85
+"TCGA-FV-A4ZP"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	78	"normal"	0.59
+"TCGA-DD-AAE9"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	69	"normal"	0.77
+"TCGA-G3-A25X"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	73	"normal"	NA
+"TCGA-CC-5261"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	44	"normal"	0.49
+"TCGA-2Y-A9H8"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	85	NA	0.66
+"TCGA-DD-AAD1"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	51	NA	0.44
+"TCGA-MR-A8JO"	"stage i"	"Liver"	"Hepatocellular carcinoma, fibrolamellar"	"no"	NA	NA	"white"	"male"	34	"normal"	0.34
+"TCGA-DD-AACJ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	75	"overweight"	0.9
+"TCGA-DD-A11C"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"obesity"	0.88
+"TCGA-BC-A112"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	80	"obesity"	0.6
+"TCGA-XR-A8TG"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	58	"normal"	0.79
+"TCGA-DD-AADG"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	70	"normal"	0.74
+"TCGA-K7-A5RF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"normal"	
+"TCGA-NI-A8LF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"obesity"	0.63
+"TCGA-ZP-A9D1"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	56	"obesity"	0.47
+"TCGA-DD-A11A"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	67	"overweight"	0.8
+"TCGA-DD-AADI"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	43	"normal"	0.74
+"TCGA-DD-AADU"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	60	"overweight"	0.77
+"TCGA-BC-A10U"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	NA	0.86
+"TCGA-RC-A7SF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	66	"overweight"	0.78
+"TCGA-DD-AAVX"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	38	"normal"	0.73
+"TCGA-DD-A1ED"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"obesity"	0.36
+"TCGA-BC-A5W4"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	69	"obesity"	0.93
+"TCGA-DD-AAE7"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"asian"	"male"	72	"overweight"	0.64
+"TCGA-G3-A3CI"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"obesity"	0.45
+"TCGA-DD-AACI"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	69	"normal"	0.5
+"TCGA-2Y-A9GU"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"obesity"	0.76
+"TCGA-ED-A5KG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	60	"normal"	0.29
+"TCGA-G3-A25V"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"overweight"	0.27
+"TCGA-CC-5264"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	71	"normal"	0.84
+"TCGA-DD-A3A0"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.77
+"TCGA-DD-A3A2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	76	"overweight"	0.79
+"TCGA-2Y-A9H9"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.88
+"TCGA-5C-AAPD"	"stage ii"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.58
+"TCGA-DD-AAE8"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"asian"	"male"	45	"overweight"	0.62
+"TCGA-DD-A39V"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"overweight"	0.7
+"TCGA-DD-AACA"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	65	"overweight"	0.88
+"TCGA-UB-A7MC"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.9
+"TCGA-DD-AADO"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	55	"normal"	0.62
+"TCGA-G3-A3CJ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"male"	52	"normal"	0.2
+"TCGA-DD-A1EI"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	46	"normal"	0.33
+"TCGA-DD-AADV"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"asian"	"male"	50	"normal"	0.88
+"TCGA-G3-A25Y"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	52	"normal"	0.72
+"TCGA-DD-A1EL"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	23	NA	0.82
+"TCGA-DD-AAEK"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"normal"	0.44
+"TCGA-UB-AA0U"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.46
+"TCGA-DD-AACC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.31
+"TCGA-DD-AAD8"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	73	"normal"	0.95
+"TCGA-WQ-AB4B"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	"obesity"	0.51
+"TCGA-LG-A9QD"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"overweight"	0.57
+"TCGA-ED-A8O5"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	59	"normal"	0.81
+"TCGA-ED-A7PX"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	48	NA	0.72
+"TCGA-XR-A8TC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	43	"normal"	NA
+"TCGA-DD-AAVQ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	38	"normal"	0.35
+"TCGA-DD-AAEH"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	73	"normal"	0.69
+"TCGA-BC-A3KG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"overweight"	0.95
+"TCGA-XR-A8TF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"normal"	0.88
+"TCGA-G3-A25T"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	"normal"	0.69
+"TCGA-DD-AAD6"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	66	"obesity"	0.91
+"TCGA-DD-AAW2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	69	"normal"	0.87
+"TCGA-ED-A8O6"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	50	NA	0.7
+"TCGA-G3-A5SL"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.77
+"TCGA-MR-A520"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.94
+"TCGA-DD-A4NO"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	65	"obesity"	0.61
+"TCGA-DD-AACO"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	40	NA	0.71
+"TCGA-G3-AAV0"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"normal"	0.84
+"TCGA-ES-A2HS"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	80	"overweight"	0.66
+"TCGA-DD-A73B"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	"obesity"	0.92
+"TCGA-ED-A7XO"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	29	"normal"	0.45
+"TCGA-DD-AADR"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"overweight"	NA
+"TCGA-DD-A11B"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	"obesity"	0.9
+"TCGA-DD-AACV"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	53	"normal"	0.99
+"TCGA-DD-AADW"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	NA	0.89
+"TCGA-BC-4073"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	NA	0.55
+"TCGA-RC-A7S9"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	47	"normal"	0.86
+"TCGA-DD-AADP"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	45	"normal"	0.78
+"TCGA-2Y-A9H6"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	68	"obesity"	0.67
+"TCGA-CC-A7IK"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.72
+"TCGA-DD-A1EC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	20	"normal"	0.41
+"TCGA-EP-A3JL"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	76	"overweight"	0.53
+"TCGA-DD-A39Y"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	67	"overweight"	0.67
+"TCGA-DD-A116"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	68	"normal"	0.74
+"TCGA-DD-A4NH"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.34
+"TCGA-RC-A7SK"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.68
+"TCGA-CC-A123"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	24	NA	NA
+"TCGA-DD-AACS"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	39	"overweight"	0.93
+"TCGA-DD-AADF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	64	"overweight"	0.9
+"TCGA-DD-A4NL"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	46	"obesity"	0.5
+"TCGA-2Y-A9GX"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"obesity"	0.27
+"TCGA-2Y-A9GW"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"obesity"	0.48
+"TCGA-DD-AADK"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	68	"normal"	0.41
+"TCGA-CC-5260"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	61	"normal"	0.61
+"TCGA-RC-A7SH"	"stage ii"	"Liver"	"Hepatocellular carcinoma, clear cell type"	"no"	NA	NA	"asian"	"male"	42	"normal"	0.92
+"TCGA-DD-AACT"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	69	"normal"	0.54
+"TCGA-DD-AADA"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	66	"overweight"	0.58
+"TCGA-WX-AA47"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	33	"normal"	0.97
+"TCGA-KR-A7K7"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	61	"obesity"	0.62
+"TCGA-DD-A4NI"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	67	"obesity"	0.66
+"TCGA-G3-AAV2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	50	NA	0.85
+"TCGA-DD-AACL"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	66	"obesity"	0.47
+"TCGA-DD-A3A5"	"stage iii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"normal"	0.87
+"TCGA-3K-AAZ8"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	65	"overweight"	0.7
+"TCGA-GJ-A3OU"	"stage i"	"Liver"	"Hepatocellular carcinoma, clear cell type"	"no"	NA	NA	"white"	"male"	59	"obesity"	0.28
+"TCGA-G3-A25S"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.67
+"TCGA-G3-A7M8"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	31	NA	0.75
+"TCGA-DD-AADD"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"normal"	0.84
+"TCGA-G3-A7M6"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.72
+"TCGA-G3-A3CK"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.65
+"TCGA-ED-A66Y"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	51	"normal"	0.89
+"TCGA-CC-A8HT"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	74	"normal"	0.52
+"TCGA-DD-AAEG"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"asian"	"female"	59	NA	0.83
+"TCGA-DD-AAE1"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.88
+"TCGA-G3-AAV5"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	"obesity"	0.82
+"TCGA-LG-A6GG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	79	"overweight"	0.84
+"TCGA-DD-A4NK"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	80	NA	0.82
+"TCGA-DD-AACD"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	"normal"	0.7
+"TCGA-BC-A216"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.84
+"TCGA-RG-A7D4"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	69	"overweight"	0.35
+"TCGA-DD-AAE3"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"overweight"	0.7
+"TCGA-FV-A2QR"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	NA	0.8
+"TCGA-G3-A6UC"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	65	"overweight"	0.93
+"TCGA-DD-A4NV"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.54
+"TCGA-DD-A3A6"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	NA	0.24
+"TCGA-DD-AAVS"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	56	"overweight"	0.8
+"TCGA-DD-A4ND"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	56	"obesity"	0.4
+"TCGA-DD-A4NE"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"overweight"	NA
+"TCGA-DD-AAVU"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	46	"obesity"	0.91
+"TCGA-CC-A9FS"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	55	"normal"	0.87
+"TCGA-DD-AACM"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	"normal"	0.66
+"TCGA-FV-A3I1"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	81	NA	0.69
+"TCGA-CC-A9FW"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	68	"normal"	0.69
+"TCGA-G3-AAV3"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"obesity"	0.47
+"TCGA-BW-A5NO"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	50	NA	0.71
+"TCGA-KR-A7K2"	"stage i"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.74
+"TCGA-DD-A3A3"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	45	"overweight"	0.78
+"TCGA-MI-A75G"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"normal"	0.88
+"TCGA-DD-AADQ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.85
+"TCGA-NI-A4U2"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.68
+"TCGA-DD-AADY"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	55	"normal"	0.92
+"TCGA-DD-AAE2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"overweight"	0.81
+"TCGA-G3-A7M5"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	76	"overweight"	0.7
+"TCGA-DD-AAE6"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	59	NA	0.98
+"TCGA-DD-AAD0"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	73	"normal"	0.97
+"TCGA-DD-AACB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	74	"overweight"	0.67
+"TCGA-EP-A12J"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	62	NA	0.76
+"TCGA-2Y-A9H2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	NA	0.54
+"TCGA-DD-A4NN"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	56	"normal"	0.92
+"TCGA-XR-A8TD"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, clear cell type"	"no"	NA	NA	"white"	"female"	49	"overweight"	0.45
+"TCGA-DD-A1EA"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	68	"obesity"	0.75
+"TCGA-UB-A7MD"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	67	"normal"	0.59
+"TCGA-DD-A1EE"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	"overweight"	0.82
+"TCGA-DD-AAD3"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	43	"normal"	0.66
+"TCGA-2Y-A9H7"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	81	"obesity"	0.85
+"TCGA-UB-A7ME"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"overweight"	0.49
+"TCGA-DD-A4NA"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	67	"obesity"	0.63
+"TCGA-DD-A1EB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	72	"normal"	0.82
+"TCGA-DD-AAED"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"overweight"	0.91
+"TCGA-BC-A217"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.92
+"TCGA-DD-A4NF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	72	"overweight"	1.0
+"TCGA-CC-A8HV"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	51	"normal"	0.82
+"TCGA-G3-A25U"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	63	"normal"	0.96
+"TCGA-UB-A7MB"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	24	"normal"	0.93
+"TCGA-K7-A6G5"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	"normal"	0.6
+"TCGA-BC-A3KF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"normal"	0.83
+"TCGA-DD-A118"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.59
+"TCGA-WX-AA46"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.61
+"TCGA-CC-A8HS"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	18	"normal"	NA
+"TCGA-DD-AACK"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	70	"normal"	0.76
+"TCGA-DD-AAC8"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	72	"normal"	0.81
+"TCGA-ZP-A9CZ"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	72	"overweight"	0.67
+"TCGA-5C-A9VG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"overweight"	0.46
+"TCGA-CC-A8HU"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	39	NA	0.89
+"TCGA-DD-A1EJ"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.75
+"TCGA-MI-A75I"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	61	"overweight"	0.69
+"TCGA-MI-A75H"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	77	"overweight"	0.71
+"TCGA-2V-A95S"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	NA	"overweight"	0.44
+"TCGA-BC-A10W"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	NA	0.73
+"TCGA-ED-A627"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"normal"	0.46
+"TCGA-ZP-A9CV"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	59	"normal"	0.65
+"TCGA-BC-A8YO"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"overweight"	0.86
+"TCGA-G3-A5SI"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	44	"normal"	0.93
+"TCGA-CC-A7IG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	47	"normal"	0.59
+"TCGA-KR-A7K0"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	65	"normal"	0.8
+"TCGA-DD-A4NS"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	"normal"	0.2
+"TCGA-HP-A5N0"	"not reported"	"Liver"	"Hepatocellular carcinoma, clear cell type"	"no"	NA	NA	"not reported"	"female"	90	"overweight"	0.64
+"TCGA-DD-A73D"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.98
+"TCGA-2Y-A9H4"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	68	"normal"	0.81
+"TCGA-KR-A7K8"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	57	"obesity"	0.5
+"TCGA-T1-A6J8"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	68	NA	0.8
+"TCGA-G3-A7M7"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	65	"normal"	0.58
+"TCGA-BC-A110"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	51	"obesity"	0.67
+"TCGA-ED-A4XI"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"normal"	0.3
+"TCGA-DD-A39X"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	78	"normal"	0.6
+"TCGA-5R-AA1C"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.85
+"TCGA-BC-A10T"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	76	NA	0.7
+"TCGA-EP-A3RK"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	"obesity"	0.44
+"TCGA-BD-A3ER"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	62	"obesity"	0.55
+"TCGA-ZS-A9CD"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	NA	0.59
+"TCGA-DD-A39W"	"stage iii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	29	"normal"	0.86
+"TCGA-5R-AAAM"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"obesity"	0.6
+"TCGA-CC-A7II"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	54	NA	0.56
+"TCGA-2Y-A9GZ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	82	"normal"	0.78
+"TCGA-G3-AAUZ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	48	"obesity"	0.8
+"TCGA-RC-A6M5"	"stage iva"	"Liver"	"Hepatocellular carcinoma, fibrolamellar"	"no"	NA	NA	"white"	"female"	20	NA	0.25
+"TCGA-CC-5263"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	35	"normal"	0.77
+"TCGA-DD-AACH"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	69	"normal"	0.87
+"TCGA-G3-AAV1"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"obesity"	0.74
+"TCGA-DD-AADS"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	63	"normal"	0.68
+"TCGA-ES-A2HT"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	54	"overweight"	0.22
+"TCGA-EP-A2KC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	62	NA	0.77
+"TCGA-CC-A1HT"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.21
+"TCGA-RC-A6M4"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	NA	0.86
+"TCGA-DD-AAEE"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	55	"normal"	0.87
+"TCGA-DD-AAE4"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	49	"overweight"	0.79
+"TCGA-CC-5259"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	60	"normal"	NA
+"TCGA-FV-A3R3"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"obesity"	0.35
+"TCGA-CC-A3MB"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	36	"normal"	0.59
+"TCGA-DD-A73E"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	"obesity"	0.82
+"TCGA-G3-A3CH"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	53	"normal"	0.68
+"TCGA-DD-AAEA"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"asian"	"male"	65	"normal"	0.68
+"TCGA-DD-AACG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	52	"normal"	0.77
+"TCGA-DD-A4NJ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"obesity"	NA
+"TCGA-DD-AADB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"normal"	0.64
+"TCGA-DD-A11D"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"overweight"	0.79
+"TCGA-ED-A7PY"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	20	NA	0.82
+"TCGA-UB-AA0V"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	69	"normal"	0.32
+"TCGA-DD-AACN"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	32	"normal"	0.6
+"TCGA-G3-A25Z"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"normal"	0.8
+"TCGA-2Y-A9GV"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	54	"obesity"	0.64
+"TCGA-G3-AAV6"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"overweight"	0.77
+"TCGA-2Y-A9H0"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	49	"overweight"	0.86
+"TCGA-2Y-A9H5"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"overweight"	0.74
+"TCGA-K7-AAU7"	"stage ii"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"white"	"male"	61	NA	0.53
+"TCGA-CC-5262"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	67	"normal"	0.39
+"TCGA-DD-AACE"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	62	"normal"	0.75
+"TCGA-DD-AACY"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.85
+"TCGA-UB-A7MA"	"stage ii"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	62	"obesity"	0.73
+"TCGA-BD-A3EP"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	75	"overweight"	0.26
+"TCGA-CC-A9FU"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	52	"normal"	0.86
+"TCGA-2Y-A9HB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	66	"overweight"	0.69
+"TCGA-BC-A69H"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"normal"	0.66
+"TCGA-DD-AADN"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.55
+"TCGA-FV-A4ZQ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	52	NA	0.64
+"TCGA-RC-A6M6"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	NA	0.77
+"TCGA-DD-A3A1"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	65	"normal"	0.73
+"TCGA-DD-A4NG"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"obesity"	NA
+"TCGA-BW-A5NP"	"stage iv"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	26	NA	NA
+"TCGA-DD-A39Z"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	43	"normal"	0.84
+"TCGA-DD-AAC9"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	51	"overweight"	0.55
+"TCGA-EP-A2KB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	46	"overweight"	0.91
+"TCGA-DD-AAEB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	60	"overweight"	0.82
+"TCGA-FV-A23B"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	70	NA	0.86
+"TCGA-G3-AAV7"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	38	"normal"	0.65
+"TCGA-DD-AA3A"	"stage i"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	81	"overweight"	0.82
+"TCGA-K7-A5RG"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	66	"obesity"	1.0
+"TCGA-GJ-A9DB"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"overweight"	0.53
+"TCGA-DD-A1EF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"obesity"	0.45
+"TCGA-DD-A4NB"	"stage i"	"Liver"	"Hepatocellular carcinoma, fibrolamellar"	"no"	NA	NA	"white"	"male"	25	"normal"	0.92
+"TCGA-DD-A4NR"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	85	"obesity"	0.35
+"TCGA-BC-A10Y"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	76	"overweight"	0.92
+"TCGA-G3-A5SJ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.68
+"TCGA-ED-A97K"	"stage iiia"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"asian"	"male"	54	"normal"	0.38
+"TCGA-G3-A5SM"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.46
+"TCGA-G3-A3CG"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	80	"obesity"	0.36
+"TCGA-O8-A75V"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	54	"overweight"	0.54
+"TCGA-ZS-A9CG"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	55	"overweight"	0.75
+"TCGA-CC-A7IF"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.76
+"TCGA-ZP-A9D2"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"overweight"	0.69
+"TCGA-DD-A1EH"	"stage iii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	23	"normal"	0.87
+"TCGA-DD-AAE0"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	45	"normal"	0.67
+"TCGA-ZP-A9D0"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	67	"overweight"	0.79
+"TCGA-5R-AA1D"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	17	"normal"	0.35
+"TCGA-CC-A5UD"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	45	"normal"	0.85
+"TCGA-CC-A3MC"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	54	"normal"	0.64
+"TCGA-DD-A4NQ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.41
+"TCGA-DD-AAW1"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	55	"normal"	0.83
+"TCGA-DD-AACP"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	64	"overweight"	0.84
+"TCGA-5C-A9VH"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"overweight"	0.8
+"TCGA-DD-AAD5"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	54	"normal"	0.57
+"TCGA-DD-A115"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.66
+"TCGA-ED-A7XP"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	53	"normal"	0.73
+"TCGA-DD-A114"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	42	"normal"	0.33
+"TCGA-DD-AACU"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	59	"normal"	0.67
+"TCGA-PD-A5DF"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	58	"overweight"	0.73
+"TCGA-DD-A1EG"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	76	"overweight"	0.33
+"TCGA-G3-A7M9"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	70	"overweight"	0.56
+"TCGA-CC-5258"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	NA	0.54
+"TCGA-DD-AADM"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"normal"	0.79
+"TCGA-RC-A6M3"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"male"	24	NA	0.54
+"TCGA-BC-A10R"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	NA	0.6
+"TCGA-CC-A7IH"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	NA	0.88
+"TCGA-CC-A9FV"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	57	"normal"	1.0
+"TCGA-DD-AAVY"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	56	"normal"	1.0
+"TCGA-CC-A7IL"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.93
+"TCGA-DD-AAVR"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	44	"overweight"	0.5
+"TCGA-XR-A8TE"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	16	NA	0.73
+"TCGA-DD-A3A9"	"stage ivb"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.49
+"TCGA-DD-A119"	"stage iv"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	40	"normal"	0.75
+"TCGA-BC-A10Z"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	62	NA	0.95
+"TCGA-DD-AACQ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.94
+"TCGA-DD-AACZ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	63	"normal"	0.47
+"TCGA-QA-A7B7"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	48	"obesity"	0.86
+"TCGA-G3-A25W"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	79	"normal"	0.43
+"TCGA-DD-AAVW"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	35	"normal"	0.57
+"TCGA-DD-A3A7"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	67	"normal"	0.82
+"TCGA-WX-AA44"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"overweight"	0.64
+"TCGA-DD-A3A4"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	37	NA	0.76
+"TCGA-GJ-A6C0"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.77
+"TCGA-ZS-A9CE"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"female"	79	NA	0.77
+"TCGA-BC-4072"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	74	NA	NA
+"TCGA-WQ-A9G7"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	"overweight"	0.42
+"TCGA-UB-A7MF"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	56	"normal"	0.63
+"TCGA-ZP-A9CY"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"obesity"	0.73
+"TCGA-DD-AAW3"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	69	"normal"	0.86
+"TCGA-DD-AADE"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	50	"normal"	0.75
+"TCGA-ED-A82E"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	60	"normal"	0.71
+"TCGA-DD-AACW"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	43	"normal"	0.9
+"TCGA-ZS-A9CF"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	NA	0.93
+"TCGA-BC-A10Q"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	72	NA	0.72
+"TCGA-WJ-A86L"	"stage i"	"Liver"	"Clear cell adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"normal"	0.94
+"TCGA-ED-A7PZ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.85
+"TCGA-BD-A2L6"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"obesity"	0.86
+"TCGA-BC-A10S"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	81	NA	0.22
+"TCGA-DD-A73C"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	"normal"	0.7
+"TCGA-G3-A5SK"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"normal"	NA
+"TCGA-YA-A8S7"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	68	"overweight"	0.36
+"TCGA-DD-AAVV"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	56	"overweight"	0.34
+"TCGA-CC-A3MA"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	61	"normal"	0.81
+"TCGA-DD-A4NP"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	32	"overweight"	0.69
+"TCGA-2Y-A9H1"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.73
+"TCGA-FV-A3R2"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	75	NA	0.79
+"TCGA-FV-A496"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	84	"normal"	0.86
+"TCGA-2Y-A9GY"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.52
+"TCGA-CC-A7IE"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	57	"normal"	0.43
+"TCGA-DD-A73A"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"obesity"	0.69
+"TCGA-FV-A495"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"normal"	0.56
+"TCGA-ZP-A9D4"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"normal"	0.87
+"TCGA-HP-A5MZ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	78	"normal"	0.94
+"TCGA-CC-A7IJ"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	56	"normal"	0.51
+"TCGA-DD-AACX"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	66	"normal"	0.91
+"TCGA-FV-A2QQ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	80	NA	0.66
+"TCGA-DD-AACF"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	68	"normal"	0.9
+"TCGA-ED-A66X"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	35	"normal"	0.45
+"TCGA-G3-AAV4"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"normal"	0.87
+"TCGA-FV-A3I0"	"stage ii"	"Liver"	"Combined hepatocellular carcinoma and cholangiocarcinoma"	"no"	NA	NA	"white"	"female"	76	NA	0.75
+"TCGA-2Y-A9GS"	"not reported"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.71
+"TCGA-2Y-A9GT"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"obesity"	0.55
+"TCGA-ED-A459"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	47	NA	0.52
+"TCGA-DD-A73F"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	"overweight"	0.68
+"TCGA-DD-A1E9"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"obesity"	0.48
+"TCGA-MI-A75E"	"stage iiic"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.54
+"TCGA-DD-AAEI"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	72	"overweight"	0.75
+"TCGA-BC-A69I"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.79
+"TCGA-CC-A3M9"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, spindle cell variant"	"no"	NA	NA	"asian"	"male"	45	"normal"	0.3
+"TCGA-LG-A9QC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	48	"overweight"	0.8
+"TCGA-RC-A7SB"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	53	"normal"	0.8
+"TCGA-DD-AAVZ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	38	"normal"	0.79
+"TCGA-DD-A73G"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	73	NA	0.58
+"TCGA-DD-AADC"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	53	"overweight"	0.71
+"TCGA-DD-A1EK"	"stage ivb"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	64	"obesity"	0.81
+"TCGA-DD-AADL"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	58	"normal"	0.75
+"TCGA-DD-AAW0"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	54	"overweight"	0.49
+"TCGA-BW-A5NQ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	63	NA	0.37
+"TCGA-2Y-A9HA"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	"normal"	0.79
+"TCGA-CC-A5UE"	"stage iiib"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	"normal"	0.66
+"TCGA-DD-A3A8"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"yes"	NA	NA	"white"	"male"	75	"obesity"	0.79
+"TCGA-BC-A10X"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	NA	0.5
+"TCGA-DD-A113"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	55	"normal"	0.7
+"TCGA-DD-AADJ"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"female"	70	"normal"	0.86
+"TCGA-DD-AAVP"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	48	"normal"	0.81
+"TCGA-EP-A2KA"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"female"	52	NA	0.62
+"TCGA-MI-A75C"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.77
+"TCGA-2Y-A9H3"	"stage ii"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	45	"obesity"	0.35
+"TCGA-CC-A5UC"	"stage iiia"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"asian"	"male"	63	"normal"	0.29
+"TCGA-EP-A26S"	"stage i"	"Liver"	"Hepatocellular carcinoma, NOS"	"no"	NA	NA	"white"	"male"	70	NA	0.98

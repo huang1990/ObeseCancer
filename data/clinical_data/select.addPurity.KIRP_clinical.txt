@@ -1,0 +1,292 @@
+"submitter_id"	"tumor_stage"	"tissue_or_organ_of_origin"	"primary_diagnosis"	"prior_malignancy"	"cigarettes_per_day"	"alcohol_intensity"	"race"	"gender"	"age_at_index"	"type"	"Purity"
+"TCGA-B9-7268"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.164383561643836	NA	"white"	"male"	59	"overweight"	0.93
+"TCGA-B1-A655"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	77	NA	0.67
+"TCGA-BQ-7045"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	78	"overweight"	0.68
+"TCGA-2Z-A9J3"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	"overweight"	0.9
+"TCGA-UZ-A9PP"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"overweight"	0.84
+"TCGA-UZ-A9PS"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"black or african american"	"female"	62	"obesity"	0.83
+"TCGA-Y8-A895"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	74	"obesity"	0.81
+"TCGA-DW-5561"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	1.97260273972603	NA	"black or african american"	"male"	51	"obesity"	0.88
+"TCGA-2Z-A9J9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	77	"normal"	0.67
+"TCGA-SX-A7SM"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"black or african american"	"male"	60	"overweight"	0.78
+"TCGA-BQ-5887"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.45
+"TCGA-BQ-5893"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"obesity"	0.8
+"TCGA-Y8-A897"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	68	"obesity"	0.7
+"TCGA-SX-A71V"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	80	"overweight"	0.72
+"TCGA-B9-4113"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	64	NA	0.7
+"TCGA-5P-A9K0"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	"overweight"	0.79
+"TCGA-PJ-A8JU"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	0.273972602739726	NA	"white"	"female"	81	NA	NA
+"TCGA-A4-8311"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	NA	0.88
+"TCGA-HE-7129"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	NA	NA	0.98
+"TCGA-B9-4115"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"black or african american"	"male"	53	"obesity"	0.74
+"TCGA-MH-A854"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"black or african american"	"female"	62	"normal"	0.85
+"TCGA-5P-A9K3"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	59	"overweight"	0.76
+"TCGA-A4-A5DU"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	45	NA	0.9
+"TCGA-IA-A40Y"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.78
+"TCGA-DW-7834"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	4.38356164383562	NA	"white"	"male"	53	"overweight"	0.65
+"TCGA-2Z-A9JL"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	47	"overweight"	0.78
+"TCGA-2Z-A9JS"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	74	"obesity"	0.85
+"TCGA-BQ-5891"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	57	"normal"	0.94
+"TCGA-BQ-5879"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	32	"obesity"	0.75
+"TCGA-AL-3473"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	55	"overweight"	0.32
+"TCGA-UZ-A9PQ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	59	NA	NA
+"TCGA-B1-A47O"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	54	NA	0.85
+"TCGA-BQ-5889"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"overweight"	0.57
+"TCGA-B9-A8YH"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	52	"normal"	0.78
+"TCGA-B3-3925"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	52	NA	0.72
+"TCGA-UZ-A9PM"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	62	NA	0.53
+"TCGA-GL-A9DE"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	74	NA	0.88
+"TCGA-B9-A5W9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	40	"overweight"	0.88
+"TCGA-A4-A5XZ"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	65	NA	0.71
+"TCGA-GL-7966"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	28	"obesity"	0.78
+"TCGA-2Z-A9JI"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.26027397260274	NA	"white"	"male"	38	"overweight"	0.43
+"TCGA-SX-A7SR"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	66	"obesity"	0.71
+"TCGA-UZ-A9PN"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"overweight"	0.52
+"TCGA-B9-4114"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"black or african american"	"male"	49	"normal"	0.65
+"TCGA-A4-7583"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	60	NA	0.76
+"TCGA-2Z-A9J5"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.75342465753425	NA	"white"	"male"	80	"obesity"	0.59
+"TCGA-GL-8500"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"obesity"	0.9
+"TCGA-UZ-A9PL"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	59	NA	0.86
+"TCGA-5P-A9K2"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	"overweight"	0.83
+"TCGA-J7-A8I2"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"male"	75	"normal"	0.99
+"TCGA-UZ-A9PV"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	65	"obesity"	0.91
+"TCGA-A4-A4ZT"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	71	NA	0.82
+"TCGA-G7-7502"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	83	"overweight"	0.56
+"TCGA-DW-7836"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	55	"overweight"	0.92
+"TCGA-AL-3468"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	74	NA	0.89
+"TCGA-DW-7842"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	52	"overweight"	1.0
+"TCGA-A4-7997"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	NA	0.71
+"TCGA-A4-8630"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	NA	0.87
+"TCGA-B1-7332"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	60	NA	0.74
+"TCGA-B3-4104"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	NA	0.94
+"TCGA-BQ-7060"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"male"	53	"overweight"	0.69
+"TCGA-B9-4117"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"black or african american"	"female"	48	"obesity"	0.48
+"TCGA-P4-A5E7"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.31506849315068	NA	"white"	"female"	74	"overweight"	0.71
+"TCGA-DW-7838"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	2.46575342465753	NA	"white"	"male"	66	"overweight"	0.39
+"TCGA-IA-A40U"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"male"	56	"overweight"	0.78
+"TCGA-UZ-A9PR"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	1.53424657534247	NA	"white"	"male"	84	"overweight"	0.89
+"TCGA-BQ-7048"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.8
+"TCGA-5P-A9KH"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"overweight"	0.85
+"TCGA-HE-A5NI"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"not reported"	"male"	73	NA	1.0
+"TCGA-4A-A93X"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.87
+"TCGA-IA-A83V"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	63	"normal"	0.49
+"TCGA-IZ-A6M9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"normal"	0.81
+"TCGA-GL-7773"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.86301369863014	NA	"white"	"male"	63	"obesity"	0.79
+"TCGA-P4-AAVM"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"obesity"	0.84
+"TCGA-BQ-7056"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	75	"obesity"	0.83
+"TCGA-2Z-A9JD"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	2.19178082191781	NA	"white"	"male"	66	"obesity"	0.78
+"TCGA-SX-A7SQ"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	48	"overweight"	0.86
+"TCGA-MH-A857"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	63	"obesity"	0.6
+"TCGA-B9-4617"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	41	"obesity"	0.83
+"TCGA-B9-4116"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	75	"obesity"	0.82
+"TCGA-PJ-A5Z9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.36986301369863	NA	"white"	"female"	80	NA	0.88
+"TCGA-IA-A40X"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	49	"obesity"	0.83
+"TCGA-HE-A5NH"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	62	NA	0.84
+"TCGA-A4-7732"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	55	NA	0.89
+"TCGA-UZ-A9PJ"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	78	"overweight"	0.94
+"TCGA-A4-7996"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	61	NA	0.67
+"TCGA-SX-A71U"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"male"	57	"obesity"	0.65
+"TCGA-2Z-A9J7"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.36986301369863	NA	"white"	"male"	63	"normal"	0.94
+"TCGA-5P-A9K6"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.64
+"TCGA-5P-A9JW"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.64
+"TCGA-2Z-A9JR"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.68
+"TCGA-P4-AAVK"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"obesity"	0.75
+"TCGA-KV-A74V"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	40	"overweight"	0.83
+"TCGA-GL-6846"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	52	"obesity"	0.89
+"TCGA-UZ-A9Q0"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	NA	0.86
+"TCGA-2Z-A9JN"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"black or african american"	"female"	50	"obesity"	0.67
+"TCGA-MH-A855"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"female"	52	"overweight"	0.64
+"TCGA-O9-A75Z"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	44	"obesity"	0.78
+"TCGA-AL-3466"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"male"	41	"normal"	0.64
+"TCGA-A4-8515"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"american indian or alaska native"	"male"	47	NA	0.92
+"TCGA-GL-A4EM"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"overweight"	0.36
+"TCGA-B3-8121"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	48	NA	0.41
+"TCGA-G7-6795"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	56	"obesity"	0.7
+"TCGA-A4-8310"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	58	NA	0.82
+"TCGA-5P-A9KE"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	70	"overweight"	0.6
+"TCGA-G7-6793"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"female"	60	"normal"	0.62
+"TCGA-A4-7585"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	67	NA	0.39
+"TCGA-V9-A7HT"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	67	"normal"	0.43
+"TCGA-SX-A71W"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	0.767123287671233	NA	"white"	"male"	66	"overweight"	NA
+"TCGA-F9-A7VF"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	"obesity"	0.85
+"TCGA-G7-A4TM"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	40	"obesity"	0.83
+"TCGA-Q2-A5QZ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"black or african american"	"female"	61	"obesity"	0.7
+"TCGA-UN-AAZ9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	76	"obesity"	0.91
+"TCGA-EV-5901"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	47	"normal"	0.78
+"TCGA-UZ-A9PZ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	65	"obesity"	0.75
+"TCGA-B9-A5W8"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	50	"obesity"	0.55
+"TCGA-SX-A7SO"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"obesity"	0.89
+"TCGA-2K-A9WE"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"overweight"	0.22
+"TCGA-B3-4103"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	56	NA	0.76
+"TCGA-B1-5398"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	NA	0.36
+"TCGA-BQ-5886"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	75	"overweight"	0.65
+"TCGA-J7-6720"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"male"	42	NA	0.71
+"TCGA-Y8-A8S1"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"normal"	0.28
+"TCGA-J7-8537"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	37	NA	0.4
+"TCGA-BQ-5877"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	60	"obesity"	0.72
+"TCGA-5P-A9JV"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	49	"normal"	0.48
+"TCGA-AL-3467"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"overweight"	0.67
+"TCGA-BQ-7050"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"normal"	0.32
+"TCGA-P4-AAVL"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	85	"overweight"	0.9
+"TCGA-BQ-7059"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"obesity"	0.49
+"TCGA-G7-7501"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.931506849315068	NA	"black or african american"	"female"	55	"normal"	0.88
+"TCGA-A4-7915"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	35	NA	0.68
+"TCGA-A4-8312"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	60	NA	0.91
+"TCGA-B9-A8YI"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	79	"overweight"	0.76
+"TCGA-HE-7130"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"female"	NA	NA	0.77
+"TCGA-KV-A6GE"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	65	"overweight"	0.73
+"TCGA-B9-5156"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"overweight"	0.65
+"TCGA-HE-A5NK"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.91780821917808	NA	"not reported"	"male"	82	"normal"	0.71
+"TCGA-A4-8518"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	48	NA	0.88
+"TCGA-DZ-6134"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	69	NA	0.45
+"TCGA-G7-6797"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	46	"obesity"	0.95
+"TCGA-MH-A560"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	"overweight"	0.75
+"TCGA-BQ-7051"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	"obesity"	0.99
+"TCGA-F9-A97G"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"asian"	"male"	79	NA	0.47
+"TCGA-DZ-6132"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	69	NA	0.41
+"TCGA-G7-6790"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"obesity"	0.7
+"TCGA-AT-A5NU"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	NA	0.82
+"TCGA-A4-A48D"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"black or african american"	"male"	84	NA	0.93
+"TCGA-WN-A9G9"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"white"	"male"	55	"obesity"	0.23
+"TCGA-P4-A5EB"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.986301369863014	NA	"white"	"male"	83	"normal"	0.8
+"TCGA-IA-A83W"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	70	NA	0.71
+"TCGA-AL-A5DJ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	54	"normal"	0.66
+"TCGA-5P-A9JU"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	0.328767123287671	NA	"white"	"male"	81	"normal"	0.82
+"TCGA-5P-A9KA"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"normal"	0.62
+"TCGA-BQ-5875"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"normal"	0.66
+"TCGA-A4-7584"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	59	NA	0.81
+"TCGA-GL-A9DD"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	69	NA	0.37
+"TCGA-HE-7128"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	NA	"obesity"	0.41
+"TCGA-A4-8098"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	73	NA	0.85
+"TCGA-UZ-A9PO"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	2.19178082191781	NA	"white"	"male"	80	"overweight"	0.6
+"TCGA-G7-A8LE"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.19178082191781	NA	"white"	"male"	62	NA	0.82
+"TCGA-Y8-A894"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.712328767123288	NA	"white"	"female"	57	"obesity"	0.99
+"TCGA-P4-A5E6"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	67	"overweight"	0.81
+"TCGA-A4-A57E"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	59	NA	0.83
+"TCGA-DW-7841"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	61	"obesity"	0.61
+"TCGA-2Z-A9JE"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	59	"overweight"	0.94
+"TCGA-B9-A5W7"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	47	"obesity"	0.8
+"TCGA-5P-A9JY"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	79	"overweight"	0.85
+"TCGA-2Z-A9J6"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	60	"obesity"	0.76
+"TCGA-P4-A5E8"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	NA	0.78
+"TCGA-BQ-7049"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	45	"obesity"	0.4
+"TCGA-AL-7173"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"female"	72	"normal"	0.56
+"TCGA-WN-AB4C"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	60	"obesity"	0.57
+"TCGA-AL-3472"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.438356164383562	NA	"black or african american"	"male"	57	"overweight"	0.89
+"TCGA-B9-A44B"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	0.821917808219178	NA	"black or african american"	"male"	70	"obesity"	0.8
+"TCGA-GL-A59R"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	79	"overweight"	1.0
+"TCGA-MH-A562"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	57	"normal"	0.74
+"TCGA-MH-A55W"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	50	"obesity"	0.77
+"TCGA-2Z-A9JG"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	"overweight"	0.85
+"TCGA-B3-A6W5"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	43	NA	0.79
+"TCGA-B1-A656"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	64	NA	0.59
+"TCGA-DZ-6131"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	31	NA	0.76
+"TCGA-G7-A8LC"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	61	"overweight"	0.83
+"TCGA-HE-A5NJ"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.383561643835616	NA	"not reported"	"male"	58	"obesity"	0.9
+"TCGA-A4-7288"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	71	NA	0.91
+"TCGA-B1-A654"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.547945205479452	NA	"black or african american"	"female"	43	NA	0.89
+"TCGA-DW-7837"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	43	"obesity"	0.7
+"TCGA-A4-7734"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	53	NA	0.84
+"TCGA-SX-A7SN"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	52	"overweight"	0.75
+"TCGA-4A-A93W"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.684931506849315	NA	"white"	"female"	66	"normal"	0.86
+"TCGA-BQ-5882"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	54	"obesity"	0.66
+"TCGA-2Z-A9JP"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"overweight"	0.78
+"TCGA-P4-AAVO"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"normal"	0.92
+"TCGA-BQ-5880"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	79	"overweight"	0.34
+"TCGA-BQ-5876"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	"obesity"	0.82
+"TCGA-B3-3926"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	NA	0.94
+"TCGA-G7-6792"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.15068493150685	NA	"black or african american"	"male"	40	"obesity"	0.79
+"TCGA-A4-8517"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	NA	0.8
+"TCGA-F9-A4JJ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	35	"normal"	0.74
+"TCGA-A4-8516"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	NA	0.86
+"TCGA-2Z-A9J2"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"female"	71	"normal"	0.59
+"TCGA-B9-5155"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	71	"overweight"	0.92
+"TCGA-Y8-A898"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	69	"overweight"	0.58
+"TCGA-EV-5903"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	57	"overweight"	0.62
+"TCGA-EV-5902"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"overweight"	1.0
+"TCGA-IZ-8195"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	82	"normal"	0.88
+"TCGA-5P-A9K4"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	"obesity"	0.82
+"TCGA-2Z-A9JQ"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	2.19178082191781	NA	"white"	"male"	66	"obesity"	0.82
+"TCGA-DW-7840"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	60	"overweight"	0.85
+"TCGA-G7-6796"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.43
+"TCGA-A4-A6HP"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	NA	0.69
+"TCGA-HE-A5NF"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	58	NA	0.38
+"TCGA-SX-A71S"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"female"	66	"overweight"	0.87
+"TCGA-Y8-A896"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	62	"overweight"	0.58
+"TCGA-5P-A9KF"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	53	"normal"	NA
+"TCGA-B1-A657"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	54	NA	0.62
+"TCGA-A4-A5Y1"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	75	NA	0.77
+"TCGA-BQ-5884"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	59	"normal"	0.53
+"TCGA-A4-7287"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	75	NA	0.59
+"TCGA-HE-A5NL"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	51	NA	0.66
+"TCGA-KV-A6GD"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	85	"overweight"	0.28
+"TCGA-IZ-8196"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	50	"overweight"	0.89
+"TCGA-BQ-5885"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	63	"obesity"	0.74
+"TCGA-2Z-A9JT"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	71	"overweight"	0.58
+"TCGA-BQ-5894"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	42	"obesity"	0.36
+"TCGA-BQ-5878"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	79	"normal"	0.94
+"TCGA-4A-A93Y"	"stage ii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.23287671232877	NA	"black or african american"	"female"	63	"overweight"	NA
+"TCGA-GL-A59T"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.273972602739726	NA	"white"	"male"	46	"normal"	0.71
+"TCGA-BQ-7053"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	57	"normal"	0.56
+"TCGA-SX-A7SU"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	47	"overweight"	0.95
+"TCGA-Y8-A8RZ"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.0958904109589	NA	"white"	"male"	55	"obesity"	0.8
+"TCGA-UZ-A9PU"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	77	"obesity"	0.84
+"TCGA-5P-A9KC"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"normal"	0.56
+"TCGA-2Z-A9J8"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	50	"overweight"	0.86
+"TCGA-BQ-7044"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	73	"overweight"	0.89
+"TCGA-2Z-A9JJ"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	69	"obesity"	0.8
+"TCGA-Y8-A8RY"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.64383561643836	NA	"white"	"male"	63	"overweight"	0.74
+"TCGA-2Z-A9J1"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"overweight"	0.73
+"TCGA-A4-A5Y0"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	6.57534246575342	NA	"white"	"female"	61	NA	0.95
+"TCGA-IA-A83S"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	3.56164383561644	NA	"white"	"male"	81	NA	0.5
+"TCGA-MH-A55Z"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	65	"overweight"	0.88
+"TCGA-F9-A8NY"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	38	NA	0.74
+"TCGA-A4-A7UZ"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	NA	0.51
+"TCGA-BQ-5892"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	51	"obesity"	0.61
+"TCGA-B1-A47N"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	62	NA	0.83
+"TCGA-F9-A7Q0"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"asian"	"female"	37	NA	0.87
+"TCGA-MH-A561"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	66	"overweight"	0.68
+"TCGA-UZ-A9PX"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	3.6986301369863	NA	"white"	"male"	73	"normal"	0.77
+"TCGA-5P-A9K9"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	59	"overweight"	0.78
+"TCGA-PJ-A5Z8"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	60	NA	0.45
+"TCGA-BQ-7062"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"male"	64	"obesity"	0.47
+"TCGA-A4-A772"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	39	NA	0.73
+"TCGA-DW-5560"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	38	"normal"	1.0
+"TCGA-BQ-7055"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	73	"normal"	0.82
+"TCGA-2Z-A9JM"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.876712328767123	NA	"white"	"male"	28	"normal"	0.65
+"TCGA-SX-A7SP"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	"overweight"	0.62
+"TCGA-2Z-A9JK"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	3.28767123287671	NA	"white"	"male"	50	"overweight"	0.48
+"TCGA-A4-7286"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	42	NA	0.61
+"TCGA-UZ-A9Q1"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	88	"normal"	0.84
+"TCGA-B9-A69E"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	10.1369863013699	NA	"white"	"male"	71	"obesity"	0.58
+"TCGA-BQ-5888"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	74	"overweight"	0.42
+"TCGA-IZ-A6M8"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	0.821917808219178	NA	"black or african american"	"male"	69	"overweight"	0.64
+"TCGA-A4-7828"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	74	NA	0.52
+"TCGA-B1-A47M"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"black or african american"	"male"	79	NA	0.96
+"TCGA-SX-A71R"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"overweight"	0.88
+"TCGA-G7-A8LB"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.52054794520548	NA	"white"	"male"	70	NA	0.92
+"TCGA-DZ-6133"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	NA	0.94
+"TCGA-SX-A7SL"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.46575342465753	NA	"not reported"	"male"	74	"overweight"	0.92
+"TCGA-G7-6789"	"stage iv"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	53	"obesity"	0.79
+"TCGA-5P-A9JZ"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"normal"	0.76
+"TCGA-G7-A8LD"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	1.53424657534247	NA	"white"	"male"	71	NA	0.9
+"TCGA-2Z-A9JO"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.616438356164384	NA	"black or african american"	"female"	56	"obesity"	0.63
+"TCGA-DZ-6135"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"not reported"	"male"	45	NA	0.85
+"TCGA-P4-A5EA"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	54	"overweight"	0.47
+"TCGA-P4-A5ED"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	51	"overweight"	0.63
+"TCGA-BQ-7061"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	83	"obesity"	0.79
+"TCGA-UZ-A9PK"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	71	"obesity"	0.74
+"TCGA-BQ-5883"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"black or african american"	"female"	79	"normal"	0.6
+"TCGA-Y8-A8S0"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	58	"obesity"	0.95
+"TCGA-BQ-5890"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.75
+"TCGA-AL-3471"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	74	NA	NA
+"TCGA-GL-A9DC"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	66	NA	0.84
+"TCGA-BQ-7058"	"stage iii"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	81	"normal"	0.83
+"TCGA-5P-A9K8"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"female"	51	"obesity"	0.8
+"TCGA-DW-7963"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.191780821917808	NA	"black or african american"	"male"	43	"obesity"	0.61
+"TCGA-IA-A83T"	"not reported"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	80	NA	0.48
+"TCGA-DW-7839"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"female"	58	"normal"	0.95
+"TCGA-BQ-5881"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	NA	NA	"white"	"male"	69	"overweight"	0.66
+"TCGA-MH-A856"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	0.821917808219178	NA	"white"	"male"	54	"normal"	0.79
+"TCGA-BQ-7046"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"yes"	NA	NA	"white"	"male"	61	"overweight"	0.66
+"TCGA-SX-A7SS"	"stage i"	"Kidney, NOS"	"Papillary adenocarcinoma, NOS"	"no"	2.73972602739726	NA	"white"	"male"	67	"obesity"	0.84
